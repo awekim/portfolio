@@ -1,22 +1,28 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+title: Main Page
+---
 
+<!DOCTYPE html>
+<html lang="en">
   {% include 2017_data/head.html %}
 
-    <body id="page-top" class="index">
-
+  <body id="page-top" class="index">
+  
     {% include 2017_data/header-home.html %}
 
     <!-- Header -->
     <header>
-        <div class="container">
-            <div class="intro-text">
-                <div class="intro-heading">Title<br></div>
-                <div class="intro-lead-in">Date</div>
-                <div class="intro-lead-in">Location</div>
-                <a href="#intro" class="page-scroll btn btn-xl">Tell Me More</a>
-            </div>
+      <div class="container">
+        <div class="intro-text">
+          <div class="intro-heading">
+            {{ site.data.event.title }}<br>
+          </div>
+          <div class="intro-lead-in">{{ site.data.event.date }}</div>
+          <div class="intro-lead-in">{{ site.data.event.location }}</div>
+          <a href="#intro" class="page-scroll btn btn-xl">Tell Me More</a>
         </div>
+      </div>
     </header>
 
     {% include 2017_data/intro.html %}
@@ -29,5 +35,5 @@
     {% include 2017_data/speakers_info.html %}
     {% include 2016_data/js.html %}
 
-    </body>
+  </body>
 </html>
