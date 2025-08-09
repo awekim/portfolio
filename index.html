@@ -39,14 +39,14 @@
   <!-- 고정 상단 네비 -->
   <header class="sticky top-0 z-50 backdrop-blur bg-white/70 dark:bg-zinc-900/60 border-b">
     <div class="mx-auto max-w-6xl px-4 py-3 flex items-center justify-between">
-      <a href="#top" class="font-semibold tracking-tight">Social science and Applied Artificial Intelligence (SAAI) Lab</a>
+      <a href="#top" class="font-semibold tracking-tight">교수 홈페이지</a>
       <nav class="hidden md:flex gap-6 text-sm">
-        <a href="#about" class="hover:text-brand">About</a>
-        <a href="#research" class="hover:text-brand">Project</a>
-        <a href="#publications" class="hover:text-brand">Publication</a>
-        <a href="#lab" class="hover:text-brand">Lab</a>
-        <a href="#teaching" class="hover:text-brand">Lecture</a>
-        <a href="#contact" class="hover:text-brand">Contact</a>
+        <a href="#about" class="hover:text-brand">소개</a>
+        <a href="#research" class="hover:text-brand">연구</a>
+        <a href="#publications" class="hover:text-brand">논문</a>
+        <a href="#lab" class="hover:text-brand">연구실</a>
+        <a href="#teaching" class="hover:text-brand">강의</a>
+        <a href="#contact" class="hover:text-brand">연락처</a>
       </nav>
       <div class="flex items-center gap-2">
         <button id="themeToggle" class="btn" aria-label="테마 전환">
@@ -56,7 +56,6 @@
         <button id="mobileMenuBtn" class="md:hidden btn" aria-label="메뉴 열기">메뉴</button>
       </div>
     </div>
-    <!--
     <div id="mobileMenu" class="md:hidden hidden border-t">
       <nav class="mx-auto max-w-6xl px-4 py-3 grid gap-2 text-sm">
         <a href="#about" class="hover:text-brand">소개</a>
@@ -67,14 +66,13 @@
         <a href="#contact" class="hover:text-brand">연락처</a>
       </nav>
     </div>
-    -->
   </header>
 
   <!-- 히어로 -->
   <section id="top" class="relative">
     <div class="mx-auto max-w-6xl px-4 pt-10 pb-8 grid md:grid-cols-[1fr,320px] gap-8 items-center">
       <div>
-        <h1 class="text-3xl md:text-4xl font-extrabold tracking-tight">Keungoui Kim</h1>
+        <h1 class="text-3xl md:text-4xl font-extrabold tracking-tight">Keungoui Kim (김경외)</h1>
         <p class="mt-2 text-zinc-600 dark:text-zinc-300">
           Assistant Professor <br> 
           Science, Technology, and Policy (STP), Humanities, Arts, and Social Sciences Division (HASSD)<br>
@@ -87,9 +85,9 @@
           <a class="btn" href="#lab" aria-label="연구실 보기">SAAI Lab</a>
           <a class="btn" href="#contact" aria-label="연락처">Contact</a>
         </div>
-        -->  
+        -->
         <div class="mt-6 prose prose-zinc dark:prose-invert">
-          <p>"But by the grace of God I am what I am, and his grace to me was not without effect. No, I worked harder than all of them—yet not I, but the grace of God that was with me." <br>1 Corinthians 15:10</p>
+          <p>"But by the grace of God I am what I am, and his grace to me was not without effect. No, I worked harder than all of them—yet not I, but the grace of God that was with me." 1 Corinthians 15:10</p>
         </div>
         <div class="mt-4 flex flex-wrap gap-2">
           <span class="chip"><b>Computational Social Science</b></span>
@@ -110,11 +108,10 @@
   </section>
 
   <!-- 소개 / 업데이트 -->
-  <!--
   <section id="about" class="py-8">
     <div class="mx-auto max-w-6xl px-4 grid md:grid-cols-3 gap-6">
       <div class="md:col-span-2 card p-6">
-        <h2 class="text-xl font-semibold">Brief Introduction</h2>
+        <h2 class="text-xl font-semibold">Social science Applied Artificial Intelligence (SAAI) Lab</h2>
         <p class="mt-2 text-zinc-600 dark:text-zinc-300">
           The Social science and Applied Artificial Intelligence (SAAI) lab focuses on diverse researches with the theoretical 
           foundation of social science and advanced computational approaches integrating statistics and applied artificial intelligence techniques.<br>
@@ -127,7 +124,6 @@
       </div>
     </div>
   </section>
-  -->
 
   <!-- 논문 -->
   <section id="publications" class="py-8">
@@ -137,7 +133,7 @@
         <div class="flex items-center gap-2">
           <input id="pubSearch" type="search" placeholder="Title/Author/Keyword search" class="border rounded-xl px-3 py-2 text-sm w-56" />
           <select id="pubYear" class="border rounded-xl px-3 py-2 text-sm">
-            <option value="all">Years</option>
+            <option value="all">All years</option>
           </select>
         </div>
       </div>
@@ -145,9 +141,9 @@
       <div class="mt-4 flex flex-wrap gap-2" id="pubTabs">
         <button class="btn" data-type="all">All</button>
         <button class="btn" data-type="journal">Journal</button>
-        <button class="btn" data-type="working">작업중/워킹페이퍼</button>
-        <button class="btn" data-type="conference">학회/발표</button>
-        <button class="btn" data-type="report">보고서</button>
+        <button class="btn" data-type="working">Working Paper</button>
+        <button class="btn" data-type="conference">Conference</button>
+        <button class="btn" data-type="report">Report</button>
         <button class="btn" id="downloadBib">Export (BibTeX)</button>
       </div>
 
@@ -179,22 +175,21 @@
     </div>
   </section>
 
-  <!-- 연구실 -->
-  
-  <section id="lab" class="py-8">
-    <div class="mx-auto max-w-6xl px-4">
-      <h2 class="text-xl font-semibold">연구실 (AI·혁신정책 연구그룹)</h2>
-      <p class="mt-2 text-zinc-600 dark:text-zinc-300">학부/대학원생 연구 참여 환영합니다. 관심 주제: 생성형 AI와 생산성, 과학계량, 네트워크 분석.</p>
-      <div class="mt-4 grid sm:grid-cols-2 lg:grid-cols-3 gap-4" id="labGrid"></div>
-    </div>
-  </section>
-  
-
-  <!-- 강의 -->
+  <!-- 강의 (COURSES 사용) -->
   <section id="teaching" class="py-8">
     <div class="mx-auto max-w-6xl px-4">
-      <h2 class="text-xl font-semibold">Lecture</h2>
+      <h2 class="text-xl font-semibold">강의</h2>
       <div class="mt-4 grid md:grid-cols-2 gap-4" id="courseGrid"></div>
+    </div>
+  </section>
+
+  
+  <!-- 연구실 -->
+  <section id="lab" class="py-8">
+    <div class="mx-auto max-w-6xl px-4">
+      <h2 class="text-xl font-semibold">SAAI Lab</h2>
+      <p class="mt-2 text-zinc-600 dark:text-zinc-300">-</p>
+      <div class="mt-4 grid sm:grid-cols-2 lg:grid-cols-3 gap-4" id="labGrid"></div>
     </div>
   </section>
 
@@ -229,10 +224,10 @@
     affiliation: 'Yonsei University',
     email: 'awekim@yonsei.ac.kr',
     links: {
-      Google Scholar: 'https://scholar.google.com/citations?user=xax349oAAAAJ&hl=ko',
-      Linked-In: 'https://www.linkedin.com/in/keungoui-kim-b8a731193/',
-      GitHub: 'https://github.com/awekim',
-      CV: 'Keungoui Kim CV_git.pdf'
+      scholar: 'https://scholar.google.com/citations?user=XXXXXXXX',
+      orcid: 'https://orcid.org/0000-0000-0000-0000',
+      github: 'https://github.com/USERNAME',
+      cv: 'CV.pdf'
     }
   }
 
@@ -243,22 +238,20 @@
   ]
 
   const LAB_MEMBERS = [
-    { name: '홍길동', role: 'PI', email: PROFILE.email },
-    { name: '김학생', role: '박사과정', email: 'phd@yonsei.ac.kr' },
-    { name: '이학생', role: '석사과정', email: 'ms@yonsei.ac.kr' },
-    { name: '박학생', role: '학부연구생', email: 'ug@yonsei.ac.kr' },
+  //  { name: '홍길동', role: 'PI', email: PROFILE.email },
+  //  { name: '김학생', role: '박사과정', email: 'phd@yonsei.ac.kr' },
+  //  { name: '이학생', role: '석사과정', email: 'ms@yonsei.ac.kr' },
+  //  { name: '박학생', role: '학부연구생', email: 'ug@yonsei.ac.kr' },
   ]
 
+  // === COURSES (여기에 추가/수정만 하면 화면 반영) ===
   const COURSES = [
-    { term: 'Spring & Autumn', code: 'STP1001', name: 'Introduction to Science, Technology, and Policy', link: '#', 
-      desc: '-' },
-    { term: 'Spring', code: 'STP3013', name: 'Computational Policy and Project Analysis (CPPA)', link: '#', 
-      desc: '-' },
-    { term: 'Autumn', code: 'STP2004', name: 'The Rise of Modern Science', link: '#', 
-      desc: '-'}
+    { term: 'Spring & Autumn', code: 'STP1001', name: 'Introduction to Science, Technology, and Policy', link: '#', desc: '-' },
+    { term: 'Spring', code: 'STP3013', name: 'Computational Policy and Project Analysis (CPPA)', link: '#', desc: '-' },
+    { term: 'Autumn', code: 'STP2004', name: 'The Rise of Modern Science', link: '#', desc: '-' }
   ]
 
-  // ====== 데이터 로딩 (publication.json → publication.bib) ======
+  // ====== Publications 데이터 로딩 (publication.json → publication.bib) ======
   let ALL_PUBS = []
   let STATE = { type: 'all', q: '', year: 'all', limit: 5 } // 초기엔 5개만
 
@@ -325,6 +318,8 @@
         로컬 서버를 띄워 접속해주세요 (예: <code>python3 -m http.server 8000</code>).
       </li>`;
       console.warn('Running from file:// — fetch blocked by the browser. Serve via http://localhost instead.');
+      // 파일 직접 열어도 COURSES는 렌더 가능
+      renderCourses();
       return;
     }
     const errs = []
@@ -343,17 +338,18 @@
       console.error('데이터 로딩 실패:', errs)
       const list = document.getElementById('pubList')
       if(list) list.innerHTML = `<li class="text-sm text-red-600 dark:text-red-400">데이터를 불러오지 못했습니다. (시도: publication.json → publication.bib)<br>${errs.join(' | ')}</li>`
-      return
+    } else {
+      // 정렬 후 초기 5개만 보이게
+      ALL_PUBS.sort((a,b)=> (b.year||0) - (a.year||0))
+      populateYears()
+      renderPubs()
+      // 더 보기 버튼 표시
+      const hasMore = ALL_PUBS.length > STATE.limit
+      document.getElementById('showMore').classList.toggle('hidden', !hasMore)
     }
 
-    // 정렬 후 초기 5개만 보이게
-    ALL_PUBS.sort((a,b)=> (b.year||0) - (a.year||0))
-    populateYears()
-    renderPubs()
-
-    // 더 보기 버튼 표시 여부
-    const hasMore = ALL_PUBS.length > STATE.limit
-    document.getElementById('showMore').classList.toggle('hidden', !hasMore)
+    // COURSES는 항상 렌더
+    renderCourses()
   }
 
   // ====== 렌더링 ======
@@ -399,8 +395,10 @@
     })
   }
 
+  // === COURSES 렌더러 ===
   function renderCourses(){
-    const grid = document.getElementById('courseGrid'); grid.innerHTML = ''
+    const grid = document.getElementById('courseGrid'); if(!grid) return;
+    grid.innerHTML = ''
     COURSES.forEach(c=>{
       const el = document.createElement('div')
       el.className = 'card p-5'
@@ -411,7 +409,7 @@
             <div class="text-sm text-zinc-500">${c.term}</div>
             <p class="mt-2 text-sm">${c.desc ?? ''}</p>
           </div>
-          <a class="btn" href="${c.link}" target="_blank" rel="noopener">강의계획서</a>
+          ${c.link ? `<a class="btn" href="${c.link}" target="_blank" rel="noopener">강의계획서</a>` : ''}
         </div>`
       grid.appendChild(el)
     })
@@ -513,9 +511,9 @@
   }
 
   // 시작
-  function renderNewsLabCourses(){ renderNews(); renderLab(); renderCourses(); }
+  function renderNewsLab(){ renderNews(); renderLab(); }
   initProfile();
-  renderNewsLabCourses();
+  renderNewsLab();
   bindEvents();
   loadDataAndRender();
   </script>
