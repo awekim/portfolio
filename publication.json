@@ -7,29 +7,20 @@
     "venue": "R&D Management",
     "link": "https://doi.org/10.1111/radm.70005",
     "keywords": [
-      "and user experience",
-      "as innovation increasingly requires",
-      "both domains",
-      "design-",
-      "firms benefit from inventors",
-      "functionality with aesthetic design",
+      "design-technology integration",
       "interdisciplinary inventors",
       "inventive performance",
       "knowledge centrality",
       "patent analysis",
-      "patent quality",
-      "technology integration",
-      "the integration of technological",
-      "this study investigates dual-",
-      "who can operate across"
+      "patent quality"
     ],
-    "bibtex": "@article{Hur2025,\nauthor = {Hur, Jisoo and Kim, Keungoui},\ndoi = {10.1111/radm.70005},\nfile = {:Users/keungouikim/Desktop/Mendeley/Hur, Kim - 2025 - The Impact of Design and Technology Capability on Patent Quality Exploring the Role of Interdisciplinary Inventors an.pdf:pdf},\njournal = {R&D Management},\nkeywords = {and user experience,as innovation increasingly requires,both domains,design-,firms benefit from inventors,functionality with aesthetic design,interdisciplinary inventors,inventive performance,knowledge centrality,patent analysis,patent quality,technology integration,the integration of technological,this study investigates dual-,who can operate across},\npages = {1--14},\ntitle = {{The Impact of Design and Technology Capability on Patent Quality : Exploring the Role of Interdisciplinary Inventors and Their Technological Knowledge}},\nyear = {2025}\n}"
+    "bibtex": "@article{Hur2025,\nauthor = {Hur, Jisoo and Kim, Keungoui},\ndoi = {10.1111/radm.70005},\nfile = {:Users/keungouikim/Desktop/Mendeley/Hur, Kim - 2025 - The Impact of Design and Technology Capability on Patent Quality Exploring the Role of Interdisciplinary Inventors an.pdf:pdf},\njournal = {R&D Management},\nkeywords = {design-technology integration,interdisciplinary inventors,inventive performance,knowledge centrality,patent analysis,patent quality},\npages = {1--14},\ntitle = {{The Impact of Design and Technology Capability on Patent Quality : Exploring the Role of Interdisciplinary Inventors and Their Technological Knowledge}},\nyear = {2025}\n}"
   },
   {
     "type": "journal",
     "year": 2025,
     "title": "{Predicting Bicycle Demand at the Station Level by Incorporating Station-Specific Spatial Features in Graph Coutional Network Model}",
-    "authors": "Jonghyun C., Kyungtaek O., Seungmin J., Keungoui K.",
+    "authors": "Choi J., Oh K., Jang S., Kim K.",
     "venue": "디지털산업정보학회",
     "link": "",
     "keywords": [
@@ -39,7 +30,7 @@
       "shared-bicycle rental service",
       "spatial feature matrix"
     ],
-    "bibtex": "@article{Jonghyun2025,\nauthor = {Jonghyun, Choi and Kyungtaek, Oh and Seungmin, Jang and Keungoui, Kim},\nfile = {:Users/keungouikim/Desktop/Mendeley/Jonghyun et al. - 2025 - Predicting Bicycle Demand at the Station Level by Incorporating Station-Specific Spatial Features in Graph Cout.pdf:pdf},\njournal = {디지털산업정보학회},\nkeywords = {bicycle demand prediction,bicycle rental network,graph convolution network,shared-bicycle rental service,spatial feature matrix},\npages = {27--43},\ntitle = {{Predicting Bicycle Demand at the Station Level by Incorporating Station-Specific Spatial Features in Graph Coutional Network Model}},\nyear = {2025}\n}"
+    "bibtex": "@article{Jonghyun2025,\nauthor = {Choi, Jonghyun and Oh, Kyungtaek and Jang, Seungmin and Kim, Keungoui},\nfile = {:Users/keungouikim/Desktop/Mendeley/Jonghyun et al. - 2025 - Predicting Bicycle Demand at the Station Level by Incorporating Station-Specific Spatial Features in Graph Cout.pdf:pdf},\njournal = {디지털산업정보학회},\nkeywords = {bicycle demand prediction,bicycle rental network,graph convolution network,shared-bicycle rental service,spatial feature matrix},\npages = {27--43},\ntitle = {{Predicting Bicycle Demand at the Station Level by Incorporating Station-Specific Spatial Features in Graph Coutional Network Model}},\nyear = {2025}\n}"
   },
   {
     "type": "journal",
@@ -77,13 +68,14 @@
     "venue": "Industry and Innovation",
     "link": "https://doi.org/10.1080/13662716.2024.2385575",
     "keywords": [
-      "for shaping the emergence",
-      "of new regional technological",
-      "specialisations",
-      "technological collaborations are crucial",
-      "this article explores the"
+      "Innovation",
+      "Technological collaboration",
+      "inter-organisational networks",
+      "patent co-application",
+      "regional networks",
+      "regional technological specialisation"
     ],
-    "bibtex": "@article{Wanzenbock2024,\nauthor = {Wanzenb{\\\"{o}}ck, Iris and Rocchetta, Silvia and Kim, Keungoui and Kogler, Dieter F.},\ndoi = {10.1080/13662716.2024.2385575},\nfile = {:Users/keungouikim/Desktop/Mendeley/Wanzenb{\\\"{o}}ck et al. - 2024 - The emergence of new regional technological specialisations exploring the role of organisations and their t.pdf:pdf},\nissn = {1366-2716},\njournal = {Industry and Innovation},\nkeywords = {for shaping the emergence,of new regional technological,specialisations,technological collaborations are crucial,this article explores the},\nnumber = {00},\npages = {1--27},\npublisher = {Routledge},\ntitle = {{The emergence of new regional technological specialisations : exploring the role of organisations and their technological network structure}},\nurl = {https://doi.org/10.1080/13662716.2024.2385575},\nvolume = {00},\nyear = {2024}\n}"
+    "bibtex": "@article{Wanzenbock2024,\nauthor = {Wanzenb{\\\"{o}}ck, Iris and Rocchetta, Silvia and Kim, Keungoui and Kogler, Dieter F.},\ndoi = {10.1080/13662716.2024.2385575},\nfile = {:Users/keungouikim/Desktop/Mendeley/Wanzenb{\\\"{o}}ck et al. - 2024 - The emergence of new regional technological specialisations exploring the role of organisations and their t.pdf:pdf},\nissn = {1366-2716},\njournal = {Industry and Innovation},\nkeywords = {Innovation,Technological collaboration,inter-organisational networks,patent co-application,regional networks,regional technological specialisation},\nnumber = {00},\npages = {1--27},\npublisher = {Routledge},\ntitle = {{The emergence of new regional technological specialisations : exploring the role of organisations and their technological network structure}},\nurl = {https://doi.org/10.1080/13662716.2024.2385575},\nvolume = {00},\nyear = {2024}\n}"
   },
   {
     "type": "journal",
@@ -94,15 +86,12 @@
     "link": "https://doi.org/https://doi.org/10.1093/scipol/scae024",
     "keywords": [
       "COVID-19",
-      "covid-19",
       "crisis",
-      "en-US",
       "innovation adoption",
       "privacy concerns",
-      "social distancing",
       "social distancing"
     ],
-    "bibtex": "@article{Kim2024a,\nabstract = {DOI: https://doi.org/10.1093/scipol/scae024 Science and Public Policy, 00, 00, 2024-07-24. Abstract: Using the case of coronavirus disease-2019 (COVID-19) as a natural experiment, this study discusses how innovation policy should be designed in times of crisis when public interest and privacy concerns collide. For this purpose, the causal relationship between social distancing enforcement and innovation adoption in consideration of privacy concerns is explored by using national-level survey data. Our key findings from econometric analysis are as follows: first, the implementation of social distancing policies leads to an increase in the adoption of wearable devices. Second, the strengthening of social distancing has caused a decrease in individual privacy concerns. Finally, a decrease in individual privacy concerns leads to an increase in wearable device adoption. Social distancing during the COVID-19 not only accelerated innovation adoption but also led a decrease in privacy concern},\nauthor = {Kim, Keungoui and Maliphol, Sira and Shim, Dongnyok and Lee, Changjun},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim et al. - 2024 - Exploring the interplay between social distancing , innovation adoption , and privacy concerns amid the COVID-19 cri.pdf:pdf},\nissn = {1471-5430},\njournal = {Science and Public Policy},\nkeywords = {\"COVID-19,covid-19,crisis,en-US,innovation adoption,privacy concerns,social distancing,social distancing\"},\nnumber = {00},\npages = {1--10},\npublisher = {OUP Publishing},\ntitle = {{Exploring the interplay between social distancing , innovation adoption , and privacy concerns amid the COVID-19 crisis}},\nurl = {https://doi.org/https://doi.org/10.1093/scipol/scae024},\nvolume = {00},\nyear = {2024}\n}"
+    "bibtex": "@article{Kim2024a,\nabstract = {DOI: https://doi.org/10.1093/scipol/scae024 Science and Public Policy, 00, 00, 2024-07-24. Abstract: Using the case of coronavirus disease-2019 (COVID-19) as a natural experiment, this study discusses how innovation policy should be designed in times of crisis when public interest and privacy concerns collide. For this purpose, the causal relationship between social distancing enforcement and innovation adoption in consideration of privacy concerns is explored by using national-level survey data. Our key findings from econometric analysis are as follows: first, the implementation of social distancing policies leads to an increase in the adoption of wearable devices. Second, the strengthening of social distancing has caused a decrease in individual privacy concerns. Finally, a decrease in individual privacy concerns leads to an increase in wearable device adoption. Social distancing during the COVID-19 not only accelerated innovation adoption but also led a decrease in privacy concern},\nauthor = {Kim, Keungoui and Maliphol, Sira and Shim, Dongnyok and Lee, Changjun},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim et al. - 2024 - Exploring the interplay between social distancing , innovation adoption , and privacy concerns amid the COVID-19 cri.pdf:pdf},\nissn = {1471-5430},\njournal = {Science and Public Policy},\nkeywords = {COVID-19,crisis,innovation adoption,privacy concerns,social distancing},\nnumber = {00},\npages = {1--10},\npublisher = {OUP Publishing},\ntitle = {{Exploring the interplay between social distancing , innovation adoption , and privacy concerns amid the COVID-19 crisis}},\nurl = {https://doi.org/https://doi.org/10.1093/scipol/scae024},\nvolume = {00},\nyear = {2024}\n}"
   },
   {
     "type": "journal",
@@ -111,8 +100,15 @@
     "authors": "Lee J., Kim K., Park G., Trunina A., Lee J., Kim K., Park G.",
     "venue": "Asia Pacific Business Review",
     "link": "https://doi.org/10.1080/13602381.2024.2358952",
-    "keywords": [],
-    "bibtex": "@article{Lee2024,\nauthor = {Lee, Junmin and Kim, Keungoui and Park, Gangmin and Trunina, Anna and Lee, Junmin and Kim, Keungoui and Park, Gangmin},\ndoi = {10.1080/13602381.2024.2358952},\nfile = {:Users/keungouikim/Desktop/Mendeley/Lee et al. - 2024 - The role of business models in the sustainable transition of shared mobility services in China and South Korea share.pdf:pdf},\nissn = {1360-2381},\njournal = {Asia Pacific Business Review},\nnumber = {00},\npages = {1--22},\npublisher = {Routledge},\ntitle = {{The role of business models in the sustainable transition of shared mobility services in China and South Korea shared mobility services in China and South Korea}},\nurl = {https://doi.org/10.1080/13602381.2024.2358952},\nvolume = {00},\nyear = {2024}\n}"
+    "keywords": [
+      "Business model",
+      "China",
+      "South Korea",
+      "niche–regime interaction",
+      "shared mobility",
+      "socio-technical system"
+    ],
+    "bibtex": "@article{Lee2024,\nauthor = {Lee, Junmin and Kim, Keungoui and Park, Gangmin and Trunina, Anna and Lee, Junmin and Kim, Keungoui and Park, Gangmin},\ndoi = {10.1080/13602381.2024.2358952},\nfile = {:Users/keungouikim/Desktop/Mendeley/Lee et al. - 2024 - The role of business models in the sustainable transition of shared mobility services in China and South Korea share.pdf:pdf},\nissn = {1360-2381},\njournal = {Asia Pacific Business Review},\nkeywords = {Business model,China,South Korea,niche–regime interaction,shared mobility,socio-technical system},\nnumber = {00},\npages = {1--22},\npublisher = {Routledge},\ntitle = {{The role of business models in the sustainable transition of shared mobility services in China and South Korea shared mobility services in China and South Korea}},\nurl = {https://doi.org/10.1080/13602381.2024.2358952},\nvolume = {00},\nyear = {2024}\n}"
   },
   {
     "type": "journal",
@@ -124,15 +120,11 @@
     "keywords": [
       "European Union",
       "Smart Specialisation Strategies (S3)",
-      "european union",
       "policy design and evaluation",
       "regional knowledge spaces",
-      "regional research and",
-      "regional research and innovation policy",
-      "s3",
-      "smart specialisation strategies"
+      "regional research and innovation policy"
     ],
-    "bibtex": "@article{Kim2024b,\nauthor = {Kim, Keungoui and Ferrante, Chiara and Kogler, Dieter F},\ndoi = {10.1080/00343404.2024.2355985},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim, Ferrante, Kogler - 2024 - Smart Specialisation Strategies and regional knowledge spaces how to bridge vision and reality Smart Spe.pdf:pdf},\nissn = {0034-3404},\njournal = {Regional Studies},\nkeywords = {European Union,Smart Specialisation Strategies (S3),european union,policy design and evaluation,regional knowledge spaces,regional research and,regional research and innovation policy,s3,smart specialisation strategies},\nnumber = {0},\npages = {1--17},\ntitle = {{Smart Specialisation Strategies and regional knowledge spaces : how to bridge vision and reality Smart Specialisation Strategies and regional knowledge spaces : how to bridge vision and reality}},\nurl = {https://doi.org/10.1080/00343404.2024.2355985},\nvolume = {0},\nyear = {2024}\n}"
+    "bibtex": "@article{Kim2024b,\nauthor = {Kim, Keungoui and Ferrante, Chiara and Kogler, Dieter F},\ndoi = {10.1080/00343404.2024.2355985},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim, Ferrante, Kogler - 2024 - Smart Specialisation Strategies and regional knowledge spaces how to bridge vision and reality Smart Spe.pdf:pdf},\nissn = {0034-3404},\njournal = {Regional Studies},\nkeywords = {European Union,Smart Specialisation Strategies (S3),policy design and evaluation,regional knowledge spaces,regional research and innovation policy},\nnumber = {0},\npages = {1--17},\ntitle = {{Smart Specialisation Strategies and regional knowledge spaces : how to bridge vision and reality Smart Specialisation Strategies and regional knowledge spaces : how to bridge vision and reality}},\nurl = {https://doi.org/10.1080/00343404.2024.2355985},\nvolume = {0},\nyear = {2024}\n}"
   },
   {
     "type": "journal",
@@ -167,22 +159,14 @@
     "venue": "한국체육과학학회지",
     "link": "",
     "keywords": [
-      "1",
-      "2",
-      "awekim",
-      "clustering techniques",
-      "edu",
-      "handong",
-      "handong university",
-      "machine learning",
-      "mlb",
-      "on-base and out",
-      "pitch data analysis",
-      "prediction",
-      "학생",
-      "한동대학교"
+      "Clustering techniques",
+      "MLB",
+      "Machine learning",
+      "On-base and out",
+      "Pitch data analysis",
+      "Prediction"
     ],
-    "bibtex": "@article{2024,\nauthor = {안동수 and 김지민 and 손주찬 and 김경외},\nfile = {:Users/keungouikim/Desktop/Mendeley/안동수 et al. - 2024 - 머신러닝을 활용한 미국 프로야구의 투수 및 타자의 유형별 출루 및 아웃 예측 모.pdf:pdf},\njournal = {한국체육과학학회지},\nkeywords = {1,2,awekim,clustering techniques,edu,handong,handong university,machine learning,mlb,on-base and out,pitch data analysis,prediction,학생,한동대학교},\nnumber = {1},\npages = {655--665},\ntitle = {머신러닝을 활용한 미국 프로야구의 투수 및 타자의 유형별 출루 및 아웃 예측 모델},\nvolume = {33},\nyear = {2024}\n}"
+    "bibtex": "@article{2024,\nauthor = {안동수 and 김지민 and 손주찬 and 김경외},\nfile = {:Users/keungouikim/Desktop/Mendeley/안동수 et al. - 2024 - 머신러닝을 활용한 미국 프로야구의 투수 및 타자의 유형별 출루 및 아웃 예측 모.pdf:pdf},\njournal = {한국체육과학학회지},\nkeywords = {Clustering techniques,MLB,Machine learning,On-base and out,Pitch data analysis,Prediction},\nnumber = {1},\npages = {655--665},\ntitle = {머신러닝을 활용한 미국 프로야구의 투수 및 타자의 유형별 출루 및 아웃 예측 모델},\nvolume = {33},\nyear = {2024}\n}"
   },
   {
     "type": "journal",
@@ -238,21 +222,15 @@
     "keywords": [
       "diversification",
       "firms",
-      "footprint",
-      "inventive",
+      "inventive footprint",
       "inventors",
-      "jel classifications",
       "knowledge sourcing",
       "knowledge space",
       "knowledge spillovers",
-      "o30",
-      "o31",
-      "o33",
-      "r10",
       "regional innovation",
       "technological capabilities"
     ],
-    "bibtex": "@article{Shin2023,\nauthor = {Shin, Hyunha and Kim, Keungoui and Lee, Junmin and Kogler, Dieter F.},\nfile = {:Users/keungouikim/Desktop/Mendeley/Shin et al. - 2023 - Inventors, firms and localities insights into the nexus that forms and alters the evolution of regional knowledge.pdf:pdf},\njournal = {Cambridge Journal of Regions, Economy and Society},\nkeywords = {diversification,firms,footprint,inventive,inventors,jel classifications,knowledge sourcing,knowledge space,knowledge spillovers,o30,o31,o33,r10,regional innovation,technological capabilities},\ntitle = {{Inventors, firms and localities : insights into the nexus that forms and alters the evolution of regional knowledge spaces}},\nyear = {2023}\n}"
+    "bibtex": "@article{Shin2023,\nauthor = {Shin, Hyunha and Kim, Keungoui and Lee, Junmin and Kogler, Dieter F.},\nfile = {:Users/keungouikim/Desktop/Mendeley/Shin et al. - 2023 - Inventors, firms and localities insights into the nexus that forms and alters the evolution of regional knowledge.pdf:pdf},\njournal = {Cambridge Journal of Regions, Economy and Society},\nkeywords = {diversification,firms,inventive footprint,inventors,knowledge sourcing,knowledge space,knowledge spillovers,regional innovation,technological capabilities},\ntitle = {{Inventors, firms and localities : insights into the nexus that forms and alters the evolution of regional knowledge spaces}},\nyear = {2023}\n}"
   },
   {
     "type": "journal",
@@ -285,16 +263,9 @@
       "OTT",
       "Random forest",
       "Sleep duration",
-      "Sleep pattern",
-      "causal inference",
-      "media behavior",
-      "media panel data",
-      "ott",
-      "random forest",
-      "sleep duration",
-      "sleep pattern"
+      "Sleep pattern"
     ],
-    "bibtex": "@article{Lee2023,\nauthor = {Lee, Changjun and Na, Cheongho and Kim, Keungoui},\ndoi = {10.1007/s41105-023-00459-z},\nfile = {:Users/keungouikim/Desktop/Mendeley/Lee, Na, Kim - 2023 - The effect of watching OTT late at night on the sleep pattern of users.pdf:pdf},\nisbn = {0123456789},\nissn = {1479-8425},\njournal = {Sleep and Biological Rhythms},\nkeywords = {Causal inference,Media behavior,Media panel data,OTT,Random forest,Sleep duration,Sleep pattern,causal inference,media behavior,media panel data,ott,random forest,sleep duration,sleep pattern},\nnumber = {0123456789},\npublisher = {Springer Nature Singapore},\ntitle = {{The effect of watching OTT late at night on the sleep pattern of users}},\nurl = {https://doi.org/10.1007/s41105-023-00459-z},\nyear = {2023}\n}"
+    "bibtex": "@article{Lee2023,\nauthor = {Lee, Changjun and Na, Cheongho and Kim, Keungoui},\ndoi = {10.1007/s41105-023-00459-z},\nfile = {:Users/keungouikim/Desktop/Mendeley/Lee, Na, Kim - 2023 - The effect of watching OTT late at night on the sleep pattern of users.pdf:pdf},\nisbn = {0123456789},\nissn = {1479-8425},\njournal = {Sleep and Biological Rhythms},\nkeywords = {Causal inference,Media behavior,Media panel data,OTT,Random forest,Sleep duration,Sleep pattern},\nnumber = {0123456789},\npublisher = {Springer Nature Singapore},\ntitle = {{The effect of watching OTT late at night on the sleep pattern of users}},\nurl = {https://doi.org/10.1007/s41105-023-00459-z},\nyear = {2023}\n}"
   },
   {
     "type": "journal",
@@ -317,10 +288,11 @@
       "intention to use",
       "online lectures",
       "online meetings",
+      "online performance",
       "online seminars",
       "untact services"
     ],
-    "bibtex": "@article{Liu2023,\nauthor = {Liu, Hyun Suk and Lee, Changjun and Kim, Keungoui and Lee, Junmin and Moon, Ahram and Lee, Daeho and Park, Myeongjun},\nfile = {:Users/keungouikim/Desktop/Mendeley/Liu et al. - 2023 - An Analysis of Factors Influencing the Intention to Use Untact Services by Service Type.pdf:pdf},\njournal = {Sustainability},\nkeywords = {intention to use,online lectures,online meetings,online seminars,untact services},\npages = {1--19},\ntitle = {{An Analysis of Factors Influencing the Intention to Use \"Untact\" Services by Service Type}},\nyear = {2023}\n}"
+    "bibtex": "@article{Liu2023,\nauthor = {Liu, Hyun Suk and Lee, Changjun and Kim, Keungoui and Lee, Junmin and Moon, Ahram and Lee, Daeho and Park, Myeongjun},\nfile = {:Users/keungouikim/Desktop/Mendeley/Liu et al. - 2023 - An Analysis of Factors Influencing the Intention to Use Untact Services by Service Type.pdf:pdf},\njournal = {Sustainability},\nkeywords = {intention to use,online lectures,online meetings,online performance,online seminars,untact services},\npages = {1--19},\ntitle = {{An Analysis of Factors Influencing the Intention to Use \"Untact\" Services by Service Type}},\nyear = {2023}\n}"
   },
   {
     "type": "journal",
@@ -384,12 +356,12 @@
     "venue": "Research Policy",
     "link": "https://doi.org/10.1016/j.respol.2022.104611",
     "keywords": [
+      "Intangible capital",
       "Knowledge",
-      "Productivity",
       "Knowledge diffusion",
-      "Intangi"
+      "Productivity"
     ],
-    "bibtex": "@article{Nonnis2023,\nauthor = {Nonnis, Alberto and Bounfour, Ahmed and Kim, Keungoui},\ndoi = {10.1016/j.respol.2022.104611},\nfile = {:Users/keungouikim/Desktop/Mendeley/Nonnis, Bounfour, Kim - 2023 - Knowledge spillovers and intangible complementarities Empirical case of European countries.pdf:pdf},\nissn = {0048-7333},\njournal = {Research Policy},\nkeywords = {Knowledge,Productivity,Knowledge diffusion,Intangi},\nnumber = {1},\npages = {104611},\npublisher = {Elsevier B.V.},\ntitle = {{Knowledge spillovers and intangible complementarities : Empirical case of European countries}},\nurl = {https://doi.org/10.1016/j.respol.2022.104611},\nvolume = {52},\nyear = {2023}\n}"
+    "bibtex": "@article{Nonnis2023,\nauthor = {Nonnis, Alberto and Bounfour, Ahmed and Kim, Keungoui},\ndoi = {10.1016/j.respol.2022.104611},\nfile = {:Users/keungouikim/Desktop/Mendeley/Nonnis, Bounfour, Kim - 2023 - Knowledge spillovers and intangible complementarities Empirical case of European countries.pdf:pdf},\nissn = {0048-7333},\njournal = {Research Policy},\nkeywords = {Intangible capital,Knowledge,Knowledge diffusion,Productivity},\nnumber = {1},\npages = {104611},\npublisher = {Elsevier B.V.},\ntitle = {{Knowledge spillovers and intangible complementarities : Empirical case of European countries}},\nurl = {https://doi.org/10.1016/j.respol.2022.104611},\nvolume = {52},\nyear = {2023}\n}"
   },
   {
     "type": "journal",
@@ -413,14 +385,9 @@
       "Local labour market",
       "Quantile regression",
       "Regional knowledge bases",
-      "Transition",
-      "employment growth",
-      "local labour market",
-      "quantile regression",
-      "regional knowledge bases",
-      "transition"
+      "Transition"
     ],
-    "bibtex": "@article{Kim2022a,\nauthor = {Kim, Keungoui and Kogler, Dieter F and Lee, Changjun and Kang, Taewon},\ndoi = {10.1007/s12061-022-09444-4},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim et al. - 2022 - Changes in regional knowledge bases and its effect on local labour markets in the midst of transition Evidence fr.pdf:pdf},\nisbn = {1206102209},\nissn = {1874-4621},\njournal = {Applied Spatial Analysis and Policy},\nkeywords = {Employment growth,Local labour market,Quantile regression,Regional knowledge bases,Transition,employment growth,local labour market,quantile regression,regional knowledge bases,transition},\nnumber = {0123456789},\npublisher = {Springer Netherlands},\ntitle = {{Changes in regional knowledge bases and its effect on local labour markets in the midst of transition : Evidence from France over 1985 – 2015}},\nurl = {https://doi.org/10.1007/s12061-022-09444-4},\nyear = {2022}\n}"
+    "bibtex": "@article{Kim2022a,\nauthor = {Kim, Keungoui and Kogler, Dieter F and Lee, Changjun and Kang, Taewon},\ndoi = {10.1007/s12061-022-09444-4},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim et al. - 2022 - Changes in regional knowledge bases and its effect on local labour markets in the midst of transition Evidence fr.pdf:pdf},\nisbn = {1206102209},\nissn = {1874-4621},\njournal = {Applied Spatial Analysis and Policy},\nkeywords = {Employment growth,Local labour market,Quantile regression,Regional knowledge bases,Transition},\nnumber = {0123456789},\npublisher = {Springer Netherlands},\ntitle = {{Changes in regional knowledge bases and its effect on local labour markets in the midst of transition : Evidence from France over 1985 – 2015}},\nurl = {https://doi.org/10.1007/s12061-022-09444-4},\nyear = {2022}\n}"
   },
   {
     "type": "journal",
@@ -435,12 +402,9 @@
       "Productivity efficiency",
       "Regional productivity",
       "Revealed comparative advantage",
-      "Stochastic frontier analysis",
-      "knowledge recombination",
-      "productivity efficiency",
-      "regional productivity"
+      "Stochastic frontier analysis"
     ],
-    "bibtex": "@article{Lee2022,\nauthor = {Lee, Changjun and Shin, Hyunha and Kim, Keungoui and Kogler, Dieter F},\ndoi = {10.1016/j.techfore.2022.121669},\nfile = {:Users/keungouikim/Desktop/Mendeley/Lee et al. - 2022 - The effects of regional capacity in knowledge recombination on production efficiency.pdf:pdf},\nissn = {0040-1625},\njournal = {Technological Forecasting & Social Change},\nkeywords = {CPC co-occurrence network,Knowledge recombination,Productivity efficiency,Regional productivity,Revealed comparative advantage,Stochastic frontier analysis,knowledge recombination,productivity efficiency,regional productivity},\nnumber = {January},\npages = {121669},\npublisher = {Elsevier Inc.},\ntitle = {{The effects of regional capacity in knowledge recombination on production efficiency}},\nurl = {https://doi.org/10.1016/j.techfore.2022.121669},\nvolume = {180},\nyear = {2022}\n}"
+    "bibtex": "@article{Lee2022,\nauthor = {Lee, Changjun and Shin, Hyunha and Kim, Keungoui and Kogler, Dieter F},\ndoi = {10.1016/j.techfore.2022.121669},\nfile = {:Users/keungouikim/Desktop/Mendeley/Lee et al. - 2022 - The effects of regional capacity in knowledge recombination on production efficiency.pdf:pdf},\nissn = {0040-1625},\njournal = {Technological Forecasting & Social Change},\nkeywords = {CPC co-occurrence network,Knowledge recombination,Productivity efficiency,Regional productivity,Revealed comparative advantage,Stochastic frontier analysis},\nnumber = {January},\npages = {121669},\npublisher = {Elsevier Inc.},\ntitle = {{The effects of regional capacity in knowledge recombination on production efficiency}},\nurl = {https://doi.org/10.1016/j.techfore.2022.121669},\nvolume = {180},\nyear = {2022}\n}"
   },
   {
     "type": "journal",
@@ -449,8 +413,15 @@
     "authors": "Lee J., Park G., Kim K.",
     "venue": "Telematics and Informatics",
     "link": "https://doi.org/10.1016/j.tele.2022.101814",
-    "keywords": [],
-    "bibtex": "@article{Lee2022a,\nauthor = {Lee, Junmin and Park, Gangmin and Kim, Keungoui},\ndoi = {10.1016/j.tele.2022.101814},\nfile = {:Users/keungouikim/Desktop/Mendeley/Lee, Park, Kim - 2022 - Transition failure strengthening regime stability in socio-technical systems A case study of shared mobility ma.pdf:pdf},\nissn = {0736-5853},\njournal = {Telematics and Informatics},\nnumber = {May 2021},\npages = {101814},\npublisher = {Elsevier Ltd},\ntitle = {{Transition failure strengthening regime stability in socio-technical systems : A case study of shared mobility market in South Korea}},\nurl = {https://doi.org/10.1016/j.tele.2022.101814},\nvolume = {70},\nyear = {2022}\n}"
+    "keywords": [
+      "Failed niche",
+      "Regime barrier",
+      "Regime stability",
+      "Shared mobility",
+      "Socio-technical transition",
+      "Transition failure"
+    ],
+    "bibtex": "@article{Lee2022a,\nauthor = {Lee, Junmin and Park, Gangmin and Kim, Keungoui},\ndoi = {10.1016/j.tele.2022.101814},\nfile = {:Users/keungouikim/Desktop/Mendeley/Lee, Park, Kim - 2022 - Transition failure strengthening regime stability in socio-technical systems A case study of shared mobility ma.pdf:pdf},\nissn = {0736-5853},\njournal = {Telematics and Informatics},\nkeywords = {Failed niche,Regime barrier,Regime stability,Shared mobility,Socio-technical transition,Transition failure},\nnumber = {May 2021},\npages = {101814},\npublisher = {Elsevier Ltd},\ntitle = {{Transition failure strengthening regime stability in socio-technical systems : A case study of shared mobility market in South Korea}},\nurl = {https://doi.org/10.1016/j.tele.2022.101814},\nvolume = {70},\nyear = {2022}\n}"
   },
   {
     "type": "journal",
@@ -460,19 +431,16 @@
     "venue": "The Journal of Technology Transfer",
     "link": "https://doi.org/10.1007/s10961-022-09924-2",
     "keywords": [
+      "Co-occurrence network",
+      "EU",
+      "Entry-potential",
       "Entry-relatedness",
-      "Knowled",
+      "Knowledge gravity model",
+      "Patent analysis",
       "Regional knowledge space",
-      "co-occurrence network",
-      "entry-potential",
-      "entry-relatedness",
-      "eu",
-      "knowledge gravity model",
-      "patent analysis",
-      "regional knowledge space",
-      "technological change"
+      "Technological change"
     ],
-    "bibtex": "@article{Kogler2022,\nauthor = {Kogler, Dieter F and Davies, Ronald B and Lee, Changjun and Kim, Keungoui},\ndoi = {10.1007/s10961-022-09924-2},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kogler et al. - 2022 - Regional knowledge spaces the interplay of entry‑relatedness and entry‑potential for technological change an.pdf:pdf},\nisbn = {0123456789},\nissn = {1573-7047},\njournal = {The Journal of Technology Transfer},\nkeywords = {Entry-relatedness,Knowled,Regional knowledge space,co-occurrence network,entry-potential,entry-relatedness,eu,knowledge gravity model,patent analysis,regional knowledge space,technological change},\nnumber = {0123456789},\npublisher = {Springer US},\ntitle = {{Regional knowledge spaces : the interplay of entry‑relatedness and entry‑potential for technological change and growth}},\nurl = {https://doi.org/10.1007/s10961-022-09924-2},\nyear = {2022}\n}"
+    "bibtex": "@article{Kogler2022,\nauthor = {Kogler, Dieter F and Davies, Ronald B and Lee, Changjun and Kim, Keungoui},\ndoi = {10.1007/s10961-022-09924-2},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kogler et al. - 2022 - Regional knowledge spaces the interplay of entry‑relatedness and entry‑potential for technological change an.pdf:pdf},\nisbn = {0123456789},\nissn = {1573-7047},\njournal = {The Journal of Technology Transfer},\nkeywords = {Co-occurrence network,EU,Entry-potential,Entry-relatedness,Knowledge gravity model,Patent analysis,Regional knowledge space,Technological change},\nnumber = {0123456789},\npublisher = {Springer US},\ntitle = {{Regional knowledge spaces : the interplay of entry‑relatedness and entry‑potential for technological change and growth}},\nurl = {https://doi.org/10.1007/s10961-022-09924-2},\nyear = {2022}\n}"
   },
   {
     "type": "journal",
@@ -481,8 +449,14 @@
     "authors": "Kim K., Lee J., Hwang J., Kim E.",
     "venue": "Journal of Product Innovation Management",
     "link": "https://doi.org/10.1111/jpim.12620",
-    "keywords": [],
-    "bibtex": "@article{Kim2022,\nabstract = {In pharmaceutical and biopharmaceutical industries, developing and commercializing products require great investments and intensive clinical trials. To manage the risk and uncertainty of such product development, especially given the low success rates, product diversification and collaboration strategies can be instrumental for firms. Especially, the differences in product development complexity and market condition among industries require more case-specific implication due to the absence of a universally applicable strategy, even in these two similar industries. To date, little is known or discussed regarding whether product diversification and collaboration strategies work differently by industry and to what extent their impact differs across industries. Accordingly, this study examines the impact of product diversification on firm performance and compares the diversification effects between pharmaceutical and biopharmaceutical industries. Related product diversification (RPD), which involves diversifying existing product functions, and unrelated product diversification (UPD), which involves diversifying the selling market, are considered here, and their linear and curvilinear effects are examined for each industry. Furthermore, the mediating role of product diversification in the relationship between collaboration and performance is examined to explore diversification through collaboration and the effect of collaboration on firm performance. For empirical analysis, an integrated firm-level dataset combining a full set of commercialized product information, collaboration, and statistics from Medtrack and Compustat are used. The results indicate that UPD enhances pharmaceutical firms' performance, while RPD and UPD contribute to biopharmaceutical firms' performance. In both cases, mediating effect of product diversification is found; however, collaboration is found to play different roles, thereby showing that collaboration enhances product diversification for pharmaceutical firms, while for biopharmaceutical firms it negatively affects product diversification, but positively affects performance. This study contributes to the literature by providing empirical evidence on how diversification should be treated differently across industries by considering product development complexity and market maturity.},\nauthor = {Kim, Keungoui and Lee, Junmin and Hwang, Junseok and Kim, Eungdo},\ndoi = {10.1111/jpim.12620},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim et al. - 2022 - Related and unrelated product diversification and collaboration strategies Comparison between the pharmaceutical and.pdf:pdf},\nissn = {0737-6782},\njournal = {Journal of Product Innovation Management},\nnumber = {February},\npages = {1--22},\ntitle = {{Related and unrelated product diversification and collaboration strategies: Comparison between the pharmaceutical and biopharmaceutical industries}},\nyear = {2022}\n}"
+    "keywords": [
+      "biopharmaceutical industry",
+      "collaboration",
+      "pharmaceutical industry",
+      "related product diversification",
+      "unrelated product diversification"
+    ],
+    "bibtex": "@article{Kim2022,\nabstract = {In pharmaceutical and biopharmaceutical industries, developing and commercializing products require great investments and intensive clinical trials. To manage the risk and uncertainty of such product development, especially given the low success rates, product diversification and collaboration strategies can be instrumental for firms. Especially, the differences in product development complexity and market condition among industries require more case-specific implication due to the absence of a universally applicable strategy, even in these two similar industries. To date, little is known or discussed regarding whether product diversification and collaboration strategies work differently by industry and to what extent their impact differs across industries. Accordingly, this study examines the impact of product diversification on firm performance and compares the diversification effects between pharmaceutical and biopharmaceutical industries. Related product diversification (RPD), which involves diversifying existing product functions, and unrelated product diversification (UPD), which involves diversifying the selling market, are considered here, and their linear and curvilinear effects are examined for each industry. Furthermore, the mediating role of product diversification in the relationship between collaboration and performance is examined to explore diversification through collaboration and the effect of collaboration on firm performance. For empirical analysis, an integrated firm-level dataset combining a full set of commercialized product information, collaboration, and statistics from Medtrack and Compustat are used. The results indicate that UPD enhances pharmaceutical firms' performance, while RPD and UPD contribute to biopharmaceutical firms' performance. In both cases, mediating effect of product diversification is found; however, collaboration is found to play different roles, thereby showing that collaboration enhances product diversification for pharmaceutical firms, while for biopharmaceutical firms it negatively affects product diversification, but positively affects performance. This study contributes to the literature by providing empirical evidence on how diversification should be treated differently across industries by considering product development complexity and market maturity.},\nauthor = {Kim, Keungoui and Lee, Junmin and Hwang, Junseok and Kim, Eungdo},\ndoi = {10.1111/jpim.12620},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim et al. - 2022 - Related and unrelated product diversification and collaboration strategies Comparison between the pharmaceutical and.pdf:pdf},\nissn = {0737-6782},\njournal = {Journal of Product Innovation Management},\nkeywords = {biopharmaceutical industry,collaboration,pharmaceutical industry,related product diversification,unrelated product diversification},\nnumber = {February},\npages = {1--22},\ntitle = {{Related and unrelated product diversification and collaboration strategies: Comparison between the pharmaceutical and biopharmaceutical industries}},\nyear = {2022}\n}"
   },
   {
     "type": "journal",
@@ -491,8 +465,14 @@
     "authors": "Kogler D. F., Kim K.",
     "venue": "Regional Studies, Regional Science",
     "link": "https://doi.org/10.1080/21681376.2021.2009907",
-    "keywords": [],
-    "bibtex": "@article{Kogler2021,\nauthor = {Kogler, Dieter F and Kim, Keungoui},\ndoi = {10.1080/21681376.2021.2009907},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kogler, Kim - 2021 - Following the paper trail the UK scientific and technological knowledge space and its reliance on international kno.pdf:pdf},\njournal = {Regional Studies, Regional Science},\nnumber = {1},\npages = {447--459},\ntitle = {{Following the paper trail: the UK scientific and technological knowledge space and its reliance on international knowledge spillovers}},\nurl = {https://doi.org/10.1080/21681376.2021.2009907},\nvolume = {8},\nyear = {2021}\n}"
+    "keywords": [
+      "UK",
+      "evolutionary economic geography",
+      "knowledge space",
+      "knowledge spillovers",
+      "publication and patent citation analysis"
+    ],
+    "bibtex": "@article{Kogler2021,\nauthor = {Kogler, Dieter F and Kim, Keungoui},\ndoi = {10.1080/21681376.2021.2009907},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kogler, Kim - 2021 - Following the paper trail the UK scientific and technological knowledge space and its reliance on international kno.pdf:pdf},\njournal = {Regional Studies, Regional Science},\nkeywords = {UK,evolutionary economic geography,knowledge space,knowledge spillovers,publication and patent citation analysis},\nnumber = {1},\npages = {447--459},\ntitle = {{Following the paper trail: the UK scientific and technological knowledge space and its reliance on international knowledge spillovers}},\nurl = {https://doi.org/10.1080/21681376.2021.2009907},\nvolume = {8},\nyear = {2021}\n}"
   },
   {
     "type": "journal",
@@ -518,8 +498,14 @@
     "authors": "김경외, 이준민, 이창준",
     "venue": "한국혁신학회",
     "link": "",
-    "keywords": [],
-    "bibtex": "@article{2021,\nauthor = {김경외 and 이준민 and 이창준},\nfile = {:Users/keungouikim/Desktop/Mendeley/김경외, 이준민, 이창준 - 2021 - 효율적인 기술 정책 제안을 위한 한국 인공지능 지.pdf:pdf},\njournal = {한국혁신학회},\nnumber = {3},\npages = {139--172},\ntitle = {효율적인 기술 정책 제안을 위한 한국 인공지능 지식 구조와 진화 궤적의 탐색적 분석},\nvolume = {16},\nyear = {2021}\n}"
+    "keywords": [
+      "기술 정책",
+      "기술 진화",
+      "인공지능",
+      "지식구조",
+      "혁신의 지리학"
+    ],
+    "bibtex": "@article{2021,\nauthor = {김경외 and 이준민 and 이창준},\nfile = {:Users/keungouikim/Desktop/Mendeley/김경외, 이준민, 이창준 - 2021 - 효율적인 기술 정책 제안을 위한 한국 인공지능 지.pdf:pdf},\njournal = {한국혁신학회},\nkeywords = {기술 정책,기술 진화,인공지능,지식구조,혁신의 지리학},\nnumber = {3},\npages = {139--172},\ntitle = {효율적인 기술 정책 제안을 위한 한국 인공지능 지식 구조와 진화 궤적의 탐색적 분석},\nvolume = {16},\nyear = {2021}\n}"
   },
   {
     "type": "journal",
@@ -556,12 +542,14 @@
     "venue": "Science, Technology & Society",
     "link": "https://doi.org/10.1177/09717218211005616",
     "keywords": [
-      "diversification framework",
+      "Diversification framework",
       "market diversification",
+      "panel regression",
+      "pharmaceutical industry",
       "product diversification",
-      "technology"
+      "technology diversification"
     ],
-    "bibtex": "@article{Kim2021,\nauthor = {Kim, Keungoui and Hwang, Junseok and Jung, Sungdo and Kim, Eungdo},\ndoi = {10.1177/09717218211005616},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim et al. - 2021 - The Optimal Diversification Strategy in Pharmaceutical Industry Balance-centred or Hetero-centred.pdf:pdf},\njournal = {Science, Technology & Society},\nkeywords = {diversification framework,market diversification,product diversification,technology},\nnumber = {2},\npages = {1--24},\ntitle = {{The Optimal Diversification Strategy in Pharmaceutical Industry: Balance-centred or Hetero-centred?}},\nvolume = {26},\nyear = {2021}\n}"
+    "bibtex": "@article{Kim2021,\nauthor = {Kim, Keungoui and Hwang, Junseok and Jung, Sungdo and Kim, Eungdo},\ndoi = {10.1177/09717218211005616},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim et al. - 2021 - The Optimal Diversification Strategy in Pharmaceutical Industry Balance-centred or Hetero-centred.pdf:pdf},\njournal = {Science, Technology & Society},\nkeywords = {Diversification framework,market diversification,panel regression,pharmaceutical industry,product diversification,technology diversification},\nnumber = {2},\npages = {1--24},\ntitle = {{The Optimal Diversification Strategy in Pharmaceutical Industry: Balance-centred or Hetero-centred?}},\nvolume = {26},\nyear = {2021}\n}"
   },
   {
     "type": "journal",
@@ -571,34 +559,13 @@
     "venue": "부동산분석",
     "link": "",
     "keywords": [
-      "ac",
-      "awekim",
-      "bayesian methodology",
-      "bma",
-      "bms",
-      "housing price forecasting",
-      "kim",
-      "kr",
-      "model choice uncertainty",
-      "snu",
-      "younghyo",
-      "교신저자",
-      "본 논문은 2015년도 한국감정원의",
-      "서울대학교 기술경영경제정책대학원 경제학 석사과정",
-      "주저자",
-      "지원을 받아 수행된 연구임"
+      "BMA",
+      "BMS",
+      "Bayesian Methodology",
+      "Housing Price Forecasting",
+      "Model Choice Uncertainty"
     ],
-    "bibtex": "@article{2015,\nauthor = {김경외 and 김영효},\nfile = {:Users/keungouikim/Desktop/Mendeley/김경외, 김영효 - 2015 - 모델의 불확실성을 반영한 아파트가격지수 예측 모형 연구.pdf:pdf},\njournal = {부동산분석},\nkeywords = {ac,awekim,bayesian methodology,bma,bms,housing price forecasting,kim,kr,model choice uncertainty,snu,younghyo,교신저자,본 논문은 2015년도 한국감정원의,서울대학교 기술경영경제정책대학원 경제학 석사과정,주저자,지원을 받아 수행된 연구임},\nnumber = {1},\npages = {27--49},\ntitle = {모델의 불확실성을 반영한 아파트가격지수 예측 모형 연구 *},\nvolume = {1},\nyear = {2015}\n}"
-  },
-  {
-    "type": "journal",
-    "year": 2018,
-    "title": "{IT Governance effectiveness and its influence on innovation product and process}",
-    "authors": "Borja S., Kim K., Yoon H., Hwang J.",
-    "venue": "PICMET 2018 - Portland International Conference on Management of Engineering and Technology: Managing Technological Entrepreneurship: The Engine for Economic Growth, Proceedings",
-    "link": "https://doi.org/10.23919/PICMET.2018.8481752",
-    "keywords": [],
-    "bibtex": "@article{Borja2018,\nabstract = {Information technology (IT) and innovation are topics that receive the attention among academics. However, the increasing and pervasive dependence on IT from organizations have raised a lot of concerns on the topic of IT governance (ITG). ITG and innovation do not have had the attention among academics. This study aims to examine the relationship among effective ITG, ITG relevant knowledge and how they influence innovation product and process. This study uses structural equation modeling (SEM) to evaluate 215 valid surveys that were collected from members of the respective local chapters located in Bogot{\\'{a}}-Colombia of the following institutions: Information Systems Audit and Control Association (ISACA) and Project Management Institute (PMI). In addition, members of the Colombian computer science engineers association (ACIS) also participate answering our survey instrument. Our study found that ITG has positive and significant influence on innovation product and process. ITG relevant knowledge influences positively ITG especially when ITG experience is high, however, when the ITG experience is low, its effect is perceived as negative on innovation product and process.},\nauthor = {Borja, Sergio and Kim, Keungoui and Yoon, Hyenyoung and Hwang, Junseok},\ndoi = {10.23919/PICMET.2018.8481752},\nfile = {:Users/keungouikim/Desktop/Mendeley/Borja et al. - 2018 - IT Governance effectiveness and its influence on innovation product and process.pdf:pdf},\nisbn = {9781890843373},\njournal = {PICMET 2018 - Portland International Conference on Management of Engineering and Technology: Managing Technological Entrepreneurship: The Engine for Economic Growth, Proceedings},\npublisher = {Portland International Conference on Management of Engineering and Technology, Inc. (PICMET)},\ntitle = {{IT Governance effectiveness and its influence on innovation product and process}},\nyear = {2018}\n}"
+    "bibtex": "@article{2015,\nauthor = {김경외 and 김영효},\nfile = {:Users/keungouikim/Desktop/Mendeley/김경외, 김영효 - 2015 - 모델의 불확실성을 반영한 아파트가격지수 예측 모형 연구.pdf:pdf},\njournal = {부동산분석},\nkeywords = {BMA,BMS,Bayesian Methodology,Housing Price Forecasting,Model Choice Uncertainty},\nnumber = {1},\npages = {27--49},\ntitle = {모델의 불확실성을 반영한 아파트가격지수 예측 모형 연구 *},\nvolume = {1},\nyear = {2015}\n}"
   },
   {
     "type": "journal",
@@ -612,13 +579,29 @@
   },
   {
     "type": "journal",
+    "year": 2018,
+    "title": "{IT Governance effectiveness and its influence on innovation product and process}",
+    "authors": "Borja S., Kim K., Yoon H., Hwang J.",
+    "venue": "PICMET 2018 - Portland International Conference on Management of Engineering and Technology: Managing Technological Entrepreneurship: The Engine for Economic Growth, Proceedings",
+    "link": "https://doi.org/10.23919/PICMET.2018.8481752",
+    "keywords": [],
+    "bibtex": "@article{Borja2018,\nabstract = {Information technology (IT) and innovation are topics that receive the attention among academics. However, the increasing and pervasive dependence on IT from organizations have raised a lot of concerns on the topic of IT governance (ITG). ITG and innovation do not have had the attention among academics. This study aims to examine the relationship among effective ITG, ITG relevant knowledge and how they influence innovation product and process. This study uses structural equation modeling (SEM) to evaluate 215 valid surveys that were collected from members of the respective local chapters located in Bogot{\\'{a}}-Colombia of the following institutions: Information Systems Audit and Control Association (ISACA) and Project Management Institute (PMI). In addition, members of the Colombian computer science engineers association (ACIS) also participate answering our survey instrument. Our study found that ITG has positive and significant influence on innovation product and process. ITG relevant knowledge influences positively ITG especially when ITG experience is high, however, when the ITG experience is low, its effect is perceived as negative on innovation product and process.},\nauthor = {Borja, Sergio and Kim, Keungoui and Yoon, Hyenyoung and Hwang, Junseok},\ndoi = {10.23919/PICMET.2018.8481752},\nfile = {:Users/keungouikim/Desktop/Mendeley/Borja et al. - 2018 - IT Governance effectiveness and its influence on innovation product and process.pdf:pdf},\nisbn = {9781890843373},\njournal = {PICMET 2018 - Portland International Conference on Management of Engineering and Technology: Managing Technological Entrepreneurship: The Engine for Economic Growth, Proceedings},\npublisher = {Portland International Conference on Management of Engineering and Technology, Inc. (PICMET)},\ntitle = {{IT Governance effectiveness and its influence on innovation product and process}},\nyear = {2018}\n}"
+  },
+  {
+    "type": "journal",
     "year": 2015,
     "title": "네트워크 분석을 이용한 기술 표준화 방법론 연구 : 사물인터넷 무선 통신 기술 계층을 중심으로",
     "authors": "김경외, 정성도, 황준석",
     "venue": "기술혁신연구",
     "link": "https://doi.org/http://dx.doi.org/10.14383/SIME.2015.23.3.43",
-    "keywords": [],
-    "bibtex": "@article{2015a,\nauthor = {김경외 and 정성도 and 황준석},\ndoi = {http://dx.doi.org/10.14383/SIME.2015.23.3.43},\nfile = {:Users/keungouikim/Desktop/Mendeley/김경외, 정성도, 황준석 - 2015 - 네트워크 분석을 이용한 기술 표준화.pdf:pdf},\njournal = {기술혁신연구},\nnumber = {3},\npages = {43--65},\ntitle = {네트워크 분석을 이용한 기술 표준화 방법론 연구 : 사물인터넷 무선 통신 기술 계층을 중심으로},\nvolume = {25},\nyear = {2015}\n}"
+    "keywords": [
+      "Game theory",
+      "Internet of things",
+      "Standardization research",
+      "Technology network analysis",
+      "Technology standard model"
+    ],
+    "bibtex": "@article{2015a,\nauthor = {김경외 and 정성도 and 황준석},\ndoi = {http://dx.doi.org/10.14383/SIME.2015.23.3.43},\nfile = {:Users/keungouikim/Desktop/Mendeley/김경외, 정성도, 황준석 - 2015 - 네트워크 분석을 이용한 기술 표준화.pdf:pdf},\njournal = {기술혁신연구},\nkeywords = {Game theory,Internet of things,Standardization research,Technology network analysis,Technology standard model},\nnumber = {3},\npages = {43--65},\ntitle = {네트워크 분석을 이용한 기술 표준화 방법론 연구 : 사물인터넷 무선 통신 기술 계층을 중심으로},\nvolume = {25},\nyear = {2015}\n}"
   },
   {
     "type": "journal",
@@ -627,8 +610,13 @@
     "authors": "Kim K., Bounfour A., Nonnis A., Ozaygen A.",
     "venue": "Telecommunications Policy",
     "link": "https://doi.org/10.1016/j.telpol.2020.102085",
-    "keywords": [],
-    "bibtex": "@article{Kim2021a,\nauthor = {Kim, Keungoui and Bounfour, Ahmed and Nonnis, Alberto and Ozaygen, Altay},\ndoi = {10.1016/j.telpol.2020.102085},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim et al. - 2021 - Measuring ICT externalities and their contribution to productivity A bilateral trade based approach.pdf:pdf},\njournal = {Telecommunications Policy},\nnumber = {April 2020},\npages = {102085},\ntitle = {{Measuring ICT externalities and their contribution to productivity : A bilateral trade based approach}},\nvolume = {45},\nyear = {2021}\n}"
+    "keywords": [
+      "ICT",
+      "ICT externality",
+      "Intangibles",
+      "Productivity"
+    ],
+    "bibtex": "@article{Kim2021a,\nauthor = {Kim, Keungoui and Bounfour, Ahmed and Nonnis, Alberto and Ozaygen, Altay},\ndoi = {10.1016/j.telpol.2020.102085},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim et al. - 2021 - Measuring ICT externalities and their contribution to productivity A bilateral trade based approach.pdf:pdf},\njournal = {Telecommunications Policy},\nkeywords = {ICT,ICT externality,Intangibles,Productivity},\nnumber = {April 2020},\npages = {102085},\ntitle = {{Measuring ICT externalities and their contribution to productivity : A bilateral trade based approach}},\nvolume = {45},\nyear = {2021}\n}"
   },
   {
     "type": "journal",
@@ -638,30 +626,15 @@
     "venue": "International Journal of Intellectual Property Management",
     "link": "https://doi.org/10.1504/ijipm.2020.10032445",
     "keywords": [
-      "a",
-      "analysis",
-      "and beliaeva",
-      "bounfour",
-      "follows",
+      "GVCs",
+      "TFP",
       "global value chains",
-      "gvcs",
       "intangible assets",
-      "k",
-      "kim",
-      "nonnis",
-      "o",
-      "ozaygen",
       "panel data models",
-      "reference to this paper",
-      "should be made as",
-      "social network",
-      "t",
-      "tfp",
-      "the combined contribution",
-      "total factor productivity",
-      "xxxx"
+      "social network analysis",
+      "total factor productivity"
     ],
-    "bibtex": "@article{Nonnis2021,\nauthor = {Nonnis, Alberto and Bounfour, Ahmed and Ozaygen, Altay and Kim, Keung Oui and Beliaeva, Tatiana},\ndoi = {10.1504/ijipm.2020.10032445},\nfile = {:Users/keungouikim/Desktop/Mendeley/Nonnis et al. - 2021 - The combined contribution of intangible capital and global value chain participation to productivity.pdf:pdf},\nissn = {1478-9647},\njournal = {International Journal of Intellectual Property Management},\nkeywords = {a,analysis,and beliaeva,bounfour,follows,global value chains,gvcs,intangible assets,k,kim,nonnis,o,ozaygen,panel data models,reference to this paper,should be made as,social network,t,tfp,the combined contribution,total factor productivity,xxxx},\nnumber = {1},\npages = {1},\ntitle = {{The combined contribution of intangible capital and global value chain participation to productivity}},\nvolume = {11},\nyear = {2021}\n}"
+    "bibtex": "@article{Nonnis2021,\nauthor = {Nonnis, Alberto and Bounfour, Ahmed and Ozaygen, Altay and Kim, Keung Oui and Beliaeva, Tatiana},\ndoi = {10.1504/ijipm.2020.10032445},\nfile = {:Users/keungouikim/Desktop/Mendeley/Nonnis et al. - 2021 - The combined contribution of intangible capital and global value chain participation to productivity.pdf:pdf},\nissn = {1478-9647},\njournal = {International Journal of Intellectual Property Management},\nkeywords = {GVCs,TFP,global value chains,intangible assets,panel data models,social network analysis,total factor productivity},\nnumber = {1},\npages = {1},\ntitle = {{The combined contribution of intangible capital and global value chain participation to productivity}},\nvolume = {11},\nyear = {2021}\n}"
   },
   {
     "type": "journal",
@@ -702,29 +675,13 @@
     "venue": "Journal of Real Estate Analysis",
     "link": "https://doi.org/https://doi.org/10.30902/jrea.2015.1.1e.27",
     "keywords": [
-      "1",
-      "27",
-      "49",
-      "analysis",
-      "bayesian methodology",
-      "bma",
-      "bms",
-      "housing price forecasting",
-      "in korean",
-      "journal of real estate",
-      "model choice uncertainty",
-      "no",
-      "on the study",
-      "pp",
-      "the",
-      "the korean appraisal board",
-      "this article is based",
-      "this research was conducted",
-      "vol",
-      "which was primarily in",
-      "with 2015 support from"
+      "BMA",
+      "BMS",
+      "Bayesian methodology",
+      "Housing price forecasting",
+      "Model choice uncertainty"
     ],
-    "bibtex": "@article{Kim2015,\nabstract = {lurther depress the real estate market in these same neighborhoods, thereby attracting residents who have the least amotmt of choice in their housing decisions. The brownlields and Section 8 housing policies highlight these negative real estate market externalities even further hy promoting further avoidance of these distressed and blighted neighborhoods, Thtis. ihis research argues that jointly addressing these two protracted urban issues will aid in bringing an end to this mutually reinforced spiral of urban decay. Davidoff, Thomas. Massachusetts Institute of Technology 2(K)2. Essays on Annuitization and Housing Choice, For most households in the United States, lahor income is the mo.st important .fource of wealth and housing is the most important risky asset. A natural intuition is thus that households whose incomes covary relatively strongly with housing prices should own relatively little housing. Under plausible assumptions on preferences and distributions, this result holds theoretically. Etnpirically. the results show a signiticant effect: among U.S. households, a standard deviation increase in income-house price covariance is associated with a decrea.se of approximately $2.^,(KH) in the value of owner-occupied housing. The study goes on lo extend the theory of annuitization. It presents numerical calculations of the tinancial benefit and optimal degree of annuitization for consumers with standard CRRA preferences, and compares these results to results where otherwise identical consumers have utility that depends both on present consumption and a standard of living tn which they have grown accustomed. The final chapter in the study addresses the measurement of income sorting and Ihe attribution of observed sorting to different causes.},\nauthor = {Kim, Keungoui and Kim, Younghyo},\ndoi = {https://doi.org/10.30902/jrea.2015.1.1e.27},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim, Kim - 2015 - A Study on Forecasting Model for Apartment Housing Price Index Reflecting Model Uncertainty Focused on BMS, BMA.pdf:pdf},\njournal = {Journal of Real Estate Analysis},\nkeywords = {1,27,49,analysis,bayesian methodology,bma,bms,housing price forecasting,in korean,journal of real estate,model choice uncertainty,no,on the study,pp,the,the korean appraisal board,this article is based,this research was conducted,vol,which was primarily in,with 2015 support from},\nnumber = {1},\npages = {27--52},\ntitle = {{A Study on Forecasting Model for Apartment Housing Price Index Reflecting Model Uncertainty: Focused on BMS, BMA}},\nvolume = {1},\nyear = {2015}\n}"
+    "bibtex": "@article{Kim2015,\nabstract = {lurther depress the real estate market in these same neighborhoods, thereby attracting residents who have the least amotmt of choice in their housing decisions. The brownlields and Section 8 housing policies highlight these negative real estate market externalities even further hy promoting further avoidance of these distressed and blighted neighborhoods, Thtis. ihis research argues that jointly addressing these two protracted urban issues will aid in bringing an end to this mutually reinforced spiral of urban decay. Davidoff, Thomas. Massachusetts Institute of Technology 2(K)2. Essays on Annuitization and Housing Choice, For most households in the United States, lahor income is the mo.st important .fource of wealth and housing is the most important risky asset. A natural intuition is thus that households whose incomes covary relatively strongly with housing prices should own relatively little housing. Under plausible assumptions on preferences and distributions, this result holds theoretically. Etnpirically. the results show a signiticant effect: among U.S. households, a standard deviation increase in income-house price covariance is associated with a decrea.se of approximately $2.^,(KH) in the value of owner-occupied housing. The study goes on lo extend the theory of annuitization. It presents numerical calculations of the tinancial benefit and optimal degree of annuitization for consumers with standard CRRA preferences, and compares these results to results where otherwise identical consumers have utility that depends both on present consumption and a standard of living tn which they have grown accustomed. The final chapter in the study addresses the measurement of income sorting and Ihe attribution of observed sorting to different causes.},\nauthor = {Kim, Keungoui and Kim, Younghyo},\ndoi = {https://doi.org/10.30902/jrea.2015.1.1e.27},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim, Kim - 2015 - A Study on Forecasting Model for Apartment Housing Price Index Reflecting Model Uncertainty Focused on BMS, BMA.pdf:pdf},\njournal = {Journal of Real Estate Analysis},\nkeywords = {BMA,BMS,Bayesian methodology,Housing price forecasting,Model choice uncertainty},\nnumber = {1},\npages = {27--52},\ntitle = {{A Study on Forecasting Model for Apartment Housing Price Index Reflecting Model Uncertainty: Focused on BMS, BMA}},\nvolume = {1},\nyear = {2015}\n}"
   },
   {
     "type": "journal",
@@ -744,12 +701,13 @@
     "venue": "Sustainability",
     "link": "https://doi.org/10.3390/su10072255",
     "keywords": [
+      "UTAUT model",
       "appropriate technology",
-      "empirical",
+      "empirical study",
       "technology acceptance",
       "water purification systems"
     ],
-    "bibtex": "@article{Lee2018a,\nauthor = {Lee, Junmin and Kim, Keungoui and Shin, Hyunha and Hwang, Junseok},\ndoi = {10.3390/su10072255},\nfile = {:Users/keungouikim/Desktop/Mendeley/Lee et al. - 2018 - Acceptance Factors of Appropriate Technology Case of Water Purification Systems in Binh Dinh , Vietnam.pdf:pdf},\njournal = {Sustainability},\nkeywords = {appropriate technology,empirical,technology acceptance,water purification systems},\nnumber = {7},\npages = {2255},\ntitle = {{Acceptance Factors of Appropriate Technology : Case of Water Purification Systems in Binh Dinh , Vietnam}},\nvolume = {10},\nyear = {2018}\n}"
+    "bibtex": "@article{Lee2018a,\nauthor = {Lee, Junmin and Kim, Keungoui and Shin, Hyunha and Hwang, Junseok},\ndoi = {10.3390/su10072255},\nfile = {:Users/keungouikim/Desktop/Mendeley/Lee et al. - 2018 - Acceptance Factors of Appropriate Technology Case of Water Purification Systems in Binh Dinh , Vietnam.pdf:pdf},\njournal = {Sustainability},\nkeywords = {UTAUT model,appropriate technology,empirical study,technology acceptance,water purification systems},\nnumber = {7},\npages = {2255},\ntitle = {{Acceptance Factors of Appropriate Technology : Case of Water Purification Systems in Binh Dinh , Vietnam}},\nvolume = {10},\nyear = {2018}\n}"
   },
   {
     "type": "journal",
@@ -774,8 +732,14 @@
     "authors": "Park C., Kim D., Yoon J., Kim K., Lee J., Hwang J.",
     "venue": "Journal of Appropriate Technology",
     "link": "",
-    "keywords": [],
-    "bibtex": "@article{Park2018,\nauthor = {Park, Chanjun and Kim, Doyeon and Yoon, Junseok and Kim, Keungoui and Lee, Junmin and Hwang, Junseok},\nfile = {:Users/keungouikim/Desktop/Mendeley/Park et al. - 2018 - A Study on Cooperation Model for Promoting Overseas Volunteering Program Based on Appropriate Technology Orienting.pdf:pdf},\njournal = {Journal of Appropriate Technology},\nnumber = {1},\npages = {1--8},\ntitle = {{A Study on Cooperation Model for Promoting Overseas Volunteering Program Based on Appropriate Technology Orienting University Students Participation : Focused on Institute for Global Social Responsibility in SNU}},\nvolume = {4},\nyear = {2018}\n}"
+    "keywords": [
+      "Appropriate Technology",
+      "Corporate-University-Institute Cooperation Model",
+      "Reliability",
+      "Student Participating",
+      "Sus- tainability"
+    ],
+    "bibtex": "@article{Park2018,\nauthor = {Park, Chanjun and Kim, Doyeon and Yoon, Junseok and Kim, Keungoui and Lee, Junmin and Hwang, Junseok},\nfile = {:Users/keungouikim/Desktop/Mendeley/Park et al. - 2018 - A Study on Cooperation Model for Promoting Overseas Volunteering Program Based on Appropriate Technology Orienting.pdf:pdf},\njournal = {Journal of Appropriate Technology},\nkeywords = {Appropriate Technology,Corporate-University-Institute Cooperation Model,Reliability,Student Participating,Sus- tainability},\nnumber = {1},\npages = {1--8},\ntitle = {{A Study on Cooperation Model for Promoting Overseas Volunteering Program Based on Appropriate Technology Orienting University Students Participation : Focused on Institute for Global Social Responsibility in SNU}},\nvolume = {4},\nyear = {2018}\n}"
   },
   {
     "type": "journal",
@@ -801,20 +765,9 @@
     "venue": "Journal of Real Estate Analysis",
     "link": "https://doi.org/https://doi.org/10.30902/jrea.2017.3.1.35",
     "keywords": [
-      "ac",
-      "awekim",
-      "clustering analysis",
-      "com",
-      "gmail",
-      "kr",
-      "snu",
-      "sungdo81",
-      "transaction price index",
-      "교신저자",
-      "서울대학교 기술경영경제정책대학원 경제학 박사과정",
-      "주저자",
-      "한국엔지니어링협회 정책연구실 선임연구원"
+      "Clustering analysis",
+      "Transaction price index"
     ],
-    "bibtex": "@article{Kim2017d,\nauthor = {Kim, Keungoui and Jung, Sungdo},\ndoi = {https://doi.org/10.30902/jrea.2017.3.1.35},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim, Jung - 2017 - A Study on Apartment Transaction Price Index Using Cluster Analysis - Focused on the case of Seoul -.pdf:pdf},\njournal = {Journal of Real Estate Analysis},\nkeywords = {ac,awekim,clustering analysis,com,gmail,kr,snu,sungdo81,transaction price index,교신저자,서울대학교 기술경영경제정책대학원 경제학 박사과정,주저자,한국엔지니어링협회 정책연구실 선임연구원},\nnumber = {1},\npages = {35--58},\ntitle = {{A Study on Apartment Transaction Price Index Using Cluster Analysis - Focused on the case of Seoul -}},\nvolume = {3},\nyear = {2017}\n}"
+    "bibtex": "@article{Kim2017d,\nauthor = {Kim, Keungoui and Jung, Sungdo},\ndoi = {https://doi.org/10.30902/jrea.2017.3.1.35},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim, Jung - 2017 - A Study on Apartment Transaction Price Index Using Cluster Analysis - Focused on the case of Seoul -.pdf:pdf},\njournal = {Journal of Real Estate Analysis},\nkeywords = {Clustering analysis,Transaction price index},\nnumber = {1},\npages = {35--58},\ntitle = {{A Study on Apartment Transaction Price Index Using Cluster Analysis - Focused on the case of Seoul -}},\nvolume = {3},\nyear = {2017}\n}"
   }
 ]
