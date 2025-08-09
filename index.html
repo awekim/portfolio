@@ -1,71 +1,504 @@
 <!DOCTYPE html>
-<html class="no-js" lang="en">
-
+<html lang="ko" class="scroll-smooth">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>My Portfolio</title>
-	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-	<link rel="icon" href="favicon.ico" type="image/x-icon">
-    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
-    <link rel="stylesheet" href="libs/font-awesome/css/font-awesome.min.css">
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/styles.css" rel="stylesheet">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Social science and Applied Artificial Intelligence (SAAI) Lab</title>
+  <meta name="description" content="SAAI Lab" />
+  <meta name="color-scheme" content="light dark" />
+
+  <!-- Tailwind (CDN) -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: { sans: ["Inter","ui-sans-serif","system-ui","Apple SD Gothic Neo","Noto Sans KR","Helvetica","Arial"] },
+          colors: { brand: { DEFAULT: '#2e5aac' } }
+        }
+      },
+      darkMode: 'class'
+    }
+  </script>
+
+  <!-- Tailwind @apply: CDN에서는 type="text/tailwindcss" 필요 -->
+  <style type="text/tailwindcss">
+    .prose a{ @apply underline underline-offset-2; }
+    .chip{ @apply inline-flex items-center rounded-full border px-3 py-1 text-sm; }
+    .card{ @apply rounded-2xl border shadow-sm bg-white/70 dark:bg-zinc-900/70 backdrop-blur; }
+    .btn{ @apply inline-flex items-center gap-2 rounded-xl border px-3 py-2 text-sm hover:-translate-y-px transition; }
+  </style>
+
+  <!-- 아이콘 (선택) -->
+  <script type="module">import 'https://unpkg.com/lucide@latest/dist/esm/lucide.js';</script>
+  <!-- BibTeX 파서 (BibTeX 폴백) -->
+  <script src="https://cdn.jsdelivr.net/npm/bibtex-parse-js@2.0.2/dist/bibtexParse.min.js" defer></script>
 </head>
 
-<body>
-    <div id="mobile-menu-open" class="shadow-large">
-        <i class="fa fa-bars" aria-hidden="true"></i>
+<body class="font-sans bg-zinc-50 text-zinc-800 dark:bg-zinc-950 dark:text-zinc-100">
+  <!-- 고정 상단 네비 -->
+  <header class="sticky top-0 z-50 backdrop-blur bg-white/70 dark:bg-zinc-900/60 border-b">
+    <div class="mx-auto max-w-6xl px-4 py-3 flex items-center justify-between">
+      <a href="#top" class="font-semibold tracking-tight">교수 홈페이지</a>
+      <nav class="hidden md:flex gap-6 text-sm">
+        <a href="#about" class="hover:text-brand">소개</a>
+        <a href="#research" class="hover:text-brand">연구</a>
+        <a href="#publications" class="hover:text-brand">논문</a>
+        <a href="#lab" class="hover:text-brand">연구실</a>
+        <a href="#teaching" class="hover:text-brand">강의</a>
+        <a href="#contact" class="hover:text-brand">연락처</a>
+      </nav>
+      <div class="flex items-center gap-2">
+        <button id="themeToggle" class="btn" aria-label="테마 전환">
+          <svg id="icon-sun" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="h-5 w-5"><path fill="currentColor" d="M12 4.5a1 1 0 0 0 1-1V2a1 1 0 1 0-2 0v1.5a1 1 0 0 0 1 1m0 15a1 1 0 0 0-1 1V22a1 1 0 1 0 2 0v-1.5a1 1 0 0 0-1-1M4.5 11a1 1 0 0 0-1 1 1 1 0 0 0 1 1H6a1 1 0 1 0 0-2zM18 11a1 1 0 1 0 0 2h1.5a1 1 0 1 0 0-2zM6.34 6.34a1 1 0 0 0 1.41 0 1 1 0 0 0 0-1.41L6.7 3.88a1 1 0 0 0-1.41 1.41zM16.25 16.25a1 1 0 1 0 1.41 1.41l1.06-1.06a1 1 0 0 0-1.41-1.41zM3.88 17.3a1 1 0 1 0 1.41 1.41l1.06-1.06a1 1 0 0 0-1.41-1.41zM18.66 6.34l1.06-1.06a1 1 0 0 0-1.41-1.41l-1.06 1.06a1 1 0 0 0 1.41 1.41Z"/></svg>
+          <svg id="icon-moon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="h-5 w-5 hidden"><path fill="currentColor" d="M21.64 13a9 9 0 1 1-10.63-10.6a1 1 0 0 1 1 .25a1 1 0  1 .29.95a7 7 0 0 0 8.05 8.05a1 1 0 0 1 .7.2a1 1 0 0 1 .36.88a1 1 0 0 1-.77.82Z"/></svg>
+        </button>
+        <button id="mobileMenuBtn" class="md:hidden btn" aria-label="메뉴 열기">메뉴</button>
+      </div>
     </div>
-
-    <div id="lead">
-        <div id="lead-content">
-            <h1>Keungoui Kim</h1>
-            <h2>Economist & Computational Social Scientist</h2>
-            <a href="Keungoui Kim CV_git.pdf" class="btn-rounded-white">Download Resume</a>
-        </div>
-	<!-- End #lead-content -->
-
-        <div id="lead-overlay"></div>
-
-        <!-- End #lead-down -->
+    <div id="mobileMenu" class="md:hidden hidden border-t">
+      <nav class="mx-auto max-w-6xl px-4 py-3 grid gap-2 text-sm">
+        <a href="#about" class="hover:text-brand">소개</a>
+        <a href="#research" class="hover:text-brand">연구</a>
+        <a href="#publications" class="hover:text-brand">논문</a>
+        <a href="#lab" class="hover:text-brand">연구실</a>
+        <a href="#teaching" class="hover:text-brand">강의</a>
+        <a href="#contact" class="hover:text-brand">연락처</a>
+      </nav>
     </div>
-    <!-- End #lead -->
+  </header>
 
-    <footer>
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-5 copyright">
-                    <p>
-                        Copyright &copy; <span id="current-year">2024</span> KEUNGOUI KIM
-                    </p>
-                </div>
-                <div class="col-sm-2 top">
-                    <span id="to-top">
-                        <i class="fa fa-chevron-up" aria-hidden="true"></i>
-                    </span>
-                </div>
-                <div class="col-sm-5 social">
-                    <ul>
-                        <li>
-                            <a href="https://scholar.google.co.kr/citations?user=xax349oAAAAJ&hl=ko" target="_blank">Google Scholar</a>
-                        </li>
-                        <li>
-                            <a href="https://www.researchgate.net/profile/Keungoui-Kim" target="_blank">ResearchGate</a>
-                        </li>
-                        <li>
-                            <a href="https://www.linkedin.com/in/keungoui-kim-b8a731193/" target="_blank">LinkedIn</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
+  <!-- 히어로 -->
+  <section id="top" class="relative">
+    <div class="mx-auto max-w-6xl px-4 pt-10 pb-8 grid md:grid-cols-[1fr,320px] gap-8 items-center">
+      <div>
+        <h1 class="text-3xl md:text-4xl font-extrabold tracking-tight">Keungoui Kim (김경외)</h1>
+        <p class="mt-2 text-zinc-600 dark:text-zinc-300">
+          Assistant Professor · Yonsei University · Underwood International College (UIC) · Humanities, Arts, and Social Sciences Division (HASSD) · Science, Technology, and Policy </p>
+        <div class="mt-4 flex flex-wrap gap-2">
+          <a class="btn" href="#publications" aria-label="논문 보기">Publication</a>
+          <a class="btn" href="#research" aria-label="연구 보기">Project</a>
+          <a class="btn" href="#lab" aria-label="연구실 보기">SAAI Lab</a>
+          <a class="btn" href="#contact" aria-label="연락처">Contact</a>
         </div>
-    </footer>
+        <div class="mt-6 prose prose-zinc dark:prose-invert">
+          <p>"But by the grace of God I am what I am, and his grace to me was not without effect. No, I worked harder than all of them—yet not I, but the grace of God that was with me." 1 Corinthians 15:10</p>
+        </div>
+        <div class="mt-4 flex flex-wrap gap-2">
+          <span class="chip"><b>Computational Social Science</b></span>
+          <span class="chip"><b>Applied Artificial Intelligence</b></span>
+          <span class="chip"><b>Science, Technology, and Policy</b></span>
+          <span class="chip"><b>Network Theory</b></span>
+          <span class="chip"><b>Evolutionary Economic Geography</b></span>
+          <span class="chip"><b>Economics</b></span>
+        </div>
+      </div>
+      <div class="justify-self-center md:justify-self-end">
+        <div class="size-64 rounded-2xl overflow-hidden border shadow bg-gradient-to-br from-zinc-200 to-zinc-50 dark:from-zinc-800 dark:to-zinc-900 flex items-center justify-center text-zinc-500">
+          <span>프로필 사진</span>
+        </div>
+        <div class="mt-3 text-sm text-zinc-500">/assets/profile.jpg 를 추가하면 자동 표시하도록 변경할 수 있습니다.</div>
+      </div>
+    </div>
+  </section>
 
+  <!-- 소개 / 업데이트 -->
+  <section id="about" class="py-8">
+    <div class="mx-auto max-w-6xl px-4 grid md:grid-cols-3 gap-6">
+      <div class="md:col-span-2 card p-6">
+        <h2 class="text-xl font-semibold">Brief Introduction</h2>
+        <p class="mt-2 text-zinc-600 dark:text-zinc-300">^-^</p>
+      </div>
+      <div class="card p-6">
+        <h3 class="text-lg font-semibold">최근 소식</h3>
+        <ul id="newsList" class="mt-3 space-y-2 text-sm"></ul>
+      </div>
+    </div>
+  </section>
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="js/scripts.min.js"></script>
+  <!-- 논문 -->
+  <section id="publications" class="py-8">
+    <div class="mx-auto max-w-6xl px-4">
+      <div class="flex items-end justify-between gap-4">
+        <h2 class="text-xl font-semibold">논문 & 연구 성과</h2>
+        <div class="flex items-center gap-2">
+          <input id="pubSearch" type="search" placeholder="제목/저자/키워드 검색" class="border rounded-xl px-3 py-2 text-sm w-56" />
+          <select id="pubYear" class="border rounded-xl px-3 py-2 text-sm">
+            <option value="all">모든 연도</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="mt-4 flex flex-wrap gap-2" id="pubTabs">
+        <button class="btn" data-type="all">전체</button>
+        <button class="btn" data-type="journal">저널</button>
+        <button class="btn" data-type="working">작업중/워킹페이퍼</button>
+        <button class="btn" data-type="conference">학회/발표</button>
+        <button class="btn" data-type="report">보고서</button>
+        <button class="btn" id="downloadBib">BibTeX 내보내기</button>
+      </div>
+
+      <ol id="pubList" class="mt-6 space-y-4"></ol>
+      <div class="mt-4 flex justify-center">
+        <button id="showMore" class="btn hidden">더 보기</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- 연구 -->
+  <section id="research" class="py-8">
+    <div class="mx-auto max-w-6xl px-4">
+      <h2 class="text-xl font-semibold mb-4">Research Projects</h2>
+      <div class="grid md:grid-cols-3 gap-4">
+        <article class="card p-6">
+          <h3 class="font-semibold">발명가 이동성과 지식 확산</h3>
+          <p class="mt-2 text-sm text-zinc-600 dark:text-zinc-300">발명가의 이직과 네트워크 이동이 기업 혁신성과에 미치는 영향, 내생성 이슈 및 식별 전략.</p>
+        </article>
+        <article class="card p-6">
+          <h3 class="font-semibold">Relatedness Density와 지역 전문화</h3>
+          <p class="mt-2 text-sm text-zinc-600 dark:text-zinc-300">과학-기술 공간에서의 인접성 지표가 단기·장기 전문화에 미치는 효과.</p>
+        </article>
+        <article class="card p-6">
+          <h3 class="font-semibold">AI와 사회/정책</h3>
+          <p class="mt-2 text-sm text-zinc-600 dark:text-zinc-300">생성형 AI의 고등교육·연구 생산성에 대한 영향과 정책적 시사점.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- 연구실 -->
+  <section id="lab" class="py-8">
+    <div class="mx-auto max-w-6xl px-4">
+      <h2 class="text-xl font-semibold">연구실 (AI·혁신정책 연구그룹)</h2>
+      <p class="mt-2 text-zinc-600 dark:text-zinc-300">학부/대학원생 연구 참여 환영합니다. 관심 주제: 생성형 AI와 생산성, 과학계량, 네트워크 분석.</p>
+      <div class="mt-4 grid sm:grid-cols-2 lg:grid-cols-3 gap-4" id="labGrid"></div>
+    </div>
+  </section>
+
+  <!-- 강의 -->
+  <section id="teaching" class="py-8">
+    <div class="mx-auto max-w-6xl px-4">
+      <h2 class="text-xl font-semibold">강의</h2>
+      <div class="mt-4 grid md:grid-cols-2 gap-4" id="courseGrid"></div>
+    </div>
+  </section>
+
+  <!-- 연락처 -->
+  <section id="contact" class="py-10">
+    <div class="mx-auto max-w-6xl px-4 card p-6">
+      <h2 class="text-xl font-semibold">연락처</h2>
+      <div class="mt-2 text-sm text-zinc-600 dark:text-zinc-300">
+        <p><strong>이메일</strong> : <a href="mailto:you@university.ac.kr">you@university.ac.kr</a></p>
+        <p><strong>주소</strong> : 연세대학교 ○○관 ○○호 (우) 00000</p>
+        <div class="mt-3 flex flex-wrap gap-2">
+          <a class="btn" href="https://scholar.google.com/citations?user=xax349oAAAAJ&hl=ko" target="_blank" rel="noopener">Google Scholar</a>
+          <a class="btn" href="https://orcid.org/0000-0002-0839-8813" target="_blank" rel="noopener">ORCID</a>
+          <a class="btn" href="https://github.com/awekim" target="_blank" rel="noopener">GitHub</a>
+          <a class="btn" href="Keungoui Kim CV_git.pdf" target="_blank" rel="noopener">CV (PDF)</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer class="py-8 text-center text-xs text-zinc-500">
+    © <span id="year"></span> Keungoui Kim. GitHub Pages.
+  </footer>
+
+  <!-- 데이터 & 스크립트 -->
+  <script>
+  // ====== 설정 ======
+  const PROFILE = {
+    nameKo: '김경외',
+    nameEn: 'Keungoui Kim',
+    title: 'Professor',
+    affiliation: 'Yonsei University',
+    email: 'awekim@yonsei.ac.kr',
+    links: {
+      scholar: 'https://scholar.google.com/citations?user=XXXXXXXX',
+      orcid: 'https://orcid.org/0000-0000-0000-0000',
+      github: 'https://github.com/USERNAME',
+      cv: 'CV.pdf'
+    }
+  }
+
+  const NEWS = [
+    { date: '2025-08-01', text: 'AI와 미래 포럼(4월) 발표 자료 업데이트.' },
+    { date: '2025-06-15', text: '새 워킹페이퍼 공개: 발명가 이동성과 기업 혁신.' },
+    { date: '2025-03-06', text: 'Criminology 저널 투고 준비 시작.' }
+  ]
+
+  const LAB_MEMBERS = [
+    { name: '홍길동', role: 'PI', email: PROFILE.email },
+    { name: '김학생', role: '박사과정', email: 'phd@yonsei.ac.kr' },
+    { name: '이학생', role: '석사과정', email: 'ms@yonsei.ac.kr' },
+    { name: '박학생', role: '학부연구생', email: 'ug@yonsei.ac.kr' },
+  ]
+
+  const COURSES = [
+    { term: '2025-2', code: 'STP101', name: '과학기술정책입문', link: '#', desc: '기술혁신과 정책의 기본 개념.' },
+    { term: '2025-1', code: 'AIP201', name: 'AI와 사회', link: '#', desc: '생성형 AI의 사회적 영향과 제도.' }
+  ]
+
+  // ====== 데이터 로딩 (publication.json → publication.bib) ======
+  let ALL_PUBS = []
+  let STATE = { type: 'all', q: '', year: 'all', limit: 5 } // 초기엔 5개만
+
+  async function tryFetchJSON(path){
+    const res = await fetch(path, { cache: 'no-store' })
+    if(!res.ok) throw new Error(`HTTP ${res.status} @ ${path}`)
+    return await res.json()
+  }
+  async function tryFetchText(path){
+    const res = await fetch(path, { cache: 'no-store' })
+    if(!res.ok) throw new Error(`HTTP ${res.status} @ ${path}`)
+    return await res.text()
+  }
+  function mapTypeBib(t){
+    const x = String(t||'').toLowerCase()
+    if(x==='article') return 'journal'
+    if(x==='inproceedings' || x==='conference' || x==='proceedings') return 'conference'
+    if(x==='techreport' || x==='phdthesis' || x==='mastersthesis') return 'report'
+    return 'working'
+  }
+  function formatAuthorsBib(raw){
+    if(!raw) return ''
+    return String(raw).split(/\s+and\s+/i).map(n=>{
+      const parts = n.split(',').map(s=>s.trim())
+      if(parts.length===2){
+        const last = parts[0]
+        const initials = parts[1].split(/\s+/).map(c=> (c && c[0] ? c[0].toUpperCase()+'.' : '')).join(' ')
+        return `${last} ${initials}`.trim()
+      }
+      return n.trim()
+    }).join(', ')
+  }
+  function parseBibToItems(bibText){
+    const entries = (typeof bibtexParse!== 'undefined' && bibtexParse && bibtexParse.toJSON) ? bibtexParse.toJSON(bibText) : []
+    return entries.map(e=>{
+      const f = e.entryTags || {}
+      const year = parseInt(f.year || f.YEAR || '') || null
+      const title = String(f.title || f.TITLE || '').replace(/[{}]/g,'')
+      const journal = f.journal || f.JOURNAL
+      const booktitle = f.booktitle || f.BOOKTITLE
+      const institution = f.institution || f.INSTITUTION
+      const url = f.url || f.URL || ''
+      const doi = f.doi || f.DOI || ''
+      const link = url || (doi ? `https://doi.org/${doi}` : '')
+      const keywords = String(f.keywords || f.KEYWORDS || '').split(/[;,]/).map(s=>s.trim()).filter(Boolean)
+      return {
+        type: mapTypeBib(e.entryType || ''),
+        year,
+        title,
+        authors: formatAuthorsBib(f.author || f.AUTHOR || ''),
+        venue: journal || booktitle || institution || '',
+        link,
+        keywords,
+        bibtex: e.citationString || e.original || ''
+      }
+    })
+  }
+
+  async function loadDataAndRender(){
+    if (location.protocol === 'file:') {
+      const list = document.getElementById('pubList');
+      if(list) list.innerHTML = `<li class="text-sm text-red-600 dark:text-red-400">
+        로컬 파일로 직접 열면 publication.json / publication.bib 를 불러올 수 없습니다.<br>
+        로컬 서버를 띄워 접속해주세요 (예: <code>python3 -m http.server 8000</code>).
+      </li>`;
+      console.warn('Running from file:// — fetch blocked by the browser. Serve via http://localhost instead.');
+      return;
+    }
+    const errs = []
+    try{
+      ALL_PUBS = await tryFetchJSON('publication.json')
+    }catch(e){ errs.push(String(e.message||e)) }
+
+    if(!ALL_PUBS?.length){
+      try{
+        const bib = await tryFetchText('publication.bib')
+        ALL_PUBS = parseBibToItems(bib)
+      }catch(e){ errs.push(String(e.message||e)) }
+    }
+
+    if(!ALL_PUBS?.length){
+      console.error('데이터 로딩 실패:', errs)
+      const list = document.getElementById('pubList')
+      if(list) list.innerHTML = `<li class="text-sm text-red-600 dark:text-red-400">데이터를 불러오지 못했습니다. (시도: publication.json → publication.bib)<br>${errs.join(' | ')}</li>`
+      return
+    }
+
+    // 정렬 후 초기 5개만 보이게
+    ALL_PUBS.sort((a,b)=> (b.year||0) - (a.year||0))
+    populateYears()
+    renderPubs()
+
+    // 더 보기 버튼 표시 여부
+    const hasMore = ALL_PUBS.length > STATE.limit
+    document.getElementById('showMore').classList.toggle('hidden', !hasMore)
+  }
+
+  // ====== 렌더링 ======
+  const $ = (sel) => document.querySelector(sel)
+  const $$ = (sel) => document.querySelectorAll(sel)
+
+  function initProfile(){
+    document.title = `${PROFILE.nameKo} (${PROFILE.nameEn}) — 연구 · 논문 · 연구실`
+    const linkMap = {
+      'Google Scholar': PROFILE.links.scholar,
+      'ORCID': PROFILE.links.orcid,
+      'GitHub': PROFILE.links.github,
+      'CV (PDF)': PROFILE.links.cv
+    }
+    $$('#contact a').forEach(a=>{ if(linkMap[a.textContent.trim()]) a.href = linkMap[a.textContent.trim()] })
+    document.getElementById('year').textContent = new Date().getFullYear()
+  }
+
+  function renderNews(){
+    const ul = document.getElementById('newsList'); ul.innerHTML = ''
+    NEWS.sort((a,b)=> b.date.localeCompare(a.date)).forEach(n=>{
+      const li = document.createElement('li')
+      li.innerHTML = `<span class="font-mono text-xs">${n.date}</span> · ${n.text}`
+      ul.appendChild(li)
+    })
+  }
+
+  function renderLab(){
+    const grid = document.getElementById('labGrid'); grid.innerHTML = ''
+    LAB_MEMBERS.forEach(m=>{
+      const card = document.createElement('div')
+      card.className = 'card p-5'
+      card.innerHTML = `
+        <div class="flex items-center gap-4">
+          <div class="size-12 rounded-full bg-zinc-200 dark:bg-zinc-800 flex items-center justify-center">${m.name[0]}</div>
+          <div>
+            <div class="font-semibold">${m.name}</div>
+            <div class="text-sm text-zinc-500">${m.role}</div>
+            <a class="text-sm" href="mailto:${m.email}">${m.email}</a>
+          </div>
+        </div>`
+      grid.appendChild(card)
+    })
+  }
+
+  function renderCourses(){
+    const grid = document.getElementById('courseGrid'); grid.innerHTML = ''
+    COURSES.forEach(c=>{
+      const el = document.createElement('div')
+      el.className = 'card p-5'
+      el.innerHTML = `
+        <div class="flex items-center justify-between">
+          <div>
+            <div class="font-semibold">${c.code} · ${c.name}</div>
+            <div class="text-sm text-zinc-500">${c.term}</div>
+            <p class="mt-2 text-sm">${c.desc ?? ''}</p>
+          </div>
+          <a class="btn" href="${c.link}" target="_blank" rel="noopener">강의계획서</a>
+        </div>`
+      grid.appendChild(el)
+    })
+  }
+
+  function populateYears(){
+    const years = Array.from(new Set(ALL_PUBS.map(p=>p.year))).filter(Boolean).sort((a,b)=>b-a)
+    const sel = document.getElementById('pubYear'); sel.innerHTML = '<option value="all">모든 연도</option>'
+    years.forEach(y=>{
+      const opt = document.createElement('option'); opt.value=y; opt.textContent=y; sel.appendChild(opt)
+    })
+  }
+
+  function labelOf(type){
+    return ({journal:'저널', working:'워킹페이퍼', conference:'학회', report:'보고서'})[type] || type
+  }
+  function renderKeywords(keys){
+    if(!keys || !keys.length) return ''
+    return `<div class='mt-2 flex flex-wrap gap-2'>${keys.map(k=>`<span class='chip text-zinc-600 dark:text-zinc-300 border-zinc-300 dark:border-zinc-700'>${k}</span>`).join('')}</div>`
+  }
+  function copyBib(btn){
+    const text = decodeURIComponent(btn.dataset.bib || '')
+    if(!text) return
+    navigator.clipboard.writeText(text).then(()=>{
+      btn.textContent = '복사됨!'; setTimeout(()=>btn.textContent='BibTeX 복사', 1200)
+    })
+  }
+  function downloadBibAll(){
+    const all = ALL_PUBS.map(p=>p.bibtex).filter(Boolean).join('\n\n')
+    const blob = new Blob([all], { type: 'text/plain;charset=utf-8' })
+    const a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'publications.bib'; a.click()
+    setTimeout(()=>URL.revokeObjectURL(a.href), 1000)
+  }
+
+  function applyFilters(){
+    const q = (STATE.q || '').toLowerCase()
+    return ALL_PUBS
+      .filter(p => STATE.type==='all' ? true : p.type===STATE.type)
+      .filter(p => STATE.year==='all' ? true : String(p.year)===String(STATE.year))
+      .filter(p => !q ? true : [p.title, p.authors, p.venue, ...(p.keywords||[])].join(' ').toLowerCase().includes(q))
+      .sort((a,b)=> (b.year||0) - (a.year||0))
+  }
+
+  function renderPubs(){
+    const list = document.getElementById('pubList'); list.innerHTML = ''
+    let data = applyFilters()
+
+    const hasMore = data.length > STATE.limit
+    const showing = STATE.limit ? data.slice(0, STATE.limit) : data
+
+    if(showing.length===0){ list.innerHTML = '<li class="text-sm text-zinc-500">검색 결과가 없습니다.</li>'; document.getElementById('showMore').classList.add('hidden'); return }
+
+    showing.forEach(p=>{
+      const li = document.createElement('li')
+      li.className = 'card p-5'
+      li.innerHTML = `
+        <div class="flex items-start justify-between gap-4">
+          <div>
+            <div class="text-sm text-zinc-500">${p.year || ''} · ${labelOf(p.type)}</div>
+            <h3 class="font-semibold mt-1">${p.title}</h3>
+            <div class="text-sm mt-1">${p.authors}</div>
+            <div class="text-sm text-zinc-500">${p.venue ?? ''}</div>
+            ${renderKeywords(p.keywords)}
+          </div>
+          <div class="flex flex-col gap-2 items-end">
+            ${p.link ? `<a class="btn" href="${p.link}" target="_blank" rel="noopener">원문/자료</a>` : ''}
+            <button class="btn" data-bib='${encodeURIComponent(p.bibtex ?? '')}' onclick="copyBib(this)">BibTeX 복사</button>
+          </div>
+        </div>`
+      list.appendChild(li)
+    })
+
+    document.getElementById('showMore').classList.toggle('hidden', !hasMore)
+  }
+
+  // 이벤트 바인딩 & 시작
+  function bindEvents(){
+    const root = document.documentElement
+    const saved = localStorage.getItem('theme')
+    if(saved==='dark' || (!saved && window.matchMedia('(prefers-color-scheme: dark)').matches)){
+      root.classList.add('dark'); document.getElementById('icon-sun').classList.add('hidden'); document.getElementById('icon-moon').classList.remove('hidden')
+    }
+    document.getElementById('themeToggle').addEventListener('click', ()=>{
+      const isDark = root.classList.toggle('dark')
+      localStorage.setItem('theme', isDark ? 'dark' : 'light')
+      document.getElementById('icon-sun').classList.toggle('hidden', isDark)
+      document.getElementById('icon-moon').classList.toggle('hidden', !isDark)
+    })
+    document.getElementById('mobileMenuBtn').addEventListener('click', ()=> document.getElementById('mobileMenu').classList.toggle('hidden'))
+
+    // 탭/필터/검색 → 전체 보기로 전환
+    document.querySelectorAll('#pubTabs [data-type]')?.forEach(b=> b.addEventListener('click', (e)=>{ STATE.type = e.currentTarget.dataset.type; STATE.limit = 0; renderPubs() }))
+    document.getElementById('pubSearch').addEventListener('input', (e)=>{ STATE.q = e.target.value; STATE.limit = 0; renderPubs() })
+    document.getElementById('pubYear').addEventListener('change', (e)=>{ STATE.year = e.target.value; STATE.limit = 0; renderPubs() })
+    document.getElementById('downloadBib').addEventListener('click', downloadBibAll)
+
+    // 더 보기
+    document.getElementById('showMore').addEventListener('click', ()=>{ STATE.limit = 0; renderPubs() })
+  }
+
+  // 시작
+  function renderNewsLabCourses(){ renderNews(); renderLab(); renderCourses(); }
+  initProfile();
+  renderNewsLabCourses();
+  bindEvents();
+  loadDataAndRender();
+  </script>
 </body>
-
 </html>
