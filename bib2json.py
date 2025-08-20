@@ -1,5 +1,5 @@
 # bib2json.py
-# python bib2json.py publication.bib publications.json
+# python bib2json.py publication.bib publication.json
 import re, json, sys
 
 src = sys.argv[1] if len(sys.argv)>1 else "publication.bib"
