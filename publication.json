@@ -15,25 +15,16 @@
       "Regional branching",
       "Regional knowledge space",
       "Science specialization",
-      "Semantic proximity",
-      "bert-similarity",
-      "bertopic",
-      "evolutionary economic geography",
-      "knowledge proximity",
-      "quantum science",
-      "regional branching",
-      "regional knowledge space",
-      "science specialization",
-      "semantic proximity"
+      "Semantic proximity"
     ],
-    "bibtex": "@article{Kim2025,\nauthor = {Kim, Keungoui and Kogler, Dieter F and Hur, Jisoo},\ndoi = {10.1007/s11192-025-05430-y},\nfile = {:Users/keungouikim/Desktop/Mendeley/0f80f1d4-c26c-44e7-bb12-4acbe63a2d82.pdf:pdf;:Users/keungouikim/Desktop/Mendeley/Kim, Kogler, Hur - 2025 - Mapping regional knowledge spaces via BERTopic and BERT similarity the semantic proximity of quantum science.pdf:pdf},\nisbn = {0123456789},\nissn = {1588-2861},\njournal = {Scientometrics},\nkeywords = {BERT-similarity,BERTopic,Evolutionary Economic Geography,Knowledge proximity,Quantum science,Regional branching,Regional knowledge space,Science specialization,Semantic proximity,bert-similarity,bertopic,evolutionary economic geography,knowledge proximity,quantum science,regional branching,regional knowledge space,science specialization,semantic proximity},\nnumber = {0123456789},\npublisher = {Springer International Publishing},\ntitle = {{Mapping regional knowledge spaces via BERTopic and BERT similarity : the semantic proximity of quantum science in the overall scientific publication landscape}},\nurl = {https://doi.org/10.1007/s11192-025-05430-y},\nyear = {2025}\n}"
+    "bibtex": "@article{Kim2025,\nauthor = {Kim, Keungoui and Kogler, Dieter F and Hur, Jisoo},\ndoi = {10.1007/s11192-025-05430-y},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim, Kogler, Hur - 2025 - Mapping regional knowledge spaces via BERTopic and BERT similarity the semantic proximity of quantum science.pdf:pdf},\nisbn = {0123456789},\nissn = {1588-2861},\njournal = {Scientometrics},\nkeywords = {BERT-similarity,BERTopic,Evolutionary Economic Geography,Knowledge proximity,Quantum science,Regional branching,Regional knowledge space,Science specialization,Semantic proximity},\nnumber = {0123456789},\npublisher = {Springer International Publishing},\ntitle = {{Mapping regional knowledge spaces via BERTopic and BERT similarity : the semantic proximity of quantum science in the overall scientific publication landscape}},\nurl = {https://doi.org/10.1007/s11192-025-05430-y},\nyear = {2025}\n}"
   },
   {
     "type": "journal",
     "year": 2025,
     "title": "{The Impact of Design and Technology Capability on Patent Quality: Exploring the Role of Interdisciplinary Inventors and Their Technological Knowledge}",
     "authors": "Hur J., Kim K.",
-    "venue": "R and D Management",
+    "venue": "R&D Management",
     "link": "https://doi.org/10.1111/radm.70005",
     "keywords": [
       "design-technology integration",
@@ -43,13 +34,13 @@
       "patent analysis",
       "patent quality"
     ],
-    "bibtex": "@article{Hur2025a,\nabstract = {As innovation increasingly requires the integration of technological functionality with aesthetic design and user experience, firms benefit from inventors who can operate across both domains. This study investigates dual-domain inventors—those who contribute to both utility and design patents—as a distinct category of innovation talent. While prior research has emphasized technological specialization, less is known about how inventors who bridge design and technology contribute to innovation outcomes. Using a dataset of patents from 3,110 US public firms, we compare the inventive performance of dual-domain inventors to those engaged solely in technology development. The results show that dual-domain inventors produce higher-value patents, particularly when their technological knowledge occupies central positions within the firm's internal knowledge network. These findings underscore the strategic value of integrating design and technology expertise in product development, highlighting how cross-domain capabilities and organizational knowledge positioning jointly enhance innovation outcomes.},\nauthor = {Hur, Jisoo and Kim, Keungoui},\ndoi = {10.1111/radm.70005},\nfile = {:Users/keungouikim/Desktop/Mendeley/Hur, Kim - 2025 - The Impact of Design and Technology Capability on Patent Quality Exploring the Role of Interdisciplinary Inventors and.pdf:pdf},\nissn = {14679310},\njournal = {R and D Management},\nkeywords = {design-technology integration,interdisciplinary inventors,inventive performance,knowledge centrality,patent analysis,patent quality},\npages = {1--14},\ntitle = {{The Impact of Design and Technology Capability on Patent Quality: Exploring the Role of Interdisciplinary Inventors and Their Technological Knowledge}},\nyear = {2025}\n}"
+    "bibtex": "@article{Hur2025a,\nabstract = {As innovation increasingly requires the integration of technological functionality with aesthetic design and user experience, firms benefit from inventors who can operate across both domains. This study investigates dual-domain inventors—those who contribute to both utility and design patents—as a distinct category of innovation talent. While prior research has emphasized technological specialization, less is known about how inventors who bridge design and technology contribute to innovation outcomes. Using a dataset of patents from 3,110 US public firms, we compare the inventive performance of dual-domain inventors to those engaged solely in technology development. The results show that dual-domain inventors produce higher-value patents, particularly when their technological knowledge occupies central positions within the firm's internal knowledge network. These findings underscore the strategic value of integrating design and technology expertise in product development, highlighting how cross-domain capabilities and organizational knowledge positioning jointly enhance innovation outcomes.},\nauthor = {Hur, Jisoo and Kim, Keungoui},\ndoi = {10.1111/radm.70005},\nfile = {:Users/keungouikim/Desktop/Mendeley/Hur, Kim - 2025 - The Impact of Design and Technology Capability on Patent Quality Exploring the Role of Interdisciplinary Inventors and.pdf:pdf},\nissn = {14679310},\njournal = {R&D Management},\nkeywords = {design-technology integration,interdisciplinary inventors,inventive performance,knowledge centrality,patent analysis,patent quality},\npages = {1--14},\ntitle = {{The Impact of Design and Technology Capability on Patent Quality: Exploring the Role of Interdisciplinary Inventors and Their Technological Knowledge}},\nyear = {2025}\n}"
   },
   {
     "type": "journal",
     "year": 2025,
     "title": "{The emergence of new regional technological specialisations: exploring the role of organisations and their technological network structure}",
-    "authors": "Wanzenb{\\\"{o}}ck I., Rocchetta S., Kim K., Kogler D. F. D. =. {. F. =. {. E. O. N. R. T. S. E. T. R. O. O., their technological network structu.pdf:pdf;:Users/keungouikim/Desktop/Mendeley/Wanzenb{\\\"{o}}ck et al. - 2025 - The emergence of new regional technological specialisations exploring the role of organisations, their te.pdf:pdf",
+    "authors": "Wanzenb{\\\"{o}}ck I., Rocchetta S., Kim K., Kogler D. F. D. =. {. F. =. {. E. A. -. 2. -. T. E. O. N. R. T. S. E. T. R. O. O., their te.pdf:pdf",
     "venue": "Industry and Innovation",
     "link": "https://doi.org/10.1080/13662716.2024.2385575",
     "keywords": [
@@ -60,7 +51,7 @@
       "regional networks",
       "regional technological specialisation"
     ],
-    "bibtex": "@article{Wanzenbock2025,\nabstract = {Technological collaborations are crucial for shaping the emergence of new regional technological specialisations. This article explores the relationship between technological networks formed between organisations, within and across regions, and the ability of these regions to branch into new technological fields. To identify the organisations' collaboration structure, we exploit patent co-applicant data and perform a network analysis of the organisations' collaborations for 245 European NUTS-II regions from 1990 to 2016. Panel regression analyses reveal that (1) a more locally oriented and less dense region-internal network, (2) a more diverse set of region-external linkages, and (3) a higher share of single applicants in a region are positively associated with the emergence of new technological specialisations. These findings highlight the importance of maintaining a balance between the organisations' inward and outward orientation to acquire new technological specialisations. Regions must leverage both internal technological capabilities and external networks to foster processes of technological renewal.},\nauthor = {Wanzenb{\\\"{o}}ck, Iris and Rocchetta, Silvia and Kim, Keungoui and Kogler, Dieter F.},\ndoi = {10.1080/13662716.2024.2385575},\nfile = {:Users/keungouikim/Desktop/Mendeley/The emergence of new regional technological specialisations exploring the role of organisations and their technological network structu.pdf:pdf;:Users/keungouikim/Desktop/Mendeley/Wanzenb{\\\"{o}}ck et al. - 2025 - The emergence of new regional technological specialisations exploring the role of organisations and their te.pdf:pdf},\nissn = {14698390},\njournal = {Industry and Innovation},\nkeywords = {Innovation,Technological collaboration,inter-organisational networks,patent co-application,regional networks,regional technological specialisation},\nnumber = {5},\npages = {513--539},\npublisher = {Routledge},\ntitle = {{The emergence of new regional technological specialisations: exploring the role of organisations and their technological network structure}},\nurl = {https://doi.org/10.1080/13662716.2024.2385575},\nvolume = {32},\nyear = {2025}\n}"
+    "bibtex": "@article{Wanzenbock2025,\nabstract = {Technological collaborations are crucial for shaping the emergence of new regional technological specialisations. This article explores the relationship between technological networks formed between organisations, within and across regions, and the ability of these regions to branch into new technological fields. To identify the organisations' collaboration structure, we exploit patent co-applicant data and perform a network analysis of the organisations' collaborations for 245 European NUTS-II regions from 1990 to 2016. Panel regression analyses reveal that (1) a more locally oriented and less dense region-internal network, (2) a more diverse set of region-external linkages, and (3) a higher share of single applicants in a region are positively associated with the emergence of new technological specialisations. These findings highlight the importance of maintaining a balance between the organisations' inward and outward orientation to acquire new technological specialisations. Regions must leverage both internal technological capabilities and external networks to foster processes of technological renewal.},\nauthor = {Wanzenb{\\\"{o}}ck, Iris and Rocchetta, Silvia and Kim, Keungoui and Kogler, Dieter F.},\ndoi = {10.1080/13662716.2024.2385575},\nfile = {:Users/keungouikim/Desktop/Mendeley/Wanzenb{\\\"{o}}ck et al. - 2025 - The emergence of new regional technological specialisations exploring the role of organisations and their te.pdf:pdf},\nissn = {14698390},\njournal = {Industry and Innovation},\nkeywords = {Innovation,Technological collaboration,inter-organisational networks,patent co-application,regional networks,regional technological specialisation},\nnumber = {5},\npages = {513--539},\npublisher = {Routledge},\ntitle = {{The emergence of new regional technological specialisations: exploring the role of organisations and their technological network structure}},\nurl = {https://doi.org/10.1080/13662716.2024.2385575},\nvolume = {32},\nyear = {2025}\n}"
   },
   {
     "type": "journal",
@@ -86,7 +77,7 @@
       "prompt engineering",
       "rag"
     ],
-    "bibtex": "@article{Ahn2025,\nabstract = {자동차 설계 및 개발 과정에서 개발자는 법과 규제를 준수하기 위해 담당 법률 전문가와 지속적으로 소통하고 협력해야 한다. 그러나 기업 내 법률 전문가의 수가 제한적이라는 현실에서는 다수의 개발자가 적시에법률 자문과 검토를 받기 어렵다. 본 연구는 법률 비전문가인 자동차 개발자가 생성형 AI 를 활용하여 법률 및규제를 검토하고 해석할 수 있도록, 자동차 법률 문서에 특화된 데이터 전처리 및 프롬프트 엔지니어링 방법론을 제안한다. 제안된 방법론은 법률 문서의 구조적 정보를 활용하여 검색 효율성을 높이는 Parent-Child Chunking 기법과 답변 정답률을 향상시키기 위한 프롬프트 엔지니어링 기법을 포함한다. 이러한 접근 방식으로 구축된 RAG 서비스는 자동차 개발자가 법규 관련 업무를 보다 효율적이고 자율적으로 수행하는데 기여할수 있을 것으로 기대된다.},\nauthor = {Ahn, Seonggyu and Moon, Byeori and Park, Sangbeom and Kim, Sehee and Kim, Keungoui},\ndoi = {10.14801/jkiit.2025.23.6.31},\nfile = {:Users/keungouikim/Desktop/Mendeley/Ahn et al. - 2025 - A Study on Data Preprocessing and Prompt Engineering Methodologies Specialized for the Interpretation of Automobile.pdf:pdf;:Users/keungouikim/Desktop/Mendeley/Ahn et al. - 2025 - A Study on Data Preprocessing and Prompt Engineering Methodologies Specialized for the Interpretation of Automobi(2).pdf:pdf;:Users/keungouikim/Desktop/Mendeley/Ahn et al. - 2025 - A Study on Data Preprocessing and Prompt Engineering Methodologies Specialized for the Interpretation of Automobi(3).pdf:pdf},\nissn = {1598-8619},\njournal = {The Journal of Korean Institute of Information Technology},\nkeywords = {automobile law,braking system,parent-child chunking,prompt engineering,rag},\nnumber = {6},\npages = {31--40},\ntitle = {{A Study on Data Preprocessing and Prompt Engineering Methodologies Specialized for the Interpretation of Automobile Law Documents}},\nvolume = {23},\nyear = {2025}\n}"
+    "bibtex": "@article{Ahn2025,\nabstract = {자동차 설계 및 개발 과정에서 개발자는 법과 규제를 준수하기 위해 담당 법률 전문가와 지속적으로 소통하고 협력해야 한다. 그러나 기업 내 법률 전문가의 수가 제한적이라는 현실에서는 다수의 개발자가 적시에법률 자문과 검토를 받기 어렵다. 본 연구는 법률 비전문가인 자동차 개발자가 생성형 AI 를 활용하여 법률 및규제를 검토하고 해석할 수 있도록, 자동차 법률 문서에 특화된 데이터 전처리 및 프롬프트 엔지니어링 방법론을 제안한다. 제안된 방법론은 법률 문서의 구조적 정보를 활용하여 검색 효율성을 높이는 Parent-Child Chunking 기법과 답변 정답률을 향상시키기 위한 프롬프트 엔지니어링 기법을 포함한다. 이러한 접근 방식으로 구축된 RAG 서비스는 자동차 개발자가 법규 관련 업무를 보다 효율적이고 자율적으로 수행하는데 기여할수 있을 것으로 기대된다.},\nauthor = {Ahn, Seonggyu and Moon, Byeori and Park, Sangbeom and Kim, Sehee and Kim, Keungoui},\ndoi = {10.14801/jkiit.2025.23.6.31},\nfile = {:Users/keungouikim/Desktop/Mendeley/Ahn et al. - 2025 - A Study on Data Preprocessing and Prompt Engineering Methodologies Specialized for the Interpretation of Automobi(3).pdf:pdf},\nissn = {1598-8619},\njournal = {The Journal of Korean Institute of Information Technology},\nkeywords = {automobile law,braking system,parent-child chunking,prompt engineering,rag},\nnumber = {6},\npages = {31--40},\ntitle = {{A Study on Data Preprocessing and Prompt Engineering Methodologies Specialized for the Interpretation of Automobile Law Documents}},\nvolume = {23},\nyear = {2025}\n}"
   },
   {
     "type": "journal",
@@ -168,12 +159,43 @@
   {
     "type": "journal",
     "year": 2024,
+    "title": "{Smart Specialisation Strategies and regional knowledge spaces : how to bridge vision and reality}",
+    "authors": "Kim K., Ferrante C., Kogler D. F.",
+    "venue": "Regional Studies",
+    "link": "https://doi.org/10.1080/00343404.2024.2355985",
+    "keywords": [
+      "European Union",
+      "Smart Specialisation Strategies (S3)",
+      "policy design and evaluation",
+      "regional knowledge spaces",
+      "regional research and innovation policy"
+    ],
+    "bibtex": "@article{Kim2024b,\nabstract = {Smart Specialisation Strategies (S3) are implemented across European regions. However, investigations into whether S3 initiatives adequately match local knowledge capabilities are very scarce. This work analyses to what extent S3 policies are coherent with the local knowledge space of 164 European regions, respectively. We show to what extent regional S3 policies target ‘central' technologies, and to what degree S3 policies also target ‘potential' sectors of knowledge production in specific regional settings. Our findings provide a solution for how S3 policies could be designed in the future to overcome the gap between S3 vision and the reality of constraints in regions.},\nauthor = {Kim, Keungoui and Ferrante, Chiara and Kogler, Dieter F},\ndoi = {10.1080/00343404.2024.2355985},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim, Ferrante, Kogler - 2024 - Smart Specialisation Strategies and regional knowledge spaces how to bridge vision and reality Smart Spe.pdf:pdf},\nissn = {0034-3404},\njournal = {Regional Studies},\nkeywords = {European Union,Smart Specialisation Strategies (S3),policy design and evaluation,regional knowledge spaces,regional research and innovation policy},\nnumber = {12},\npages = {2501--2517},\ntitle = {{Smart Specialisation Strategies and regional knowledge spaces : how to bridge vision and reality}},\nurl = {https://doi.org/10.1080/00343404.2024.2355985},\nvolume = {58},\nyear = {2024}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2024,
     "title": "{Identifying interdisciplinary emergence in the science of science: combination of network analysis and BERTopic}",
     "authors": "Kim K., Kogler D. F., Sira M.",
     "venue": "Humanities and Social Sciences Communications",
     "link": "https://doi.org/10.1057/s41599-024-03044-y",
     "keywords": [],
     "bibtex": "@article{Kim2024c,\nabstract = {Global scientific output is expanding exponentially, which in turn calls for a better understanding of the science of science and especially how the boundaries of scientific fields expand through processes of emergence. The present study proposes the application of embedded topic modeling techniques to identify new emerging science via knowledge recombination activities as evidenced through the analysis of research publication metadata. First, a dataset is constructed from metadata derived from the Web of Science Core Collection database. The dataset is then used to generate a global map representing a categorical scientific co-occurrence network. A research field is defined as interdisciplinary when multiple science categories are listed in its description. Second, the co-occurrence networks are subsequently compared between periods to determine changing patterns of influence in light of interdisciplinarity. Third, embedded topic modeling enables unsupervised association of interdisciplinary classification. We present the results of the analysis to demonstrate the emergence of global interdisciplinary sciences and further we perform qualitative validation on the results to identify what the sources of the emergent areas are. Based on these results, we discuss potential applications for identifying emergence through the merging of global interdisciplinary domains.},\nauthor = {Kim, Keungoui and Kogler, Dieter F and Sira, Maliphol},\ndoi = {10.1057/s41599-024-03044-y},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim, Kogler, Sira - 2024 - Identifying interdisciplinary emergence in the science of science combination of network analysis and BERTopi.pdf:pdf},\njournal = {Humanities and Social Sciences Communications},\nnumber = {603},\npages = {1--15},\npublisher = {Springer US},\ntitle = {{Identifying interdisciplinary emergence in the science of science: combination of network analysis and BERTopic}},\nurl = {https://doi.org/10.1057/s41599-024-03044-y},\nvolume = {11},\nyear = {2024}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2024,
+    "title": "{The moderating role of design innovation in the relationship between technology complexity and firm performance}",
+    "authors": "Hur J., Chun Y., Hwang J., Kim K.",
+    "venue": "Technology Analysis & Strategic Management",
+    "link": "https://doi.org/10.1080/09537325.2024.2336555",
+    "keywords": [
+      "Design innovation",
+      "innovation management",
+      "patent analysis",
+      "technology complexity"
+    ],
+    "bibtex": "@article{Hur2024,\nabstract = {In today's highly competitive markets, firms can no longer ensure competitive advantage through the development of highly complex technologies or differentiation based solely on technological and functional factors. Simultaneously, there is growing recognition that design and aesthetic factors can contribute to firms' competitive advantage. Hence, this study examines the relationship between technology complexity, design innovation, and firm performance to uncover the role of design innovation in exploiting complex technologies. Our main hypothesis is that design innovation positively moderates the negative effect that technology complexity has on firm performance. We used a unique dataset that aggregates all patent data published by US-headquartered publicly-traded firms to the parent company level. We combined this dataset with the Computat and PATSTAT databases based on their matching firm identifier. Focusing on 1,743 firms from 1980 to 2015, the results support our hypotheses. This study contributes to the resource-based view of firms by recognising design as a strategic resource that firms can utilise to gain a competitive advantage, especially in the presence of high technology complexity.},\nauthor = {Hur, Jisoo and Chun, Youngsam and Hwang, Junseok and Kim, Keungoui},\ndoi = {10.1080/09537325.2024.2336555},\nfile = {:Users/keungouikim/Desktop/Mendeley/Hur et al. - 2024 - The moderating role of design innovation in the relationship between technology complexity and firm performance.pdf:pdf},\nissn = {0953-7325},\njournal = {Technology Analysis & Strategic Management},\nkeywords = {Design innovation,innovation management,patent analysis,technology complexity},\npages = {1--14},\ntitle = {{The moderating role of design innovation in the relationship between technology complexity and firm performance}},\nurl = {https://doi.org/10.1080/09537325.2024.2336555},\nyear = {2024}\n}"
   },
   {
     "type": "journal",
@@ -201,6 +223,22 @@
     "link": "http://dx.doi.org/10.1371/journal.pone.0298089",
     "keywords": [],
     "bibtex": "@article{Hur2024a,\nabstract = {Successful new product development requires the integration of design and engineering, bridging the gap between technological feasibility and user-centric considerations. However, direct collaboration between designers and engineers with heterogeneous knowledge presents challenges. In this context, the role of design engineers—professionals skilled in both design and engineering—becomes pivotal. This study categorizes inventors into three primary groups: engineers, designers, and design engineers based on the type of patent applications they hold and investigates their differences in knowledge portfolios and collaboration patterns. The study relies on patent data for 4,665 US publicly-traded firms from 1980 to 2015 from the PATSTAT database, and constructs two networks for each firm period: a social network of inventors and a knowledge network of knowledge elements. Findings show that design engineers are highly connected within the social network but have disconnected knowledge in the knowledge network in comparison to engineers. While design engineers may not be the primary drivers of firms' technological innovations, they facilitate interdisciplinary communication and decision-making, fostering a design-technology integrated new product development environment. This research has practical implications for firms seeking to optimize their innovation processes by creating interdisciplinary teams that harness the complementary strengths of engineers and design engineers.},\nauthor = {Hur, Jisoo and Hwang, Junseok and Kim, Keungoui},\ndoi = {10.1371/journal.pone.0298089},\nfile = {:Users/keungouikim/Desktop/Mendeley/Hur, Hwang, Kim - 2024 - The role of design engineers Evidence from intra-firm knowledge and collaboration networks.pdf:pdf},\nisbn = {1111111111},\njournal = {PLoS ONE},\nnumber = {2},\npages = {e0298089},\ntitle = {{The role of design engineers : Evidence from intra-firm knowledge and collaboration networks}},\nurl = {http://dx.doi.org/10.1371/journal.pone.0298089},\nvolume = {19},\nyear = {2024}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2023,
+    "title": "{New Cooperation and Novel Innovations: The Role of Regional Brokerage and Collaboration Intensity}",
+    "authors": "Kim K., Kogler D. F., Zabetta M. C.",
+    "venue": "European Planning Studies",
+    "link": "https://doi.org/10.1080/09654313.2023.2291087",
+    "keywords": [
+      "Brokerage",
+      "co-inventor collaboration",
+      "collaboration intensity",
+      "new collaboration",
+      "novel innovation"
+    ],
+    "bibtex": "@article{Kim2023,\nabstract = {In this paper, we investigate the role of brokers in the regional innovation network and its influence on innovative and collaborative outcomes. For this purpose, we make use of data from the European Patent Office and Eurostat in the period 1986–2015. We first build the regional collaboration network based on co-inventorship ties, and then we identify the brokerage roles played by each region, using the original taxonomy proposed by Gould and Fernandez (1989), to disentangle their impact on innovation and collaboration. Finally, we investigate regional collaboration intensity and how it interacts with brokerage roles, highlighting its mediating effect. Our findings indicate that brokerage roles contribute to the extension of collaboration networks, but also that they are not efficient for the creation of innovation. Collaboration intensity, on the other hand, enhances both innovation and collaborative outcomes and shows how a region can benefit from being a broker.},\nauthor = {Kim, Keungoui and Kogler, Dieter F. and Zabetta, Massimiliano Coda},\ndoi = {10.1080/09654313.2023.2291087},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim, Kogler, Zabetta - 2023 - New Cooperation and Novel Innovations The Role of Regional Brokerage and Collaboration Intensity.pdf:pdf},\nissn = {0965-4313},\njournal = {European Planning Studies},\nkeywords = {Brokerage,co-inventor collaboration,collaboration intensity,new collaboration,novel innovation},\nnumber = {6},\npages = {1251--1272},\ntitle = {{New Cooperation and Novel Innovations: The Role of Regional Brokerage and Collaboration Intensity}},\nurl = {https://doi.org/10.1080/09654313.2023.2291087},\nvolume = {32},\nyear = {2023}\n}"
   },
   {
     "type": "journal",
@@ -259,6 +297,24 @@
   },
   {
     "type": "journal",
+    "year": 2023,
+    "title": "{The effect of watching OTT late at night on the sleep pattern of users}",
+    "authors": "Lee C., Na C., Kim K.",
+    "venue": "Sleep and Biological Rhythms",
+    "link": "https://doi.org/10.1007/s41105-023-00459-z",
+    "keywords": [
+      "Causal inference",
+      "Media behavior",
+      "Media panel data",
+      "OTT",
+      "Random forest",
+      "Sleep duration",
+      "Sleep pattern"
+    ],
+    "bibtex": "@article{Lee2023,\nabstract = {This study aimed to answer the question of how media users will reallocate their sleep time when their main content channel changes from real-time broadcasting to selective viewing through the over-the-top (OTT) media streaming service. To draw a causal inference between OTT consumption and sleep patterns, the difference-in-difference (DID) estimation method was applied. With the DID approach, a clear distinction between treatment and control groups is essential because the main treatment effects can be screened by the compounding effects. While the conventional way of dividing two groups relies on the selection of limited variables, this study adopted random forest nearest-neighbor propensity score matching based on a machine learning algorithm to divide the two groups. This allows for meticulous matching of the two groups except for treatment. Results show that watching OTT late at night has a significant effect on reducing the total sleep duration on average by about 18–20 min (maximum about 30 min at 95% confidence level) and delaying bedtime by about 18 min (maximum about 26 min at 95% confidence level). This study showed that the selective viewing of content through OTT has the advantage of widening the range of content choices for media users and helping in arranging their time more autonomously, but watching content through OTT late at night leads to media users' departure from the existing sleep routine.},\nauthor = {Lee, Changjun and Na, Cheongho and Kim, Keungoui},\ndoi = {10.1007/s41105-023-00459-z},\nfile = {:Users/keungouikim/Desktop/Mendeley/Lee, Na, Kim - 2023 - The effect of watching OTT late at night on the sleep pattern of users.pdf:pdf},\nisbn = {0123456789},\nissn = {1479-8425},\njournal = {Sleep and Biological Rhythms},\nkeywords = {Causal inference,Media behavior,Media panel data,OTT,Random forest,Sleep duration,Sleep pattern},\npages = {395--407},\npublisher = {Springer Nature Singapore},\ntitle = {{The effect of watching OTT late at night on the sleep pattern of users}},\nurl = {https://doi.org/10.1007/s41105-023-00459-z},\nvolume = {21},\nyear = {2023}\n}"
+  },
+  {
+    "type": "journal",
     "year": null,
     "title": "",
     "authors": "Kim K., Nonnis A., {\\\"{O}}zaygen A., Kogler D. F. D. =. {. F. =. {. E. A. -. 2. -. G. F. C. I. G. T. R. O. R. K. I. =. {. J. =. {. E., Management Journal} K. =. {. T. C. D. S. T. O. E. K., unrelated diversity} N. =. {. P. =. {. T. =. {. F. C. I. G. T. R. O. R. K. U. =. {. V. =. {. Y. =. {.",
@@ -283,6 +339,37 @@
       "untact services"
     ],
     "bibtex": "@article{Liu2023,\nabstract = {Since COVID-19, social distancing has become common, and the demand for untact ser- vices has increased rapidly, resulting in an economic phenomenon centered on untact worldwide. Due to social distancing, the untact service area is expanding not only to shopping but also to online learning, home training, and telemedicine, and untact services are expected to expand to more diverse areas in the future. This study investigates four types of untact services: online lec- tures, online meetings related to work and study, online seminars, and online performances, and the effects of concerns about untact services on the intention of use have been examined using a path analysis model. As a result of the analysis, the perceived usefulness had a positive effect on the user's continuous intention to use untact services. However, depending on the type of untact service, it can be confirmed that the factors that affect the intention to continue using the service differ from each other. Practitioners can use the results of this study when designing untact services in the future.},\nauthor = {Liu, Hyun Suk and Lee, Changjun and Kim, Keungoui and Lee, Junmin and Moon, Ahram and Lee, Daeho and Park, Myeongjun},\nfile = {:Users/keungouikim/Desktop/Mendeley/Liu et al. - 2023 - An Analysis of Factors Influencing the Intention to Use Untact Services by Service Type.pdf:pdf},\njournal = {Sustainability},\nkeywords = {intention to use,online lectures,online meetings,online performance,online seminars,untact services},\npages = {1--19},\ntitle = {{An Analysis of Factors Influencing the Intention to Use \"Untact\" Services by Service Type}},\nurl = {https://doi.org/10.3390/su15042870},\nvolume = {15},\nyear = {2023}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2023,
+    "title": "{Which innovation type is better for production efficiency? A comparison between product/service, process, organisational and marketing innovations using stochastic frontier and meta-frontier analysis}",
+    "authors": "Kim K., Lee J., Lee C.",
+    "venue": "Technology Analysis and Strategic Management",
+    "link": "https://doi.org/10.1080/09537325.2021.1965979",
+    "keywords": [
+      "Innovation type",
+      "meta-frontier analysis",
+      "stochastic frontier analysis",
+      "technical efficiency",
+      "workplace panel survey"
+    ],
+    "bibtex": "@article{Kim2023b,\nabstract = {Innovation has been recognised as essential in a firm's success, but not all firms can actively engage in innovation activities due to their limited resources and the potential risks involved in such activities. In such a situation, a better understanding of the difference in the effects of the different innovation types is needed. However, little is known about the differences in technical efficiency in terms of innovation types. This study compared technical efficiency across different firms that applied different production function technologies differentiated by innovation type. Data from the seventh version of the Workplace Panel Survey of the Korean Labor Institute was used. Manufacturing firms that adopted a single innovation type were included in the final sample, based on the results of an exploratory data analysis. Using stochastic frontier analysis, the efficiencies of the four groups were estimated, and the efficiencies of different production function technologies were compared using meta-frontier analysis. The estimation results indicate that the organisation innovation group showed better efficiency than other groups, while the product/service innovation group exhibited the highest potential in its production technology.},\nauthor = {Kim, Keungoui and Lee, Junmin and Lee, Changjun},\ndoi = {10.1080/09537325.2021.1965979},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim, Lee, Lee - 2023 - Which innovation type is better for production efficiency A comparison between productservice, process, organisat.pdf:pdf},\nissn = {14653990},\njournal = {Technology Analysis and Strategic Management},\nkeywords = {Innovation type,meta-frontier analysis,stochastic frontier analysis,technical efficiency,workplace panel survey},\nnumber = {1},\npages = {59--72},\ntitle = {{Which innovation type is better for production efficiency? A comparison between product/service, process, organisational and marketing innovations using stochastic frontier and meta-frontier analysis}},\nurl = {https://doi.org/10.1080/09537325.2021.1965979},\nvolume = {35},\nyear = {2023}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2022,
+    "title": "{Regional Knowledge Capabilities, Entrepreneurial Activity, and Productivity Growth: Evidence from Italian NUTS-3 Regions}",
+    "authors": "Kang T., Maliphol S., Kogler D. F., Kim K.",
+    "venue": "International Regional Science Review",
+    "link": "https://doi.org/10.1177/016001762110341",
+    "keywords": [
+      "entrepreneurial activity",
+      "productivity growth",
+      "regional development",
+      "regional knowledge capability"
+    ],
+    "bibtex": "@article{Kang2022,\nabstract = {Knowledge has replaced labor as the key factor for productivity growth in innovation discourse. The Knowledge Spillover Theory of Entrepreneurship (KSTE) provides the theoretical foundation to bridge the gap between knowledge and productivity growth. The way regional knowledge actually contributes to productivity growth requires a theoretical explanation because knowledge capability is an indirect and intangible input for regional productivity growth. Previous research has shown that entrepreneurship alone is insufficient to drive productivity improvements. We examine how knowledge capabilities lead to meaningful growth outcomes of new firms in a region. This study examines the determinants of productivity growth by analyzing the factors of entrepreneurship and knowledge capabilities at the regional level, especially considering the moderating effect of entrepreneurship between knowledge and regional growth; by comparing different dimensions of local knowledge capabilities; and by aggregating the contribution of knowledge capabilities and entrepreneurship to productivity growth at the regional level. The empirical analysis is performed on Italian NUTS-3 regions by utilizing an integrated data set combining patent data from the EPO PATSTAT database, and regional data from Eurostat regional statistics. This study makes two main contributions to the KSTE literature by linking knowledge, entrepreneurship, and regional growth and by providing empirical results on different aspects of regional knowledge capability. Our findings identify which types of local knowledge capabilities are more important and how related innovative activity interacts with entrepreneurial activity, elucidating the mechanisms by which knowledge affects labor productivity through entrepreneurship.},\nauthor = {Kang, Taewon and Maliphol, Sira and Kogler, Dieter F. and Kim, Keungoui},\ndoi = {10.1177/01600176211034134},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kang et al. - 2022 - Regional Knowledge Capabilities, Entrepreneurial Activity, and Productivity Growth Evidence from Italian NUTS-3 (2).pdf:pdf},\nissn = {15526925},\njournal = {International Regional Science Review},\nkeywords = {entrepreneurial activity,productivity growth,regional development,regional knowledge capability},\nnumber = {3},\npages = {293--320},\ntitle = {{Regional Knowledge Capabilities, Entrepreneurial Activity, and Productivity Growth: Evidence from Italian NUTS-3 Regions}},\nurl = {https://doi.org/10.1177/016001762110341},\nvolume = {45},\nyear = {2022}\n}"
   },
   {
     "type": "working",
@@ -514,7 +601,7 @@
     "type": "journal",
     "year": 2015,
     "title": "모델의 불확실성을 반영한 아파트가격지수 예측 모형 연구",
-    "authors": "김 경., 김 영.",
+    "authors": "김경외, 김영효",
     "venue": "부동산분석",
     "link": "",
     "keywords": [
@@ -524,17 +611,7 @@
       "Housing Price Forecasting",
       "Model Choice Uncertainty"
     ],
-    "bibtex": "@article{2015,\nabstract = {본 연구에서는 베이지안 분석 방법(Bayesian approach)을 기반으로 하는 Bayesian Model Selection(BMS)과 Bayesian Model Averaging(BMA)을 이용해 전통적인 계량 분석 방법(Frequentists approach)에서 발생하는 모델 선정의 불확실성과 이로 인해 발생하는 정보 손실 문제를 개선한 새로운 아파트가격지수 예측 모형을 제시하였다. 2007년 1분기부터 2010년 4분기까지의 거시 경제 변수와 서울과 부산의 지역 변수로 구성된 총 11개 변수들로 분석한 결과, 서울은 지가변동률(서울), 소비자물가지수, 시장금리, 주택담보대출금리, CD금리로 구성된 모델이, 부산은 GDP(명목)으로 구성된 모델이 최적의 모델로 선정되었으며, 상위 모델군은 Occam's Window를 이용해 도출하였다. 이를 통해 선정된 모형과 기존의 AR 모형으로 2011년 1분기부터 2014년 4분기까지 총 16기의 분기별 아파트 실거래가격지수를 예측하였고, BMS와 BMA 모두 기존의 AR 모형보다 예측력 측면에서 뛰어난 것으로 나타났다.},\nauthor = {김, 경외 and 김, 영효},\nfile = {:Users/keungouikim/Desktop/Mendeley/김경외, 김영효 - 2015 - 모델의 불확실성을 반영한 아파트가격지수 예측 모형 연구.pdf:pdf},\njournal = {부동산분석},\nkeywords = {BMA,BMS,Bayesian Methodology,Housing Price Forecasting,Model Choice Uncertainty},\nnumber = {1},\npages = {27--49},\ntitle = {모델의 불확실성을 반영한 아파트가격지수 예측 모형 연구},\nvolume = {1},\nyear = {2015}\n}"
-  },
-  {
-    "type": "conference",
-    "year": 2021,
-    "title": "{Mechanisms that Influence IT Governance Effectiveness : Empirical Analysis in Private and Public Sector in Colombia}",
-    "authors": "Borja S., Kim K., Yoon H., Hwang J.",
-    "venue": "PICMET 2021- Portland International Conference on Management of Engineering and Technology: Managing Technological Entrepreneurship: The Engine for Economic Growth, Proceedings",
-    "link": "10.23919/PICMET53225.2022.9882706",
-    "keywords": [],
-    "bibtex": "@inproceedings{Borja2021,\nabstract = {The influence of information technology (IT) is visible everywhere. The evolution of IT encourages firms to have more concerns about the role that IT is playing for achieving strategic goals. Worldwide is known that companies are making huge investments in IT acquisitions and also in how govern its complexity. As a result, IT governance gains attention among organizations. This study reviews individual IT governance mechanisms and their influence on IT governance effectiveness. The study examines how IT Intensity use by firms and IT governance experience influence IT governance effectiveness. - The IT governance mechanisms selected were IT strategy committee, IT steering committee, involvement of senior management in IT, corporate performance measurement systems, ethics and culture of compliance, and corporate communication Systems. This study uses structural equation modelling to evaluate 293 valid surveys collected from members of the ISACA and PMI in Bogot{\\'{a}} as well as the Colombian Association of Computer Science Engineers (ACIS). This study found that corporate communication systems and IT strategy committee have a positive and significant influence on the overall IT governance effectiveness. In firms with less than 10 years of IT governance experience, the influence of IT strategy committee is higher.},\nauthor = {Borja, Sergio and Kim, Keungoui and Yoon, Hyeunyoung and Hwang, Junseok},\nbooktitle = {PICMET 2021- Portland International Conference on Management of Engineering and Technology: Managing Technological Entrepreneurship: The Engine for Economic Growth, Proceedings},\nfile = {:Users/keungouikim/Desktop/Mendeley/Borja et al. - Unknown - Mechanisms that Influence IT Governance Effectiveness Empirical Analysis in Private and Public Sector in Colomb.pdf:pdf},\ntitle = {{Mechanisms that Influence IT Governance Effectiveness : Empirical Analysis in Private and Public Sector in Colombia}},\nurl = {10.23919/PICMET53225.2022.9882706},\nyear = {2021}\n}"
+    "bibtex": "@article{2015,\nabstract = {본 연구에서는 베이지안 분석 방법(Bayesian approach)을 기반으로 하는 Bayesian Model Selection(BMS)과 Bayesian Model Averaging(BMA)을 이용해 전통적인 계량 분석 방법(Frequentists approach)에서 발생하는 모델 선정의 불확실성과 이로 인해 발생하는 정보 손실 문제를 개선한 새로운 아파트가격지수 예측 모형을 제시하였다. 2007년 1분기부터 2010년 4분기까지의 거시 경제 변수와 서울과 부산의 지역 변수로 구성된 총 11개 변수들로 분석한 결과, 서울은 지가변동률(서울), 소비자물가지수, 시장금리, 주택담보대출금리, CD금리로 구성된 모델이, 부산은 GDP(명목)으로 구성된 모델이 최적의 모델로 선정되었으며, 상위 모델군은 Occam's Window를 이용해 도출하였다. 이를 통해 선정된 모형과 기존의 AR 모형으로 2011년 1분기부터 2014년 4분기까지 총 16기의 분기별 아파트 실거래가격지수를 예측하였고, BMS와 BMA 모두 기존의 AR 모형보다 예측력 측면에서 뛰어난 것으로 나타났다.},\nauthor = {김경외 and 김영효},\nfile = {:Users/keungouikim/Desktop/Mendeley/김경외, 김영효 - 2015 - 모델의 불확실성을 반영한 아파트가격지수 예측 모형 연구.pdf:pdf},\njournal = {부동산분석},\nkeywords = {BMA,BMS,Bayesian Methodology,Housing Price Forecasting,Model Choice Uncertainty},\nnumber = {1},\npages = {27--49},\ntitle = {모델의 불확실성을 반영한 아파트가격지수 예측 모형 연구},\nvolume = {1},\nyear = {2015}\n}"
   },
   {
     "type": "journal",
@@ -545,6 +622,16 @@
     "link": "https://doi.org/10.23919/PICMET.2018.8481752",
     "keywords": [],
     "bibtex": "@article{Borja2018,\nabstract = {Information technology (IT) and innovation are topics that receive the attention among academics. However, the increasing and pervasive dependence on IT from organizations have raised a lot of concerns on the topic of IT governance (ITG). ITG and innovation do not have had the attention among academics. This study aims to examine the relationship among effective ITG, ITG relevant knowledge and how they influence innovation product and process. This study uses structural equation modeling (SEM) to evaluate 215 valid surveys that were collected from members of the respective local chapters located in Bogot{\\'{a}}-Colombia of the following institutions: Information Systems Audit and Control Association (ISACA) and Project Management Institute (PMI). In addition, members of the Colombian computer science engineers association (ACIS) also participate answering our survey instrument. Our study found that ITG has positive and significant influence on innovation product and process. ITG relevant knowledge influences positively ITG especially when ITG experience is high, however, when the ITG experience is low, its effect is perceived as negative on innovation product and process.},\nauthor = {Borja, Sergio and Kim, Keungoui and Yoon, Hyenyoung and Hwang, Junseok},\ndoi = {10.23919/PICMET.2018.8481752},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kocaoglu, Anderson - 2018 - PICMET '18 Portland International Conference on Management of Engineering and Technology proceedings Mana.pdf:pdf},\nisbn = {9781890843373},\njournal = {PICMET 2018 - Portland International Conference on Management of Engineering and Technology: Managing Technological Entrepreneurship: The Engine for Economic Growth, Proceedings},\npublisher = {Portland International Conference on Management of Engineering and Technology, Inc. (PICMET)},\ntitle = {{IT Governance effectiveness and its influence on innovation product and process}},\nyear = {2018}\n}"
+  },
+  {
+    "type": "conference",
+    "year": 2021,
+    "title": "{Mechanisms that Influence IT Governance Effectiveness : Empirical Analysis in Private and Public Sector in Colombia}",
+    "authors": "Borja S., Kim K., Yoon H., Hwang J.",
+    "venue": "PICMET 2021- Portland International Conference on Management of Engineering and Technology: Managing Technological Entrepreneurship: The Engine for Economic Growth, Proceedings",
+    "link": "10.23919/PICMET53225.2022.9882706",
+    "keywords": [],
+    "bibtex": "@inproceedings{Borja2021,\nabstract = {The influence of information technology (IT) is visible everywhere. The evolution of IT encourages firms to have more concerns about the role that IT is playing for achieving strategic goals. Worldwide is known that companies are making huge investments in IT acquisitions and also in how govern its complexity. As a result, IT governance gains attention among organizations. This study reviews individual IT governance mechanisms and their influence on IT governance effectiveness. The study examines how IT Intensity use by firms and IT governance experience influence IT governance effectiveness. - The IT governance mechanisms selected were IT strategy committee, IT steering committee, involvement of senior management in IT, corporate performance measurement systems, ethics and culture of compliance, and corporate communication Systems. This study uses structural equation modelling to evaluate 293 valid surveys collected from members of the ISACA and PMI in Bogot{\\'{a}} as well as the Colombian Association of Computer Science Engineers (ACIS). This study found that corporate communication systems and IT strategy committee have a positive and significant influence on the overall IT governance effectiveness. In firms with less than 10 years of IT governance experience, the influence of IT strategy committee is higher.},\nauthor = {Borja, Sergio and Kim, Keungoui and Yoon, Hyeunyoung and Hwang, Junseok},\nbooktitle = {PICMET 2021- Portland International Conference on Management of Engineering and Technology: Managing Technological Entrepreneurship: The Engine for Economic Growth, Proceedings},\nfile = {:Users/keungouikim/Desktop/Mendeley/Borja et al. - Unknown - Mechanisms that Influence IT Governance Effectiveness Empirical Analysis in Private and Public Sector in Colomb.pdf:pdf},\ntitle = {{Mechanisms that Influence IT Governance Effectiveness : Empirical Analysis in Private and Public Sector in Colombia}},\nurl = {10.23919/PICMET53225.2022.9882706},\nyear = {2021}\n}"
   },
   {
     "type": "journal",
@@ -728,101 +815,5 @@
       "Transaction price index"
     ],
     "bibtex": "@article{Kim2017d,\nauthor = {Kim, Keungoui and Jung, Sungdo},\ndoi = {https://doi.org/10.30902/jrea.2017.3.1.35},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim, Jung - 2017 - A Study on Apartment Transaction Price Index Using Cluster Analysis - Focused on the case of Seoul -.pdf:pdf},\njournal = {Journal of Real Estate Analysis},\nkeywords = {Clustering analysis,Transaction price index},\nnumber = {1},\npages = {35--58},\ntitle = {{A Study on Apartment Transaction Price Index Using Cluster Analysis - Focused on the case of Seoul -}},\nvolume = {3},\nyear = {2017}\n}"
-  },
-  {
-    "type": "journal",
-    "year": 2022,
-    "title": "{Regional Knowledge Capabilities, Entrepreneurial Activity, and Productivity Growth: Evidence from Italian NUTS-3 Regions}",
-    "authors": "Kang T., Maliphol S., Kogler D. F., Kim K.",
-    "venue": "International Regional Science Review",
-    "link": "https://doi.org/10.1177/016001762110341",
-    "keywords": [
-      "entrepreneurial activity",
-      "productivity growth",
-      "regional development",
-      "regional knowledge capability"
-    ],
-    "bibtex": "@article{Kang2022,\nabstract = {Knowledge has replaced labor as the key factor for productivity growth in innovation discourse. The Knowledge Spillover Theory of Entrepreneurship (KSTE) provides the theoretical foundation to bridge the gap between knowledge and productivity growth. The way regional knowledge actually contributes to productivity growth requires a theoretical explanation because knowledge capability is an indirect and intangible input for regional productivity growth. Previous research has shown that entrepreneurship alone is insufficient to drive productivity improvements. We examine how knowledge capabilities lead to meaningful growth outcomes of new firms in a region. This study examines the determinants of productivity growth by analyzing the factors of entrepreneurship and knowledge capabilities at the regional level, especially considering the moderating effect of entrepreneurship between knowledge and regional growth; by comparing different dimensions of local knowledge capabilities; and by aggregating the contribution of knowledge capabilities and entrepreneurship to productivity growth at the regional level. The empirical analysis is performed on Italian NUTS-3 regions by utilizing an integrated data set combining patent data from the EPO PATSTAT database, and regional data from Eurostat regional statistics. This study makes two main contributions to the KSTE literature by linking knowledge, entrepreneurship, and regional growth and by providing empirical results on different aspects of regional knowledge capability. Our findings identify which types of local knowledge capabilities are more important and how related innovative activity interacts with entrepreneurial activity, elucidating the mechanisms by which knowledge affects labor productivity through entrepreneurship.},\nauthor = {Kang, Taewon and Maliphol, Sira and Kogler, Dieter F. and Kim, Keungoui},\ndoi = {10.1177/01600176211034134},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kang et al. - 2022 - Regional Knowledge Capabilities, Entrepreneurial Activity, and Productivity Growth Evidence from Italian NUTS-3 (2).pdf:pdf},\nissn = {15526925},\njournal = {International Regional Science Review},\nkeywords = {entrepreneurial activity,productivity growth,regional development,regional knowledge capability},\nnumber = {3},\npages = {293--320},\ntitle = {{Regional Knowledge Capabilities, Entrepreneurial Activity, and Productivity Growth: Evidence from Italian NUTS-3 Regions}},\nurl = {https://doi.org/10.1177/016001762110341},\nvolume = {45},\nyear = {2022}\n}"
-  },
-  {
-    "type": "journal",
-    "year": 2023,
-    "title": "{New Cooperation and Novel Innovations: The Role of Regional Brokerage and Collaboration Intensity}",
-    "authors": "Kim K., Kogler D. F., Zabetta M. C.",
-    "venue": "European Planning Studies",
-    "link": "https://doi.org/10.1080/09654313.2023.2291087",
-    "keywords": [
-      "Brokerage",
-      "co-inventor collaboration",
-      "collaboration intensity",
-      "new collaboration",
-      "novel innovation"
-    ],
-    "bibtex": "@article{Kim2023,\nabstract = {In this paper, we investigate the role of brokers in the regional innovation network and its influence on innovative and collaborative outcomes. For this purpose, we make use of data from the European Patent Office and Eurostat in the period 1986–2015. We first build the regional collaboration network based on co-inventorship ties, and then we identify the brokerage roles played by each region, using the original taxonomy proposed by Gould and Fernandez (1989), to disentangle their impact on innovation and collaboration. Finally, we investigate regional collaboration intensity and how it interacts with brokerage roles, highlighting its mediating effect. Our findings indicate that brokerage roles contribute to the extension of collaboration networks, but also that they are not efficient for the creation of innovation. Collaboration intensity, on the other hand, enhances both innovation and collaborative outcomes and shows how a region can benefit from being a broker.},\nauthor = {Kim, Keungoui and Kogler, Dieter F. and Zabetta, Massimiliano Coda},\ndoi = {10.1080/09654313.2023.2291087},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim, Kogler, Zabetta - 2023 - New Cooperation and Novel Innovations The Role of Regional Brokerage and Collaboration Intensity.pdf:pdf},\nissn = {0965-4313},\njournal = {European Planning Studies},\nkeywords = {Brokerage,co-inventor collaboration,collaboration intensity,new collaboration,novel innovation},\nnumber = {6},\npages = {1251--1272},\ntitle = {{New Cooperation and Novel Innovations: The Role of Regional Brokerage and Collaboration Intensity}},\nurl = {https://doi.org/10.1080/09654313.2023.2291087},\nvolume = {32},\nyear = {2023}\n}"
-  },
-  {
-    "type": "journal",
-    "year": 2024,
-    "title": "{The moderating role of design innovation in the relationship between technology complexity and firm performance}",
-    "authors": "Hur J., Chun Y., Hwang J., Kim K.",
-    "venue": "Technology Analysis & Strategic Management",
-    "link": "https://doi.org/10.1080/09537325.2024.2336555",
-    "keywords": [
-      "Design innovation",
-      "innovation management",
-      "patent analysis",
-      "technology complexity"
-    ],
-    "bibtex": "@article{Hur2024,\nabstract = {In today's highly competitive markets, firms can no longer ensure competitive advantage through the development of highly complex technologies or differentiation based solely on technological and functional factors. Simultaneously, there is growing recognition that design and aesthetic factors can contribute to firms' competitive advantage. Hence, this study examines the relationship between technology complexity, design innovation, and firm performance to uncover the role of design innovation in exploiting complex technologies. Our main hypothesis is that design innovation positively moderates the negative effect that technology complexity has on firm performance. We used a unique dataset that aggregates all patent data published by US-headquartered publicly-traded firms to the parent company level. We combined this dataset with the Computat and PATSTAT databases based on their matching firm identifier. Focusing on 1,743 firms from 1980 to 2015, the results support our hypotheses. This study contributes to the resource-based view of firms by recognising design as a strategic resource that firms can utilise to gain a competitive advantage, especially in the presence of high technology complexity.},\nauthor = {Hur, Jisoo and Chun, Youngsam and Hwang, Junseok and Kim, Keungoui},\ndoi = {10.1080/09537325.2024.2336555},\nfile = {:Users/keungouikim/Desktop/Mendeley/Hur et al. - 2024 - The moderating role of design innovation in the relationship between technology complexity and firm performance.pdf:pdf},\nissn = {0953-7325},\njournal = {Technology Analysis & Strategic Management},\nkeywords = {Design innovation,innovation management,patent analysis,technology complexity},\npages = {1--14},\ntitle = {{The moderating role of design innovation in the relationship between technology complexity and firm performance}},\nurl = {https://doi.org/10.1080/09537325.2024.2336555},\nyear = {2024}\n}"
-  },
-  {
-    "type": "journal",
-    "year": 2024,
-    "title": "{Smart Specialisation Strategies and regional knowledge spaces : how to bridge vision and reality}",
-    "authors": "Kim K., Ferrante C., Kogler D. F.",
-    "venue": "Regional Studies",
-    "link": "https://doi.org/10.1080/00343404.2024.2355985",
-    "keywords": [
-      "European Union",
-      "Smart Specialisation Strategies (S3)",
-      "policy design and evaluation",
-      "regional knowledge spaces",
-      "regional research and innovation policy"
-    ],
-    "bibtex": "@article{Kim2024b,\nabstract = {Smart Specialisation Strategies (S3) are implemented across European regions. However, investigations into whether S3 initiatives adequately match local knowledge capabilities are very scarce. This work analyses to what extent S3 policies are coherent with the local knowledge space of 164 European regions, respectively. We show to what extent regional S3 policies target ‘central' technologies, and to what degree S3 policies also target ‘potential' sectors of knowledge production in specific regional settings. Our findings provide a solution for how S3 policies could be designed in the future to overcome the gap between S3 vision and the reality of constraints in regions.},\nauthor = {Kim, Keungoui and Ferrante, Chiara and Kogler, Dieter F},\ndoi = {10.1080/00343404.2024.2355985},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim, Ferrante, Kogler - 2024 - Smart Specialisation Strategies and regional knowledge spaces how to bridge vision and reality Smart Spe.pdf:pdf},\nissn = {0034-3404},\njournal = {Regional Studies},\nkeywords = {European Union,Smart Specialisation Strategies (S3),policy design and evaluation,regional knowledge spaces,regional research and innovation policy},\nnumber = {12},\npages = {2501--2517},\ntitle = {{Smart Specialisation Strategies and regional knowledge spaces : how to bridge vision and reality}},\nurl = {https://doi.org/10.1080/00343404.2024.2355985},\nvolume = {58},\nyear = {2024}\n}"
-  },
-  {
-    "type": "journal",
-    "year": 2023,
-    "title": "{Which innovation type is better for production efficiency? A comparison between product/service, process, organisational and marketing innovations using stochastic frontier and meta-frontier analysis}",
-    "authors": "Kim K., Lee J., Lee C.",
-    "venue": "Technology Analysis and Strategic Management",
-    "link": "https://doi.org/10.1080/09537325.2021.1965979",
-    "keywords": [
-      "Innovation type",
-      "meta-frontier analysis",
-      "stochastic frontier analysis",
-      "technical efficiency",
-      "workplace panel survey"
-    ],
-    "bibtex": "@article{Kim2023b,\nabstract = {Innovation has been recognised as essential in a firm's success, but not all firms can actively engage in innovation activities due to their limited resources and the potential risks involved in such activities. In such a situation, a better understanding of the difference in the effects of the different innovation types is needed. However, little is known about the differences in technical efficiency in terms of innovation types. This study compared technical efficiency across different firms that applied different production function technologies differentiated by innovation type. Data from the seventh version of the Workplace Panel Survey of the Korean Labor Institute was used. Manufacturing firms that adopted a single innovation type were included in the final sample, based on the results of an exploratory data analysis. Using stochastic frontier analysis, the efficiencies of the four groups were estimated, and the efficiencies of different production function technologies were compared using meta-frontier analysis. The estimation results indicate that the organisation innovation group showed better efficiency than other groups, while the product/service innovation group exhibited the highest potential in its production technology.},\nauthor = {Kim, Keungoui and Lee, Junmin and Lee, Changjun},\ndoi = {10.1080/09537325.2021.1965979},\nfile = {:Users/keungouikim/Desktop/Mendeley/Kim, Lee, Lee - 2023 - Which innovation type is better for production efficiency A comparison between productservice, process, organisat.pdf:pdf},\nissn = {14653990},\njournal = {Technology Analysis and Strategic Management},\nkeywords = {Innovation type,meta-frontier analysis,stochastic frontier analysis,technical efficiency,workplace panel survey},\nnumber = {1},\npages = {59--72},\ntitle = {{Which innovation type is better for production efficiency? A comparison between product/service, process, organisational and marketing innovations using stochastic frontier and meta-frontier analysis}},\nurl = {https://doi.org/10.1080/09537325.2021.1965979},\nvolume = {35},\nyear = {2023}\n}"
-  },
-  {
-    "type": "journal",
-    "year": 2023,
-    "title": "{The effect of watching OTT late at night on the sleep pattern of users}",
-    "authors": "Lee C., Na C., Kim K.",
-    "venue": "Sleep and Biological Rhythms",
-    "link": "https://doi.org/10.1007/s41105-023-00459-z",
-    "keywords": [
-      "Causal inference",
-      "Media behavior",
-      "Media panel data",
-      "OTT",
-      "Random forest",
-      "Sleep duration",
-      "Sleep pattern"
-    ],
-    "bibtex": "@article{Lee2023,\nabstract = {This study aimed to answer the question of how media users will reallocate their sleep time when their main content channel changes from real-time broadcasting to selective viewing through the over-the-top (OTT) media streaming service. To draw a causal inference between OTT consumption and sleep patterns, the difference-in-difference (DID) estimation method was applied. With the DID approach, a clear distinction between treatment and control groups is essential because the main treatment effects can be screened by the compounding effects. While the conventional way of dividing two groups relies on the selection of limited variables, this study adopted random forest nearest-neighbor propensity score matching based on a machine learning algorithm to divide the two groups. This allows for meticulous matching of the two groups except for treatment. Results show that watching OTT late at night has a significant effect on reducing the total sleep duration on average by about 18–20 min (maximum about 30 min at 95% confidence level) and delaying bedtime by about 18 min (maximum about 26 min at 95% confidence level). This study showed that the selective viewing of content through OTT has the advantage of widening the range of content choices for media users and helping in arranging their time more autonomously, but watching content through OTT late at night leads to media users' departure from the existing sleep routine.},\nauthor = {Lee, Changjun and Na, Cheongho and Kim, Keungoui},\ndoi = {10.1007/s41105-023-00459-z},\nfile = {:Users/keungouikim/Desktop/Mendeley/Lee, Na, Kim - 2023 - The effect of watching OTT late at night on the sleep pattern of users.pdf:pdf},\nisbn = {0123456789},\nissn = {1479-8425},\njournal = {Sleep and Biological Rhythms},\nkeywords = {Causal inference,Media behavior,Media panel data,OTT,Random forest,Sleep duration,Sleep pattern},\npages = {395--407},\npublisher = {Springer Nature Singapore},\ntitle = {{The effect of watching OTT late at night on the sleep pattern of users}},\nurl = {https://doi.org/10.1007/s41105-023-00459-z},\nvolume = {21},\nyear = {2023}\n}"
   }
 ]
