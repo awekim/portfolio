@@ -88,10 +88,13 @@ def parse_entry(e: str):
     if fields.get("keywords"):
         keywords = [k.strip() for k in re.split(r"[;,]", fields["keywords"]) if k.strip()]
 
+    # 수정된 부분: title에서 { 와 } 문자를 모두 제거
+    title_text = fields.get("title","").replace("{", "").replace("}", "")
+
     return {
         "type": mapType(etype),
         "year": year,
-        "title": fields.get("title",""),
+        "title": title_text,
         "authors": fmt_authors(fields.get("author","")),
         "venue": fields.get("journal") or fields.get("booktitle") or fields.get("institution") or "",
         "link": link,
