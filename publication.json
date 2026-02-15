@@ -1,76 +1,34 @@
 [
   {
     "type": "journal",
+    "year": 2026,
+    "title": "{Understanding consumer preferences for Urban Air Mobility: A choice-based conjoint analysis approach with the case of South Korea}",
+    "authors": "Lee J., Chae H., Bang W., Lee D., Oh M., Shin J., Kim K.",
+    "venue": "Travel Behaviour and Society",
+    "link": "https://doi.org/10.1016/j.tbs.2026.101236",
+    "keywords": [
+      "Choice-based conjoint analysis",
+      "Consumer preference",
+      "Urban Air Mobility"
+    ],
+    "bibtex": "@article{Lee2026,\nabstract = {The emergence of Urban Air Mobility (UAM) as a transformative mode of transportation is driven by the convergence of advanced information technologies, including automation and autonomous flight systems, with innovative aerial vehicle designs. Positioned as a key component of future smart and interconnected urban mobility ecosystems, UAM has attracted growing attention from both industry and policymakers. This study examines consumer preferences for UAM in South Korea using a choice-based conjoint analysis. The analysis quantifies the relative importance of key service attributes—transit time, price, operating speed, autonomy, waiting time, seat width, and luggage weight—in influencing potential adoption. The results show that transit time is the most influential attribute shaping consumer preferences, followed by price, operating speed, and autonomy. Secondary factors such as waiting time, seat width, and luggage weight also contribute to perceived service quality and convenience. These findings provide actionable insights for UAM service providers and policymakers, highlighting the need to balance efficiency, affordability, and technological advancement to foster consumer acceptance and sustainable market integration. Future research should validate these findings across different cultural and urban contexts to assess the generalisability of consumer preference structures.},\nauthor = {Lee, Junmin and Chae, Harin and Bang, Woojin and Lee, Daeho and Oh, Myoungjin and Shin, Jungwoo and Kim, Keungoui},\ndoi = {10.1016/j.tbs.2026.101236},\nfile = {:D\\:/Mendeley/1-s2.0-S2214367X26000050-main.pdf:pdf},\nissn = {2214367X},\njournal = {Travel Behaviour and Society},\nkeywords = {Choice-based conjoint analysis,Consumer preference,Urban Air Mobility},\nnumber = {May 2025},\npages = {101236},\npublisher = {Elsevier Ltd},\ntitle = {{Understanding consumer preferences for Urban Air Mobility: A choice-based conjoint analysis approach with the case of South Korea}},\nurl = {https://doi.org/10.1016/j.tbs.2026.101236},\nvolume = {43},\nyear = {2026}\n}"
+  },
+  {
+    "type": "journal",
     "year": 2025,
-    "title": "{Science space: the evolution of scientific knowledge specialisations across European}",
+    "title": "{Science space: the evolution of scientific knowledge specialisations across European regions}",
     "authors": "Kim K., Shin H., Kogler D. F.",
-    "venue": "ZFW – Advances in Economic Geography",
+    "venue": "ZFW - Advances in Economic Geography",
     "link": "https://doi.org/10.1515/zfw-2025-0058",
     "keywords": [
-      "evolution- ary economic geography",
+      "evolutionary economic geography",
       "knowledge relatedness density and entry",
       "regional knowledge specialisation",
       "science space",
       "scientific knowledge",
-      "smart special- isation strategies"
+      "smart specialisation strategies"
     ],
-    "bibtex": "@article{Kim2025a,\nabstract = {This study extends evolutionary economic geog- raphy to science by mapping how regional scientific capa- bilities emerge and evolve across Europe. Using Web of Science publications (2000–2017) geo-coded to 1,216 regions in 35 countries and classified into 228 subjects, we con- struct a pan-European “Science Space” based on subject co- occurrence and relatedness, and test whether relatedness density, i.e., the embeddedness of a subject in a region's existing portfolio, predicts subsequent entry (Revealed Sci- entific Advantage ≥ 1). Network evidence shows Europe's science system becoming more interdisciplinary, with technology-adjacent subjects (e.g., nanoscience, robotics, computer science) gaining centrality, while Life Sciences & Biomedicine remain dominant by volume. Economet- ric results (pooled OLS and GLM for binary entry, with region/subject/period fixed effects and controls for the regional economy and knowledge base) indicate that higher relatedness density significantly raises the likelihood of scientific entry. The effect is stronger in non-metropolitan regions and when a subject's initial RSA is very low, con- sistent with relatedness seeding new capabilities rather than merely consolidating near-threshold strengths. These findings generalise the principle of relatedness from tech- nology to science and advise regional innovation policy to prioritise adjacent scientific opportunities, invest in bridg- ing infrastructures, and design interdisciplinary platforms where relatedness density is high but specialisation has not yet emerged.},\nauthor = {Kim, Keungoui and Shin, Hyunha and Kogler, Dieter F},\ndoi = {10.1515/zfw-2025-0058},\nfile = {:D\\:/Mendeley/10.1515_zfw-2025-0058.pdf:pdf;:D\\:/Mendeley/Kim, Shin, Kogler - 2025 - Science space the evolution of scientific knowledge specialisations across European.pdf:pdf},\njournal = {ZFW – Advances in Economic Geography},\nkeywords = {evolution- ary economic geography,knowledge relatedness density and entry,regional knowledge specialisation,science space,scientific knowledge,smart special- isation strategies},\npages = {1--19},\ntitle = {{Science space: the evolution of scientific knowledge specialisations across European}},\nurl = {https://doi.org/10.1515/zfw-2025-0058},\nyear = {2025}\n}"
-  },
-  {
-    "type": "journal",
-    "year": 2025,
-    "title": "{The firm-location nexus: examining inventive footprint and technological evolution of Nortel over the course of its \"boom and bust\"}",
-    "authors": "Kogler D. F., Kedron P., Kim K.",
-    "venue": "Evolutionary and Institutional Economic Review",
-    "link": "",
-    "keywords": [
-      "Firm–region co-evolution",
-      "Inventive productivity",
-      "Knowledge space",
-      "Nortel",
-      "Ottawa–Gatineau",
-      "Patent data",
-      "Technological embeddedness",
-      "Technological similarity"
-    ],
-    "bibtex": "@article{Kogler2025,\nabstract = {We examine how firm capabilities and regional knowledge bases co-evolve by studying Nortel, a major telecommunications manufacturer, in its home region of Ottawa–Gatineau and in the regions it rapidly entered during the late-1990s dot- com boom. We introduce a patent-based measure of technological similarity be- tween firms and regions to operationalize their potential compatibility and embed it in a “knowledge-space” mapping approach. Across locations, inventive produc- tivity, proxied by patent output, is higher where Nortel's technological profile is most similar to the host region's specialization. Technological similarity is a strong predictor of Nortel's local patenting rates and, during corporate decline, greater technological embeddedness is associated with slower local exit. These results dem- onstrate that aligning firm capabilities with regional strengths materially influences innovative performance and location dynamics. The proposed knowledge-space tool offers a replicable method for business location decisions and for regional policy seeking to attract, retain, and upgrade technology-intensive activity.},\nauthor = {Kogler, Dieter F and Kedron, Peter and Kim, Keungoui},\nfile = {:D\\:/Mendeley/Kogler, Kedron, Kim - 2025 - The firm-location nexus examining inventive footprint and technological evolution of Nortel over the course.pdf:pdf},\njournal = {Evolutionary and Institutional Economic Review},\nkeywords = {Firm–region co-evolution,Inventive productivity,Knowledge space,Nortel,Ottawa–Gatineau,Patent data,Technological embeddedness,Technological similarity},\ntitle = {{The firm-location nexus: examining inventive footprint and technological evolution of Nortel over the course of its \"boom and bust\"}},\nyear = {2025}\n}"
-  },
-  {
-    "type": "journal",
-    "year": 2025,
-    "title": "{Mapping regional knowledge spaces via BERTopic and BERT similarity : the semantic proximity of quantum science in the overall scientific publication landscape}",
-    "authors": "Kim K., Kogler D. F., Hur J.",
-    "venue": "Scientometrics",
-    "link": "https://doi.org/10.1007/s11192-025-05430-y",
-    "keywords": [
-      "BERT-similarity",
-      "BERTopic",
-      "Evolutionary Economic Geography",
-      "Knowledge proximity",
-      "Quantum science",
-      "Regional branching",
-      "Regional knowledge space",
-      "Science specialization",
-      "Semantic proximity"
-    ],
-    "bibtex": "@article{Kim2025,\nabstract = {Regional diversification and innovation depend on how well existing knowledge bases align with emerging scientific domains. Conventional measures of relatedness, however, rely on static classification systems that struggle to capture the interdisciplinary and dynamic nature of modern knowledge production. This study introduces semantic proxim- ity as a novel, text-based approach to assess the cognitive alignment between regional sci- entific activity and new fields. Drawing on scientific publications from European NUTS-3 regions between 2010 and 2021, we employ BERTopic and BERT-based similarity to map regional knowledge spaces and measure their proximity to quantum science, an interdis- ciplinary field of high strategic importance. Using negative binomial regression models, we find that regions with higher semantic proximity to quantum science generate signifi- cantly more quantum-related publications. By moving beyond rigid taxonomies, the con- cept of semantic proximity provides a more flexible and fine-grained tool for analyzing regional knowledge evolution. Our findings extend evolutionary economic geography and offer actionable insights for policymakers seeking to foster smart specialization and guide regional innovation strategies in emerging technologies.},\nauthor = {Kim, Keungoui and Kogler, Dieter F and Hur, Jisoo},\ndoi = {10.1007/s11192-025-05430-y},\nfile = {:D\\:/Mendeley/Kim, Kogler, Hur - 2025 - Mapping regional knowledge spaces via BERTopic and BERT similarity the semantic proximity of quantum science.pdf:pdf},\nisbn = {0123456789},\nissn = {1588-2861},\njournal = {Scientometrics},\nkeywords = {BERT-similarity,BERTopic,Evolutionary Economic Geography,Knowledge proximity,Quantum science,Regional branching,Regional knowledge space,Science specialization,Semantic proximity},\nnumber = {0123456789},\npublisher = {Springer International Publishing},\ntitle = {{Mapping regional knowledge spaces via BERTopic and BERT similarity : the semantic proximity of quantum science in the overall scientific publication landscape}},\nurl = {https://doi.org/10.1007/s11192-025-05430-y},\nyear = {2025}\n}"
-  },
-  {
-    "type": "journal",
-    "year": 2025,
-    "title": "{The Impact of Design and Technology Capability on Patent Quality: Exploring the Role of Interdisciplinary Inventors and Their Technological Knowledge}",
-    "authors": "Hur J., Kim K.",
-    "venue": "R&D Management",
-    "link": "https://doi.org/10.1111/radm.70005",
-    "keywords": [
-      "design-technology integration",
-      "interdisciplinary inventors",
-      "inventive performance",
-      "knowledge centrality",
-      "patent analysis",
-      "patent quality"
-    ],
-    "bibtex": "@article{Hur2025a,\nabstract = {As innovation increasingly requires the integration of technological functionality with aesthetic design and user experience, firms benefit from inventors who can operate across both domains. This study investigates dual-domain inventors—those who contribute to both utility and design patents—as a distinct category of innovation talent. While prior research has emphasized technological specialization, less is known about how inventors who bridge design and technology contribute to innovation outcomes. Using a dataset of patents from 3,110 US public firms, we compare the inventive performance of dual-domain inventors to those engaged solely in technology development. The results show that dual-domain inventors produce higher-value patents, particularly when their technological knowledge occupies central positions within the firm's internal knowledge network. These findings underscore the strategic value of integrating design and technology expertise in product development, highlighting how cross-domain capabilities and organizational knowledge positioning jointly enhance innovation outcomes.},\nauthor = {Hur, Jisoo and Kim, Keungoui},\ndoi = {10.1111/radm.70005},\nfile = {:D\\:/Mendeley/Hur, Kim - 2025 - The Impact of Design and Technology Capability on Patent Quality Exploring the Role of Interdisciplinary Inventors (3).pdf:pdf},\nissn = {14679310},\njournal = {R&D Management},\nkeywords = {design-technology integration,interdisciplinary inventors,inventive performance,knowledge centrality,patent analysis,patent quality},\npages = {1--14},\ntitle = {{The Impact of Design and Technology Capability on Patent Quality: Exploring the Role of Interdisciplinary Inventors and Their Technological Knowledge}},\nyear = {2025}\n}"
+    "bibtex": "@article{Kim2025a,\nabstract = {This study extends evolutionary economic geography to science by mapping how regional scientific capabilities emerge and evolve across Europe. Using Web of Science publications (2000–2017) geo-coded to 1,216 regions in 35 countries and classified into 228 subjects, we construct a pan-European “Science Space” based on subject co-occurrence and relatedness, and test whether relatedness density, i.e., the embeddedness of a subject in a region's existing portfolio, predicts subsequent entry (Revealed Scientific Advantage ≥ 1). Network evidence shows Europe's science system becoming more interdisciplinary, with technology-adjacent subjects (e.g., nanoscience, robotics, computer science) gaining centrality, while Life Sciences & Biomedicine remain dominant by volume. Econometric results (pooled OLS and GLM for binary entry, with region/subject/period fixed effects and controls for the regional economy and knowledge base) indicate that higher relatedness density significantly raises the likelihood of scientific entry. The effect is stronger in non-metropolitan regions and when a subject's initial RSA is very low, consistent with relatedness seeding new capabilities rather than merely consolidating near-threshold strengths. These findings generalise the principle of relatedness from technology to science and advise regional innovation policy to prioritise adjacent scientific opportunities, invest in bridging infrastructures, and design interdisciplinary platforms where relatedness density is high but specialisation has not yet emerged.},\nauthor = {Kim, Keungoui and Shin, Hyunha and Kogler, Dieter F.},\ndoi = {10.1515/zfw-2025-0058},\nfile = {:D\\:/Mendeley/Kim, Shin, Kogler - 2025 - Science space the evolution of scientific knowledge specialisations across European regions.pdf:pdf},\nissn = {27481964},\njournal = {ZFW - Advances in Economic Geography},\nkeywords = {evolutionary economic geography,knowledge relatedness density and entry,regional knowledge specialisation,science space,scientific knowledge,smart specialisation strategies},\nnumber = {2-3},\npages = {107--125},\ntitle = {{Science space: the evolution of scientific knowledge specialisations across European regions}},\nurl = {https://doi.org/10.1515/zfw-2025-0058},\nvolume = {69},\nyear = {2025}\n}"
   },
   {
     "type": "journal",
@@ -101,38 +59,6 @@
   },
   {
     "type": "journal",
-    "year": 2025,
-    "title": "{A Study on Data Preprocessing and Prompt Engineering Methodologies Specialized for the Interpretation of Automobile Law Documents}",
-    "authors": "Ahn S., Moon B., Park S., Kim S., Kim K.",
-    "venue": "The Journal of Korean Institute of Information Technology",
-    "link": "https://doi.org/10.14801/jkiit.2025.23.6.31",
-    "keywords": [
-      "automobile law",
-      "braking system",
-      "parent-child chunking",
-      "prompt engineering",
-      "rag"
-    ],
-    "bibtex": "@article{Ahn2025,\nabstract = {자동차 설계 및 개발 과정에서 개발자는 법과 규제를 준수하기 위해 담당 법률 전문가와 지속적으로 소통하고 협력해야 한다. 그러나 기업 내 법률 전문가의 수가 제한적이라는 현실에서는 다수의 개발자가 적시에법률 자문과 검토를 받기 어렵다. 본 연구는 법률 비전문가인 자동차 개발자가 생성형 AI 를 활용하여 법률 및규제를 검토하고 해석할 수 있도록, 자동차 법률 문서에 특화된 데이터 전처리 및 프롬프트 엔지니어링 방법론을 제안한다. 제안된 방법론은 법률 문서의 구조적 정보를 활용하여 검색 효율성을 높이는 Parent-Child Chunking 기법과 답변 정답률을 향상시키기 위한 프롬프트 엔지니어링 기법을 포함한다. 이러한 접근 방식으로 구축된 RAG 서비스는 자동차 개발자가 법규 관련 업무를 보다 효율적이고 자율적으로 수행하는데 기여할수 있을 것으로 기대된다.},\nauthor = {Ahn, Seonggyu and Moon, Byeori and Park, Sangbeom and Kim, Sehee and Kim, Keungoui},\ndoi = {10.14801/jkiit.2025.23.6.31},\nfile = {:D\\:/Mendeley/Ahn et al. - 2025 - A Study on Data Preprocessing and Prompt Engineering Methodologies Specialized for the Interpretation of Automobi(3).pdf:pdf;:D\\:/Mendeley/Ahn et al. - 2025 - A Study on Data Preprocessing and Prompt Engineering Methodologies Specialized for the Interpretation of Automobi(4).pdf:pdf;:D\\:/Mendeley/Ahn et al. - 2025 - A Study on Data Preprocessing and Prompt Engineering Methodologies Specialized for the Interpretation of Automobile.pdf:pdf},\nissn = {1598-8619},\njournal = {The Journal of Korean Institute of Information Technology},\nkeywords = {automobile law,braking system,parent-child chunking,prompt engineering,rag},\nnumber = {6},\npages = {31--40},\ntitle = {{A Study on Data Preprocessing and Prompt Engineering Methodologies Specialized for the Interpretation of Automobile Law Documents}},\nvolume = {23},\nyear = {2025}\n}"
-  },
-  {
-    "type": "journal",
-    "year": 2025,
-    "title": "{Predicting Bicycle Demand at the Station Level by Incorporating Station-Specific Spatial Features in Graph Coutional Network Model}",
-    "authors": "Choi J., Oh K., Jang S., Kim K.",
-    "venue": "디지털산업정보학회",
-    "link": "https://doi.org/10.17662/ksdim.2025.21.1.027",
-    "keywords": [
-      "bicycle demand prediction",
-      "bicycle rental network",
-      "graph convolution network",
-      "shared-bicycle rental service",
-      "spatial feature matrix"
-    ],
-    "bibtex": "@article{Jonghyun2025,\nabstract = {This study proposes an advanced Graph Convolutional Network (GCN) model to predict daily bicycle rental volumes at the station level, addressing imbalanced usage patterns in shared bicycle services. Bicycle stations are modeled as nodes and user interactions as edges, with spatial (e.g., location, infrastructure) and temporal (e.g., weather, time) features incorporated. Optimized through hyper-parameter tuning, the model surpasses traditional methods and GCN model without spatial features, effectively capturing station-level interactions and network structures. It enables precise demand predictions, dynamic bicycle redistribution, and improved operational efficiency, supporting data-driven urban transportation policies and enhanced user convenience. The model's applicability extends to domains requiring network-based forecasting and resource allocation.},\nauthor = {Choi, Jonghyun and Oh, Kyungtaek and Jang, Seungmin and Kim, Keungoui},\nfile = {:D\\:/Mendeley/Choi et al. - 2025 - Predicting Bicycle Demand at the Station Level by Incorporating Station-Specific Spatial Features in Graph Coutiona.pdf:pdf},\njournal = {디지털산업정보학회},\nkeywords = {bicycle demand prediction,bicycle rental network,graph convolution network,shared-bicycle rental service,spatial feature matrix},\nnumber = {1},\npages = {27--43},\ntitle = {{Predicting Bicycle Demand at the Station Level by Incorporating Station-Specific Spatial Features in Graph Coutional Network Model}},\nurl = {https://doi.org/10.17662/ksdim.2025.21.1.027},\nvolume = {21},\nyear = {2025}\n}"
-  },
-  {
-    "type": "journal",
     "year": 2024,
     "title": "{Reseach on Prompmt Engineering for Generative AI to Create Business Data Analysis Reports}",
     "authors": "Park Y., Kim D., Yoo S., Bae Y., Kim K.",
@@ -148,16 +74,6 @@
       "table-to-text"
     ],
     "bibtex": "@article{Park2024,\nauthor = {Park, Yeeun and Kim, Donghun and Yoo, Sihyeon and Bae, Yunjin and Kim, Keungoui},\nfile = {:D\\:/Mendeley/Park et al. - 2024 - Reseach on Prompmt Engineering for Generative AI to Create Business Data Analysis Reports.pdf:pdf},\nisbn = {0009000121081},\njournal = {Journal of KIIT},\nkeywords = {business data report,generative ai,kpi,performance marketing,prompt engineering,report generation,table-to-text},\nnumber = {11},\npages = {167--180},\ntitle = {{Reseach on Prompmt Engineering for Generative AI to Create Business Data Analysis Reports}},\nurl = {10.14801/jkiit.2024.22.11.167},\nvolume = {22},\nyear = {2024}\n}"
-  },
-  {
-    "type": "journal",
-    "year": 2024,
-    "title": "{A Machine Learning Approach to Analyzing Crime Concentration : The Case of New York City}",
-    "authors": "Kim K., Kim Y.",
-    "venue": "Justice Quarterly",
-    "link": "https://doi.org/10.1080/07418825.2024.2401938",
-    "keywords": [],
-    "bibtex": "@article{Kim2024,\nabstract = {Building upon prior work, we propose an alternative way to look at the pattern of spatial crime concentration and temporal stability of it. We first identify a high-crime cluster using the sample block groups in New York City by employing a k-means clustering method. We then examine the temporal stability of the high-crime cluster over time. We also longitudinally assess how our high-crime cluster classification is associated with the actual amount of crime while accounting for the measures of social and physical environments. We observed that about 6–12% of total areas are identified to be in the high-crime cluster. We also found that block groups identified to be high-crime cluster in one year are more likely to be that way in the next year. We hope future research may consider using data-driven approaches to expand understanding of spatial and temporal crime patterns.},\nauthor = {Kim, Keungoui and Kim, Young-an},\ndoi = {10.1080/07418825.2024.2401938},\nfile = {:D\\:/Mendeley/Kim, Kim - 2024 - A Machine Learning Approach to Analyzing Crime Concentration The Case of New York City.pdf:pdf},\njournal = {Justice Quarterly},\nnumber = {0},\npages = {1--21},\npublisher = {Routledge},\ntitle = {{A Machine Learning Approach to Analyzing Crime Concentration : The Case of New York City}},\nurl = {https://doi.org/10.1080/07418825.2024.2401938},\nvolume = {0},\nyear = {2024}\n}"
   },
   {
     "type": "journal",
@@ -195,43 +111,12 @@
   {
     "type": "journal",
     "year": 2024,
-    "title": "{Smart Specialisation Strategies and regional knowledge spaces : how to bridge vision and reality}",
-    "authors": "Kim K., Ferrante C., Kogler D. F.",
-    "venue": "Regional Studies",
-    "link": "https://doi.org/10.1080/00343404.2024.2355985",
-    "keywords": [
-      "European Union",
-      "Smart Specialisation Strategies (S3)",
-      "policy design and evaluation",
-      "regional knowledge spaces",
-      "regional research and innovation policy"
-    ],
-    "bibtex": "@article{Kim2024b,\nabstract = {Smart Specialisation Strategies (S3) are implemented across European regions. However, investigations into whether S3 initiatives adequately match local knowledge capabilities are very scarce. This work analyses to what extent S3 policies are coherent with the local knowledge space of 164 European regions, respectively. We show to what extent regional S3 policies target ‘central' technologies, and to what degree S3 policies also target ‘potential' sectors of knowledge production in specific regional settings. Our findings provide a solution for how S3 policies could be designed in the future to overcome the gap between S3 vision and the reality of constraints in regions.},\nauthor = {Kim, Keungoui and Ferrante, Chiara and Kogler, Dieter F},\ndoi = {10.1080/00343404.2024.2355985},\nfile = {:D\\:/Mendeley/Kim, Ferrante, Kogler - 2024 - Smart Specialisation Strategies and regional knowledge spaces how to bridge vision and reality.pdf:pdf},\nissn = {0034-3404},\njournal = {Regional Studies},\nkeywords = {European Union,Smart Specialisation Strategies (S3),policy design and evaluation,regional knowledge spaces,regional research and innovation policy},\nnumber = {12},\npages = {2501--2517},\ntitle = {{Smart Specialisation Strategies and regional knowledge spaces : how to bridge vision and reality}},\nurl = {https://doi.org/10.1080/00343404.2024.2355985},\nvolume = {58},\nyear = {2024}\n}"
-  },
-  {
-    "type": "journal",
-    "year": 2024,
     "title": "{Identifying interdisciplinary emergence in the science of science: combination of network analysis and BERTopic}",
     "authors": "Kim K., Kogler D. F., Sira M.",
     "venue": "Humanities and Social Sciences Communications",
     "link": "https://doi.org/10.1057/s41599-024-03044-y",
     "keywords": [],
     "bibtex": "@article{Kim2024c,\nabstract = {Global scientific output is expanding exponentially, which in turn calls for a better understanding of the science of science and especially how the boundaries of scientific fields expand through processes of emergence. The present study proposes the application of embedded topic modeling techniques to identify new emerging science via knowledge recombination activities as evidenced through the analysis of research publication metadata. First, a dataset is constructed from metadata derived from the Web of Science Core Collection database. The dataset is then used to generate a global map representing a categorical scientific co-occurrence network. A research field is defined as interdisciplinary when multiple science categories are listed in its description. Second, the co-occurrence networks are subsequently compared between periods to determine changing patterns of influence in light of interdisciplinarity. Third, embedded topic modeling enables unsupervised association of interdisciplinary classification. We present the results of the analysis to demonstrate the emergence of global interdisciplinary sciences and further we perform qualitative validation on the results to identify what the sources of the emergent areas are. Based on these results, we discuss potential applications for identifying emergence through the merging of global interdisciplinary domains.},\nauthor = {Kim, Keungoui and Kogler, Dieter F and Sira, Maliphol},\ndoi = {10.1057/s41599-024-03044-y},\nfile = {:D\\:/Mendeley/Kim, Kogler, Sira - 2024 - Identifying interdisciplinary emergence in the science of science combination of network analysis and BERTopi.pdf:pdf},\njournal = {Humanities and Social Sciences Communications},\nnumber = {603},\npages = {1--15},\npublisher = {Springer US},\ntitle = {{Identifying interdisciplinary emergence in the science of science: combination of network analysis and BERTopic}},\nurl = {https://doi.org/10.1057/s41599-024-03044-y},\nvolume = {11},\nyear = {2024}\n}"
-  },
-  {
-    "type": "journal",
-    "year": 2024,
-    "title": "{The moderating role of design innovation in the relationship between technology complexity and firm performance}",
-    "authors": "Hur J., Chun Y., Hwang J., Kim K.",
-    "venue": "Technology Analysis & Strategic Management",
-    "link": "https://doi.org/10.1080/09537325.2024.2336555",
-    "keywords": [
-      "Design innovation",
-      "innovation management",
-      "patent analysis",
-      "technology complexity"
-    ],
-    "bibtex": "@article{Hur2024,\nabstract = {In today's highly competitive markets, firms can no longer ensure competitive advantage through the development of highly complex technologies or differentiation based solely on technological and functional factors. Simultaneously, there is growing recognition that design and aesthetic factors can contribute to firms' competitive advantage. Hence, this study examines the relationship between technology complexity, design innovation, and firm performance to uncover the role of design innovation in exploiting complex technologies. Our main hypothesis is that design innovation positively moderates the negative effect that technology complexity has on firm performance. We used a unique dataset that aggregates all patent data published by US-headquartered publicly-traded firms to the parent company level. We combined this dataset with the Computat and PATSTAT databases based on their matching firm identifier. Focusing on 1,743 firms from 1980 to 2015, the results support our hypotheses. This study contributes to the resource-based view of firms by recognising design as a strategic resource that firms can utilise to gain a competitive advantage, especially in the presence of high technology complexity.},\nauthor = {Hur, Jisoo and Chun, Youngsam and Hwang, Junseok and Kim, Keungoui},\ndoi = {10.1080/09537325.2024.2336555},\nfile = {:D\\:/Mendeley/Hur et al. - 2024 - The moderating role of design innovation in the relationship between technology complexity and firm performance.pdf:pdf},\nissn = {0953-7325},\njournal = {Technology Analysis & Strategic Management},\nkeywords = {Design innovation,innovation management,patent analysis,technology complexity},\npages = {1--14},\ntitle = {{The moderating role of design innovation in the relationship between technology complexity and firm performance}},\nurl = {https://doi.org/10.1080/09537325.2024.2336555},\nyear = {2024}\n}"
   },
   {
     "type": "journal",
@@ -252,16 +137,6 @@
   },
   {
     "type": "journal",
-    "year": 2024,
-    "title": "{The role of design engineers : Evidence from intra-firm knowledge and collaboration networks}",
-    "authors": "Hur J., Hwang J., Kim K.",
-    "venue": "PLoS ONE",
-    "link": "http://dx.doi.org/10.1371/journal.pone.0298089",
-    "keywords": [],
-    "bibtex": "@article{Hur2024a,\nabstract = {Successful new product development requires the integration of design and engineering, bridging the gap between technological feasibility and user-centric considerations. However, direct collaboration between designers and engineers with heterogeneous knowledge presents challenges. In this context, the role of design engineers—professionals skilled in both design and engineering—becomes pivotal. This study categorizes inventors into three primary groups: engineers, designers, and design engineers based on the type of patent applications they hold and investigates their differences in knowledge portfolios and collaboration patterns. The study relies on patent data for 4,665 US publicly-traded firms from 1980 to 2015 from the PATSTAT database, and constructs two networks for each firm period: a social network of inventors and a knowledge network of knowledge elements. Findings show that design engineers are highly connected within the social network but have disconnected knowledge in the knowledge network in comparison to engineers. While design engineers may not be the primary drivers of firms' technological innovations, they facilitate interdisciplinary communication and decision-making, fostering a design-technology integrated new product development environment. This research has practical implications for firms seeking to optimize their innovation processes by creating interdisciplinary teams that harness the complementary strengths of engineers and design engineers.},\nauthor = {Hur, Jisoo and Hwang, Junseok and Kim, Keungoui},\ndoi = {10.1371/journal.pone.0298089},\nfile = {:D\\:/Mendeley/Hur, Hwang, Kim - 2024 - The role of design engineers Evidence from intra-firm knowledge and collaboration networks.pdf:pdf},\nisbn = {1111111111},\njournal = {PLoS ONE},\nnumber = {2},\npages = {e0298089},\ntitle = {{The role of design engineers : Evidence from intra-firm knowledge and collaboration networks}},\nurl = {http://dx.doi.org/10.1371/journal.pone.0298089},\nvolume = {19},\nyear = {2024}\n}"
-  },
-  {
-    "type": "journal",
     "year": 2023,
     "title": "{New Cooperation and Novel Innovations: The Role of Regional Brokerage and Collaboration Intensity}",
     "authors": "Kim K., Kogler D. F., Zabetta M. C.",
@@ -275,24 +150,6 @@
       "novel innovation"
     ],
     "bibtex": "@article{Kim2023,\nabstract = {In this paper, we investigate the role of brokers in the regional innovation network and its influence on innovative and collaborative outcomes. For this purpose, we make use of data from the European Patent Office and Eurostat in the period 1986–2015. We first build the regional collaboration network based on co-inventorship ties, and then we identify the brokerage roles played by each region, using the original taxonomy proposed by Gould and Fernandez (1989), to disentangle their impact on innovation and collaboration. Finally, we investigate regional collaboration intensity and how it interacts with brokerage roles, highlighting its mediating effect. Our findings indicate that brokerage roles contribute to the extension of collaboration networks, but also that they are not efficient for the creation of innovation. Collaboration intensity, on the other hand, enhances both innovation and collaborative outcomes and shows how a region can benefit from being a broker.},\nauthor = {Kim, Keungoui and Kogler, Dieter F. and Zabetta, Massimiliano Coda},\ndoi = {10.1080/09654313.2023.2291087},\nfile = {:D\\:/Mendeley/Kim, Kogler, Zabetta - 2023 - New Cooperation and Novel Innovations The Role of Regional Brokerage and Collaboration Intensity.pdf:pdf},\nissn = {0965-4313},\njournal = {European Planning Studies},\nkeywords = {Brokerage,co-inventor collaboration,collaboration intensity,new collaboration,novel innovation},\nnumber = {6},\npages = {1251--1272},\ntitle = {{New Cooperation and Novel Innovations: The Role of Regional Brokerage and Collaboration Intensity}},\nurl = {https://doi.org/10.1080/09654313.2023.2291087},\nvolume = {32},\nyear = {2023}\n}"
-  },
-  {
-    "type": "journal",
-    "year": 2023,
-    "title": "{Understanding Regional Branching : Knowledge Diversification via Inventor and Firm Collaboration Networks}",
-    "authors": "Kogler D. F., Whittle A., Kim K., Lengyel B., Whittle A.",
-    "venue": "Economic Geography",
-    "link": "https://doi.org/10.1080/00130095.2023.2242551",
-    "keywords": [
-      "firm linkages",
-      "inventor collaboration",
-      "knowledge sourcing",
-      "patent data analysis",
-      "regional knowledge networks",
-      "specialization",
-      "technological diversification"
-    ],
-    "bibtex": "@article{Kogler2023,\nabstract = {The diversification of regions into new technologies is driven by the degree of relatedness to existing capabilities already present in the region. In cases where opportunities for diversification are rather limited, external knowledge that spills over from neighboring regions or from farther away might become an important driver of regional diversification. Despite the relative importance of interregional knowledge flows via collaborative work, we still have a very limited understanding of how collaboration networks across regions might facilitate diversification processes. The present study investigates the diversification patterns of European metropolitan and nonmetropolitan regions into new knowledge domains via technology classes reported in patent applications to the European Patent Office. The findings indicate that externally oriented inventor collaboration networks increase the likelihood that a new technology specialization enters a region, but this external orientation is less important for related diversification than for unrelated diversification. Further, the results demonstrate that interregional collaboration networks help diversification into unrelated technologies if external knowledge sourcing is based on a diverse set of regions and if collaboration is intense within companies located in distinct regions. Within-firm collaborations across regions can compensate for missing related skills in metropolitan and in nonmetropolitan regions alike but are especially important in nonmetropolitan regions. These results provide new evidence about the importance of knowledge flows within multilocation firms in the technological knowledge diversification of regions.},\nauthor = {Kogler, Dieter F and Whittle, Adam and Kim, Keungoui and Lengyel, Bal{\\'{a}}zs and Whittle, Adam},\ndoi = {10.1080/00130095.2023.2242551},\nfile = {:D\\:/Mendeley/Kogler et al. - 2023 - Understanding Regional Branching Knowledge Diversification via Inventor and Firm Collaboration Networks.pdf:pdf},\nissn = {0013-0095},\njournal = {Economic Geography},\nkeywords = {firm linkages,inventor collaboration,knowledge sourcing,patent data analysis,regional knowledge networks,specialization,technological diversification},\nnumber = {5},\npages = {471--498},\ntitle = {{Understanding Regional Branching : Knowledge Diversification via Inventor and Firm Collaboration Networks}},\nurl = {https://doi.org/10.1080/00130095.2023.2242551},\nvolume = {99},\nyear = {2023}\n}"
   },
   {
     "type": "journal",
@@ -378,22 +235,6 @@
   },
   {
     "type": "journal",
-    "year": 2023,
-    "title": "{Which innovation type is better for production efficiency? A comparison between product/service, process, organisational and marketing innovations using stochastic frontier and meta-frontier analysis}",
-    "authors": "Kim K., Lee J., Lee C.",
-    "venue": "Technology Analysis and Strategic Management",
-    "link": "https://doi.org/10.1080/09537325.2021.1965979",
-    "keywords": [
-      "Innovation type",
-      "meta-frontier analysis",
-      "stochastic frontier analysis",
-      "technical efficiency",
-      "workplace panel survey"
-    ],
-    "bibtex": "@article{Kim2023b,\nabstract = {Innovation has been recognised as essential in a firm's success, but not all firms can actively engage in innovation activities due to their limited resources and the potential risks involved in such activities. In such a situation, a better understanding of the difference in the effects of the different innovation types is needed. However, little is known about the differences in technical efficiency in terms of innovation types. This study compared technical efficiency across different firms that applied different production function technologies differentiated by innovation type. Data from the seventh version of the Workplace Panel Survey of the Korean Labor Institute was used. Manufacturing firms that adopted a single innovation type were included in the final sample, based on the results of an exploratory data analysis. Using stochastic frontier analysis, the efficiencies of the four groups were estimated, and the efficiencies of different production function technologies were compared using meta-frontier analysis. The estimation results indicate that the organisation innovation group showed better efficiency than other groups, while the product/service innovation group exhibited the highest potential in its production technology.},\nauthor = {Kim, Keungoui and Lee, Junmin and Lee, Changjun},\ndoi = {10.1080/09537325.2021.1965979},\nfile = {:D\\:/Mendeley/Kim, Lee, Lee - 2023 - Which innovation type is better for production efficiency A comparison between productservice, process, organisat.pdf:pdf},\nissn = {14653990},\njournal = {Technology Analysis and Strategic Management},\nkeywords = {Innovation type,meta-frontier analysis,stochastic frontier analysis,technical efficiency,workplace panel survey},\nnumber = {1},\npages = {59--72},\ntitle = {{Which innovation type is better for production efficiency? A comparison between product/service, process, organisational and marketing innovations using stochastic frontier and meta-frontier analysis}},\nurl = {https://doi.org/10.1080/09537325.2021.1965979},\nvolume = {35},\nyear = {2023}\n}"
-  },
-  {
-    "type": "journal",
     "year": 2022,
     "title": "{Regional Knowledge Capabilities, Entrepreneurial Activity, and Productivity Growth: Evidence from Italian NUTS-3 Regions}",
     "authors": "Kang T., Maliphol S., Kogler D. F., Kim K.",
@@ -474,23 +315,6 @@
   {
     "type": "journal",
     "year": 2022,
-    "title": "{The effects of regional capacity in knowledge recombination on production efficiency}",
-    "authors": "Lee C., Shin H., Kim K., Kogler D. F.",
-    "venue": "Technological Forecasting & Social Change",
-    "link": "https://doi.org/10.1016/j.techfore.2022.121669",
-    "keywords": [
-      "CPC co-occurrence network",
-      "Knowledge recombination",
-      "Productivity efficiency",
-      "Regional productivity",
-      "Revealed comparative advantage",
-      "Stochastic frontier analysis"
-    ],
-    "bibtex": "@article{Lee2022,\nabstract = {Knowledge recombination, combining knowledge existing (exploitation) or new knowledge capacity (exploration) for creating knowledge collaboration, is one of the important ways of achieving innovation. However, little has known about how the knowledge recombination types affect differently to production efficiency at a regional level. This study explores the relationship between the knowledge recombination types of exploitation and exploration and regional technical efficiency by using the empirical data sets combining EPO PATSTAT, Eurostat, and Cambridge Econometrics regional database. For this purpose, three stages of analysis have been deployed. Firstly, CPC co-occurrence network analysis and relative comparative advantage (RCA) measures are used to construct knowledge space and measure regional capacity. Then, using the stochastic frontier analysis, the production efficiencies of the European NUTS 2 regions are measured. With all estimated measures, the effects of both exploration and exploitation of knowledge recombination on regional production efficiencies are estimated. The results show the positive effect of exploration on regional production efficiency, which highlights the importance of extending the range and variety of knowledge bases.},\nauthor = {Lee, Changjun and Shin, Hyunha and Kim, Keungoui and Kogler, Dieter F},\ndoi = {10.1016/j.techfore.2022.121669},\nfile = {:D\\:/Mendeley/Lee et al. - 2022 - The effects of regional capacity in knowledge recombination on production efficiency.pdf:pdf},\nissn = {0040-1625},\njournal = {Technological Forecasting & Social Change},\nkeywords = {CPC co-occurrence network,Knowledge recombination,Productivity efficiency,Regional productivity,Revealed comparative advantage,Stochastic frontier analysis},\nnumber = {January},\npages = {121669},\npublisher = {Elsevier Inc.},\ntitle = {{The effects of regional capacity in knowledge recombination on production efficiency}},\nurl = {https://doi.org/10.1016/j.techfore.2022.121669},\nvolume = {180},\nyear = {2022}\n}"
-  },
-  {
-    "type": "journal",
-    "year": 2022,
     "title": "{Transition failure strengthening regime stability in socio-technical systems : A case study of shared mobility market in South Korea}",
     "authors": "Lee J., Park G., Kim K.",
     "venue": "Telematics and Informatics",
@@ -504,25 +328,6 @@
       "Transition failure"
     ],
     "bibtex": "@article{Lee2022a,\nabstract = {From the aspect of socio-technical transitions, South Korea's shared mobility services can be described as a case of transition failure. In extant studies, transition failure has mostly been treated at the regime level, and the effects of a failed niche have been often ignored as if they do not impact the established system. Although the impact of failed niches is inconsequential compared to that of successful niches, regime actors can still interact and reinforce mutual stability within the existing regime and make either a positive or a negative impact even after the failed niches disappear. This study explains the effects of the failed niche, which attempted transition to a new socio-technical system, from a novel perspective. By revisiting the triple embeddedness framework, South Korea's shared mobility market has been selected as the representative case for transition failure. We find that failed shared mobility services in South Korea affecting regime stability through regime actors' networks, institutional inertia, and the imprinting effect. Our results highlight the significance of transition failure and provide adequate regulatory intervention to overcome regime barrier.},\nauthor = {Lee, Junmin and Park, Gangmin and Kim, Keungoui},\ndoi = {10.1016/j.tele.2022.101814},\nfile = {:D\\:/Mendeley/Lee, Park, Kim - 2022 - Transition failure strengthening regime stability in socio-technical systems A case study of shared mobility ma.pdf:pdf},\nissn = {0736-5853},\njournal = {Telematics and Informatics},\nkeywords = {Failed niche,Regime barrier,Regime stability,Shared mobility,Socio-technical transition,Transition failure},\nnumber = {May 2021},\npages = {101814},\npublisher = {Elsevier Ltd},\ntitle = {{Transition failure strengthening regime stability in socio-technical systems : A case study of shared mobility market in South Korea}},\nurl = {https://doi.org/10.1016/j.tele.2022.101814},\nvolume = {70},\nyear = {2022}\n}"
-  },
-  {
-    "type": "journal",
-    "year": 2022,
-    "title": "{Regional knowledge spaces : the interplay of entry‑relatedness and entry‑potential for technological change and growth}",
-    "authors": "Kogler D. F., Davies R. B., Lee C., Kim K.",
-    "venue": "The Journal of Technology Transfer",
-    "link": "https://doi.org/10.1007/s10961-022-09924-2",
-    "keywords": [
-      "Co-occurrence network",
-      "EU",
-      "Entry-potential",
-      "Entry-relatedness",
-      "Knowledge gravity model",
-      "Patent analysis",
-      "Regional knowledge space",
-      "Technological change"
-    ],
-    "bibtex": "@article{Kogler2022,\nabstract = {This paper aims to uncover the mechanism of how the network properties of regional knowledge spaces contribute to technological change from the perspective of regional knowledge entry-relatedness and regional knowledge entry-potential. Entry-relatedness, which has been previously employed to investigate the technology evolution of regional economies, is advanced by introducing a knowledge gravity model. The entry-potential of a newly acquired regional specialisation has been largely ignored in the relevant literature; surprisingly given the high relevance that is attributed to the recombination potential of new capabilities. In other words, just adding new knowledge domains to a system is not sufficient alone, it really depends on how these fit into the existing system and thus can generate wider economic benefits. Based on an empirical analysis of EU-15 Metro and non-Metro regions from 1981 to 2015, we find that entry-relatedness has a significant negative association with novel inventive activities, while entry-potential has a significant positive association with the development of novel products and processes of economic value. This highlights that regions' capacity to venture into high-potential areas of technological specialization in the knowledge space outperforms purely relatedness driven diversification that is frequently promoted in the relevant literature.},\nauthor = {Kogler, Dieter F and Davies, Ronald B and Lee, Changjun and Kim, Keungoui},\ndoi = {10.1007/s10961-022-09924-2},\nfile = {:D\\:/Mendeley/Kogler et al. - 2022 - Regional knowledge spaces the interplay of entry‑relatedness and entry‑potential for technological change and gr.pdf:pdf},\nisbn = {0123456789},\nissn = {1573-7047},\njournal = {The Journal of Technology Transfer},\nkeywords = {Co-occurrence network,EU,Entry-potential,Entry-relatedness,Knowledge gravity model,Patent analysis,Regional knowledge space,Technological change},\npages = {645--668},\npublisher = {Springer US},\ntitle = {{Regional knowledge spaces : the interplay of entry‑relatedness and entry‑potential for technological change and growth}},\nurl = {https://doi.org/10.1007/s10961-022-09924-2},\nvolume = {48},\nyear = {2022}\n}"
   },
   {
     "type": "journal",
@@ -650,16 +455,6 @@
     "bibtex": "@article{2015,\nabstract = {본 연구에서는 베이지안 분석 방법(Bayesian approach)을 기반으로 하는 Bayesian Model Selection(BMS)과 Bayesian Model Averaging(BMA)을 이용해 전통적인 계량 분석 방법(Frequentists approach)에서 발생하는 모델 선정의 불확실성과 이로 인해 발생하는 정보 손실 문제를 개선한 새로운 아파트가격지수 예측 모형을 제시하였다. 2007년 1분기부터 2010년 4분기까지의 거시 경제 변수와 서울과 부산의 지역 변수로 구성된 총 11개 변수들로 분석한 결과, 서울은 지가변동률(서울), 소비자물가지수, 시장금리, 주택담보대출금리, CD금리로 구성된 모델이, 부산은 GDP(명목)으로 구성된 모델이 최적의 모델로 선정되었으며, 상위 모델군은 Occam's Window를 이용해 도출하였다. 이를 통해 선정된 모형과 기존의 AR 모형으로 2011년 1분기부터 2014년 4분기까지 총 16기의 분기별 아파트 실거래가격지수를 예측하였고, BMS와 BMA 모두 기존의 AR 모형보다 예측력 측면에서 뛰어난 것으로 나타났다.},\nauthor = {김경외 and 김영효},\nfile = {:D\\:/Mendeley/김, 김 - 2015 - 모델의 불확실성을 반영한 아파트가격지수 예측 모형 연구.pdf:pdf},\njournal = {부동산분석},\nkeywords = {BMA,BMS,Bayesian Methodology,Housing Price Forecasting,Model Choice Uncertainty},\nnumber = {1},\npages = {27--49},\ntitle = {모델의 불확실성을 반영한 아파트가격지수 예측 모형 연구},\nvolume = {1},\nyear = {2015}\n}"
   },
   {
-    "type": "conference",
-    "year": 2021,
-    "title": "{Mechanisms that Influence IT Governance Effectiveness : Empirical Analysis in Private and Public Sector in Colombia}",
-    "authors": "Borja S., Kim K., Yoon H., Hwang J.",
-    "venue": "PICMET 2021- Portland International Conference on Management of Engineering and Technology: Managing Technological Entrepreneurship: The Engine for Economic Growth, Proceedings",
-    "link": "10.23919/PICMET53225.2022.9882706",
-    "keywords": [],
-    "bibtex": "@inproceedings{Borja2021,\nabstract = {The influence of information technology (IT) is visible everywhere. The evolution of IT encourages firms to have more concerns about the role that IT is playing for achieving strategic goals. Worldwide is known that companies are making huge investments in IT acquisitions and also in how govern its complexity. As a result, IT governance gains attention among organizations. This study reviews individual IT governance mechanisms and their influence on IT governance effectiveness. The study examines how IT Intensity use by firms and IT governance experience influence IT governance effectiveness. - The IT governance mechanisms selected were IT strategy committee, IT steering committee, involvement of senior management in IT, corporate performance measurement systems, ethics and culture of compliance, and corporate communication Systems. This study uses structural equation modelling to evaluate 293 valid surveys collected from members of the ISACA and PMI in Bogot{\\'{a}} as well as the Colombian Association of Computer Science Engineers (ACIS). This study found that corporate communication systems and IT strategy committee have a positive and significant influence on the overall IT governance effectiveness. In firms with less than 10 years of IT governance experience, the influence of IT strategy committee is higher.},\nauthor = {Borja, Sergio and Kim, Keungoui and Yoon, Hyeunyoung and Hwang, Junseok},\nbooktitle = {PICMET 2021- Portland International Conference on Management of Engineering and Technology: Managing Technological Entrepreneurship: The Engine for Economic Growth, Proceedings},\nfile = {:D\\:/Mendeley/Borja et al. - 2021 - Mechanisms that Influence IT Governance Effectiveness Empirical Analysis in Private and Public Sector in Colombia.pdf:pdf},\ntitle = {{Mechanisms that Influence IT Governance Effectiveness : Empirical Analysis in Private and Public Sector in Colombia}},\nurl = {10.23919/PICMET53225.2022.9882706},\nyear = {2021}\n}"
-  },
-  {
     "type": "journal",
     "year": 2018,
     "title": "{IT Governance effectiveness and its influence on innovation product and process}",
@@ -668,6 +463,16 @@
     "link": "https://doi.org/10.23919/PICMET.2018.8481752",
     "keywords": [],
     "bibtex": "@article{Borja2018,\nabstract = {Information technology (IT) and innovation are topics that receive the attention among academics. However, the increasing and pervasive dependence on IT from organizations have raised a lot of concerns on the topic of IT governance (ITG). ITG and innovation do not have had the attention among academics. This study aims to examine the relationship among effective ITG, ITG relevant knowledge and how they influence innovation product and process. This study uses structural equation modeling (SEM) to evaluate 215 valid surveys that were collected from members of the respective local chapters located in Bogot{\\'{a}}-Colombia of the following institutions: Information Systems Audit and Control Association (ISACA) and Project Management Institute (PMI). In addition, members of the Colombian computer science engineers association (ACIS) also participate answering our survey instrument. Our study found that ITG has positive and significant influence on innovation product and process. ITG relevant knowledge influences positively ITG especially when ITG experience is high, however, when the ITG experience is low, its effect is perceived as negative on innovation product and process.},\nauthor = {Borja, Sergio and Kim, Keungoui and Yoon, Hyenyoung and Hwang, Junseok},\ndoi = {10.23919/PICMET.2018.8481752},\nfile = {:D\\:/Mendeley/Borja et al. - 2018 - IT Governance effectiveness and its influence on innovation product and process.pdf:pdf},\nisbn = {9781890843373},\njournal = {PICMET 2018 - Portland International Conference on Management of Engineering and Technology: Managing Technological Entrepreneurship: The Engine for Economic Growth, Proceedings},\npublisher = {Portland International Conference on Management of Engineering and Technology, Inc. (PICMET)},\ntitle = {{IT Governance effectiveness and its influence on innovation product and process}},\nyear = {2018}\n}"
+  },
+  {
+    "type": "conference",
+    "year": 2021,
+    "title": "{Mechanisms that Influence IT Governance Effectiveness : Empirical Analysis in Private and Public Sector in Colombia}",
+    "authors": "Borja S., Kim K., Yoon H., Hwang J.",
+    "venue": "PICMET 2021- Portland International Conference on Management of Engineering and Technology: Managing Technological Entrepreneurship: The Engine for Economic Growth, Proceedings",
+    "link": "10.23919/PICMET53225.2022.9882706",
+    "keywords": [],
+    "bibtex": "@inproceedings{Borja2021,\nabstract = {The influence of information technology (IT) is visible everywhere. The evolution of IT encourages firms to have more concerns about the role that IT is playing for achieving strategic goals. Worldwide is known that companies are making huge investments in IT acquisitions and also in how govern its complexity. As a result, IT governance gains attention among organizations. This study reviews individual IT governance mechanisms and their influence on IT governance effectiveness. The study examines how IT Intensity use by firms and IT governance experience influence IT governance effectiveness. - The IT governance mechanisms selected were IT strategy committee, IT steering committee, involvement of senior management in IT, corporate performance measurement systems, ethics and culture of compliance, and corporate communication Systems. This study uses structural equation modelling to evaluate 293 valid surveys collected from members of the ISACA and PMI in Bogot{\\'{a}} as well as the Colombian Association of Computer Science Engineers (ACIS). This study found that corporate communication systems and IT strategy committee have a positive and significant influence on the overall IT governance effectiveness. In firms with less than 10 years of IT governance experience, the influence of IT strategy committee is higher.},\nauthor = {Borja, Sergio and Kim, Keungoui and Yoon, Hyeunyoung and Hwang, Junseok},\nbooktitle = {PICMET 2021- Portland International Conference on Management of Engineering and Technology: Managing Technological Entrepreneurship: The Engine for Economic Growth, Proceedings},\nfile = {:D\\:/Mendeley/Borja et al. - 2021 - Mechanisms that Influence IT Governance Effectiveness Empirical Analysis in Private and Public Sector in Colombia.pdf:pdf},\ntitle = {{Mechanisms that Influence IT Governance Effectiveness : Empirical Analysis in Private and Public Sector in Colombia}},\nurl = {10.23919/PICMET53225.2022.9882706},\nyear = {2021}\n}"
   },
   {
     "type": "journal",
@@ -851,5 +656,283 @@
       "Transaction price index"
     ],
     "bibtex": "@article{Kim2017d,\nauthor = {Kim, Keungoui and Jung, Sungdo},\ndoi = {https://doi.org/10.30902/jrea.2017.3.1.35},\nfile = {:D\\:/Mendeley/Kim, Jung - 2017 - A Study on Apartment Transaction Price Index Using Cluster Analysis - Focused on the case of Seoul -.pdf:pdf},\njournal = {Journal of Real Estate Analysis},\nkeywords = {Clustering analysis,Transaction price index},\nnumber = {1},\npages = {35--58},\ntitle = {{A Study on Apartment Transaction Price Index Using Cluster Analysis - Focused on the case of Seoul -}},\nvolume = {3},\nyear = {2017}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2022,
+    "title": "{Regional knowledge spaces : the interplay of entry‑relatedness and entry‑potential for technological change and growth}",
+    "authors": "Kogler D. F., Davies R. B., Lee C., Kim K.",
+    "venue": "The Journal of Technology Transfer",
+    "link": "https://doi.org/10.1007/s10961-022-09924-2",
+    "keywords": [
+      "Co-occurrence network",
+      "EU",
+      "Entry-potential",
+      "Entry-relatedness",
+      "Knowledge gravity model",
+      "Patent analysis",
+      "Regional knowledge space",
+      "Technological change"
+    ],
+    "bibtex": "@article{Kogler2022,\nabstract = {This paper aims to uncover the mechanism of how the network properties of regional knowledge spaces contribute to technological change from the perspective of regional knowledge entry-relatedness and regional knowledge entry-potential. Entry-relatedness, which has been previously employed to investigate the technology evolution of regional economies, is advanced by introducing a knowledge gravity model. The entry-potential of a newly acquired regional specialisation has been largely ignored in the relevant literature; surprisingly given the high relevance that is attributed to the recombination potential of new capabilities. In other words, just adding new knowledge domains to a system is not sufficient alone, it really depends on how these fit into the existing system and thus can generate wider economic benefits. Based on an empirical analysis of EU-15 Metro and non-Metro regions from 1981 to 2015, we find that entry-relatedness has a significant negative association with novel inventive activities, while entry-potential has a significant positive association with the development of novel products and processes of economic value. This highlights that regions' capacity to venture into high-potential areas of technological specialization in the knowledge space outperforms purely relatedness driven diversification that is frequently promoted in the relevant literature.},\nauthor = {Kogler, Dieter F and Davies, Ronald B and Lee, Changjun and Kim, Keungoui},\ndoi = {10.1007/s10961-022-09924-2},\nfile = {:D\\:/Mendeley/Kogler et al. - 2022 - Regional knowledge spaces the interplay of entry‑relatedness and entry‑potential for technological change and gr.pdf:pdf},\nisbn = {0123456789},\nissn = {1573-7047},\njournal = {The Journal of Technology Transfer},\nkeywords = {Co-occurrence network,EU,Entry-potential,Entry-relatedness,Knowledge gravity model,Patent analysis,Regional knowledge space,Technological change},\npages = {645--668},\npublisher = {Springer US},\ntitle = {{Regional knowledge spaces : the interplay of entry‑relatedness and entry‑potential for technological change and growth}},\nurl = {https://doi.org/10.1007/s10961-022-09924-2},\nvolume = {48},\nyear = {2022}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2022,
+    "title": "{The effects of regional capacity in knowledge recombination on production efficiency}",
+    "authors": "Lee C., Shin H., Kim K., Kogler D. F.",
+    "venue": "Technological Forecasting & Social Change",
+    "link": "https://doi.org/10.1016/j.techfore.2022.121669",
+    "keywords": [
+      "CPC co-occurrence network",
+      "Knowledge recombination",
+      "Productivity efficiency",
+      "Regional productivity",
+      "Revealed comparative advantage",
+      "Stochastic frontier analysis"
+    ],
+    "bibtex": "@article{Lee2022,\nabstract = {Knowledge recombination, combining knowledge existing (exploitation) or new knowledge capacity (exploration) for creating knowledge collaboration, is one of the important ways of achieving innovation. However, little has known about how the knowledge recombination types affect differently to production efficiency at a regional level. This study explores the relationship between the knowledge recombination types of exploitation and exploration and regional technical efficiency by using the empirical data sets combining EPO PATSTAT, Eurostat, and Cambridge Econometrics regional database. For this purpose, three stages of analysis have been deployed. Firstly, CPC co-occurrence network analysis and relative comparative advantage (RCA) measures are used to construct knowledge space and measure regional capacity. Then, using the stochastic frontier analysis, the production efficiencies of the European NUTS 2 regions are measured. With all estimated measures, the effects of both exploration and exploitation of knowledge recombination on regional production efficiencies are estimated. The results show the positive effect of exploration on regional production efficiency, which highlights the importance of extending the range and variety of knowledge bases.},\nauthor = {Lee, Changjun and Shin, Hyunha and Kim, Keungoui and Kogler, Dieter F},\ndoi = {10.1016/j.techfore.2022.121669},\nfile = {:D\\:/Mendeley/Lee et al. - 2022 - The effects of regional capacity in knowledge recombination on production efficiency.pdf:pdf},\nissn = {0040-1625},\njournal = {Technological Forecasting & Social Change},\nkeywords = {CPC co-occurrence network,Knowledge recombination,Productivity efficiency,Regional productivity,Revealed comparative advantage,Stochastic frontier analysis},\nnumber = {January},\npages = {121669},\npublisher = {Elsevier Inc.},\ntitle = {{The effects of regional capacity in knowledge recombination on production efficiency}},\nurl = {https://doi.org/10.1016/j.techfore.2022.121669},\nvolume = {180},\nyear = {2022}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2023,
+    "title": "{Understanding Regional Branching : Knowledge Diversification via Inventor and Firm Collaboration Networks}",
+    "authors": "Kogler D. F., Whittle A., Kim K., Lengyel B., Whittle A.",
+    "venue": "Economic Geography",
+    "link": "https://doi.org/10.1080/00130095.2023.2242551",
+    "keywords": [
+      "firm linkages",
+      "inventor collaboration",
+      "knowledge sourcing",
+      "patent data analysis",
+      "regional knowledge networks",
+      "specialization",
+      "technological diversification"
+    ],
+    "bibtex": "@article{Kogler2023,\nabstract = {The diversification of regions into new technologies is driven by the degree of relatedness to existing capabilities already present in the region. In cases where opportunities for diversification are rather limited, external knowledge that spills over from neighboring regions or from farther away might become an important driver of regional diversification. Despite the relative importance of interregional knowledge flows via collaborative work, we still have a very limited understanding of how collaboration networks across regions might facilitate diversification processes. The present study investigates the diversification patterns of European metropolitan and nonmetropolitan regions into new knowledge domains via technology classes reported in patent applications to the European Patent Office. The findings indicate that externally oriented inventor collaboration networks increase the likelihood that a new technology specialization enters a region, but this external orientation is less important for related diversification than for unrelated diversification. Further, the results demonstrate that interregional collaboration networks help diversification into unrelated technologies if external knowledge sourcing is based on a diverse set of regions and if collaboration is intense within companies located in distinct regions. Within-firm collaborations across regions can compensate for missing related skills in metropolitan and in nonmetropolitan regions alike but are especially important in nonmetropolitan regions. These results provide new evidence about the importance of knowledge flows within multilocation firms in the technological knowledge diversification of regions.},\nauthor = {Kogler, Dieter F and Whittle, Adam and Kim, Keungoui and Lengyel, Bal{\\'{a}}zs and Whittle, Adam},\ndoi = {10.1080/00130095.2023.2242551},\nfile = {:D\\:/Mendeley/Kogler et al. - 2023 - Understanding Regional Branching Knowledge Diversification via Inventor and Firm Collaboration Networks.pdf:pdf},\nissn = {0013-0095},\njournal = {Economic Geography},\nkeywords = {firm linkages,inventor collaboration,knowledge sourcing,patent data analysis,regional knowledge networks,specialization,technological diversification},\nnumber = {5},\npages = {471--498},\ntitle = {{Understanding Regional Branching : Knowledge Diversification via Inventor and Firm Collaboration Networks}},\nurl = {https://doi.org/10.1080/00130095.2023.2242551},\nvolume = {99},\nyear = {2023}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2025,
+    "title": "{The firm-location nexus: examining inventive footprint and technological evolution of Nortel over the course of its \"boom and bust\"}",
+    "authors": "Kogler D. F., Kedron P., Kim K.",
+    "venue": "Evolutionary and Institutional Economic Review",
+    "link": "",
+    "keywords": [
+      "Firm–region co-evolution",
+      "Inventive productivity",
+      "Knowledge space",
+      "Nortel",
+      "Ottawa–Gatineau",
+      "Patent data",
+      "Technological embeddedness",
+      "Technological similarity"
+    ],
+    "bibtex": "@article{Kogler2025,\nabstract = {We examine how firm capabilities and regional knowledge bases co-evolve by studying Nortel, a major telecommunications manufacturer, in its home region of Ottawa–Gatineau and in the regions it rapidly entered during the late-1990s dot- com boom. We introduce a patent-based measure of technological similarity be- tween firms and regions to operationalize their potential compatibility and embed it in a “knowledge-space” mapping approach. Across locations, inventive produc- tivity, proxied by patent output, is higher where Nortel's technological profile is most similar to the host region's specialization. Technological similarity is a strong predictor of Nortel's local patenting rates and, during corporate decline, greater technological embeddedness is associated with slower local exit. These results dem- onstrate that aligning firm capabilities with regional strengths materially influences innovative performance and location dynamics. The proposed knowledge-space tool offers a replicable method for business location decisions and for regional policy seeking to attract, retain, and upgrade technology-intensive activity.},\nauthor = {Kogler, Dieter F and Kedron, Peter and Kim, Keungoui},\nfile = {:D\\:/Mendeley/Kogler, Kedron, Kim - 2025 - The firm-location nexus examining inventive footprint and technological evolution of Nortel over the course.pdf:pdf},\njournal = {Evolutionary and Institutional Economic Review},\nkeywords = {Firm–region co-evolution,Inventive productivity,Knowledge space,Nortel,Ottawa–Gatineau,Patent data,Technological embeddedness,Technological similarity},\ntitle = {{The firm-location nexus: examining inventive footprint and technological evolution of Nortel over the course of its \"boom and bust\"}},\nyear = {2025}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2024,
+    "title": "{Smart Specialisation Strategies and regional knowledge spaces : how to bridge vision and reality}",
+    "authors": "Kim K., Ferrante C., Kogler D. F.",
+    "venue": "Regional Studies",
+    "link": "https://doi.org/10.1080/00343404.2024.2355985",
+    "keywords": [
+      "European Union",
+      "Smart Specialisation Strategies (S3)",
+      "policy design and evaluation",
+      "regional knowledge spaces",
+      "regional research and innovation policy"
+    ],
+    "bibtex": "@article{Kim2024b,\nabstract = {Smart Specialisation Strategies (S3) are implemented across European regions. However, investigations into whether S3 initiatives adequately match local knowledge capabilities are very scarce. This work analyses to what extent S3 policies are coherent with the local knowledge space of 164 European regions, respectively. We show to what extent regional S3 policies target ‘central' technologies, and to what degree S3 policies also target ‘potential' sectors of knowledge production in specific regional settings. Our findings provide a solution for how S3 policies could be designed in the future to overcome the gap between S3 vision and the reality of constraints in regions.},\nauthor = {Kim, Keungoui and Ferrante, Chiara and Kogler, Dieter F},\ndoi = {10.1080/00343404.2024.2355985},\nfile = {:D\\:/Mendeley/Kim, Ferrante, Kogler - 2024 - Smart Specialisation Strategies and regional knowledge spaces how to bridge vision and reality.pdf:pdf},\nissn = {0034-3404},\njournal = {Regional Studies},\nkeywords = {European Union,Smart Specialisation Strategies (S3),policy design and evaluation,regional knowledge spaces,regional research and innovation policy},\nnumber = {12},\npages = {2501--2517},\ntitle = {{Smart Specialisation Strategies and regional knowledge spaces : how to bridge vision and reality}},\nurl = {https://doi.org/10.1080/00343404.2024.2355985},\nvolume = {58},\nyear = {2024}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2025,
+    "title": "{Mapping regional knowledge spaces via BERTopic and BERT similarity: the semantic proximity of quantum science in the overall scientific publication landscape}",
+    "authors": "Kim K., Kogler D. F., Hur J.",
+    "venue": "Scientometrics",
+    "link": "https://doi.org/10.1007/s11192-025-05430-y",
+    "keywords": [
+      "BERT-similarity",
+      "BERTopic",
+      "Evolutionary Economic Geography",
+      "Knowledge proximity",
+      "Quantum science",
+      "Regional branching",
+      "Regional knowledge space",
+      "Science specialization",
+      "Semantic proximity"
+    ],
+    "bibtex": "@article{Kim2025,\nabstract = {Regional diversification and innovation depend on how well existing knowledge bases align with emerging scientific domains. Conventional measures of relatedness, however, rely on static classification systems that struggle to capture the interdisciplinary and dynamic nature of modern knowledge production. This study introduces semantic proximity as a novel, text-based approach to assess the cognitive alignment between regional scientific activity and new fields. Drawing on scientific publications from European NUTS-3 regions between 2010 and 2021, we employ BERTopic and BERT-based similarity to map regional knowledge spaces and measure their proximity to quantum science, an interdisciplinary field of high strategic importance. Using negative binomial regression models, we find that regions with higher semantic proximity to quantum science generate significantly more quantum-related publications. By moving beyond rigid taxonomies, the concept of semantic proximity provides a more flexible and fine-grained tool for analyzing regional knowledge evolution. Our findings extend evolutionary economic geography and offer actionable insights for policymakers seeking to foster smart specialization and guide regional innovation strategies in emerging technologies.},\nauthor = {Kim, Keungoui and Kogler, Dieter F. and Hur, Jisoo},\ndoi = {10.1007/s11192-025-05430-y},\nfile = {:D\\:/Mendeley/Kim, Kogler, Hur - 2025 - Mapping regional knowledge spaces via BERTopic and BERT similarity the semantic proximity of quantum science i.pdf:pdf},\nisbn = {0123456789},\nissn = {15882861},\njournal = {Scientometrics},\nkeywords = {BERT-similarity,BERTopic,Evolutionary Economic Geography,Knowledge proximity,Quantum science,Regional branching,Regional knowledge space,Science specialization,Semantic proximity},\nnumber = {10},\npages = {5793--5820},\npublisher = {Springer International Publishing},\ntitle = {{Mapping regional knowledge spaces via BERTopic and BERT similarity: the semantic proximity of quantum science in the overall scientific publication landscape}},\nurl = {https://doi.org/10.1007/s11192-025-05430-y},\nvolume = {130},\nyear = {2025}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2025,
+    "title": "{A Study on Data Preprocessing and Prompt Engineering Methodologies Specialized for the Interpretation of Automobile Law Documents}",
+    "authors": "Ahn S., Moon B., Park S., Kim S., Kim K.",
+    "venue": "The Journal of Korean Institute of Information Technology",
+    "link": "https://doi.org/10.14801/jkiit.2025.23.6.31",
+    "keywords": [
+      "automobile law",
+      "braking system",
+      "parent-child chunking",
+      "prompt engineering",
+      "rag"
+    ],
+    "bibtex": "@article{Ahn2025,\nabstract = {자동차 설계 및 개발 과정에서 개발자는 법과 규제를 준수하기 위해 담당 법률 전문가와 지속적으로 소통하고 협력해야 한다. 그러나 기업 내 법률 전문가의 수가 제한적이라는 현실에서는 다수의 개발자가 적시에법률 자문과 검토를 받기 어렵다. 본 연구는 법률 비전문가인 자동차 개발자가 생성형 AI 를 활용하여 법률 및규제를 검토하고 해석할 수 있도록, 자동차 법률 문서에 특화된 데이터 전처리 및 프롬프트 엔지니어링 방법론을 제안한다. 제안된 방법론은 법률 문서의 구조적 정보를 활용하여 검색 효율성을 높이는 Parent-Child Chunking 기법과 답변 정답률을 향상시키기 위한 프롬프트 엔지니어링 기법을 포함한다. 이러한 접근 방식으로 구축된 RAG 서비스는 자동차 개발자가 법규 관련 업무를 보다 효율적이고 자율적으로 수행하는데 기여할수 있을 것으로 기대된다.},\nauthor = {Ahn, Seonggyu and Moon, Byeori and Park, Sangbeom and Kim, Sehee and Kim, Keungoui},\ndoi = {10.14801/jkiit.2025.23.6.31},\nfile = {:D\\:/Mendeley/Ahn et al. - 2025 - A Study on Data Preprocessing and Prompt Engineering Methodologies Specialized for the Interpretation of Automobile.pdf:pdf},\nissn = {1598-8619},\njournal = {The Journal of Korean Institute of Information Technology},\nkeywords = {automobile law,braking system,parent-child chunking,prompt engineering,rag},\nnumber = {6},\npages = {31--40},\ntitle = {{A Study on Data Preprocessing and Prompt Engineering Methodologies Specialized for the Interpretation of Automobile Law Documents}},\nvolume = {23},\nyear = {2025}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2026,
+    "title": "{Mapping knowledge recombination for innovation: cognitive proximity and business method patents in the digital era}",
+    "authors": "Kim K., Kogler D. F., Lee J., Maliphol S., Lee C.",
+    "venue": "Journal of Knowledge Management",
+    "link": "https://doi.org/10.1108/jkm-05-2025-0751",
+    "keywords": [
+      "Business method patents",
+      "Cognitive proximity",
+      "Digital transformation",
+      "Innovation strategy",
+      "Knowledge recombination",
+      "Knowledge space",
+      "business method patents",
+      "cognitive proximity",
+      "digital transformation",
+      "information about the",
+      "innovation strategy",
+      "knowledge recombination",
+      "knowledge space",
+      "paper type research paper"
+    ],
+    "bibtex": "@article{Kim2026,\nabstract = {Purpose – This study aims to investigate how knowledge recombination contributes to innovation during digital transformation, focusing on business method (BM) patents. It introduces the concepts of dominant and spark technologies to capture different types of cognitive proximity in the innovation process. The research aims to reveal how these distinct knowledge types influence the creation of BM innovations across regions. By mapping knowledge interactions in patent networks, the study provides new insights into the mechanisms of technological emergence and highlights their strategic relevance for knowledge- intensive organizations and regions navigating digital change. Design/methodology/approach – Using patent data from the European Patent Office (1981–2015), the study constructs co-occurrence-based knowledge spaces to map technological proximity and recombination. Two types of technologies are defined: dominant (widely combinable) and spark (highly BM-specific), measured via weighted centrality in network analysis. Regional-level indicators are developed, and fixed-effects negative binomial regression models are employed to evaluate their impact on BM patent output. This approach integrates cognitive proximity theory and evolutionary economic geography into empirical knowledge mapping, enabling analysis of regional innovation through a knowledge management lens. Findings – The analysis shows that both dominant and spark technologies significantly contribute to the creation of BM patents, though their effects vary by regional innovation capacity. Dominant technologies, broadly used across patenting activity, support general recombination, while spark technologies are tightly linked to BM-specific innovations. Notably, spark technologies exert greater influence in metropolitan regions with stronger innovation ecosystems. These findings highlight the differentiated roles of knowledge types in innovation and demonstrate that knowledge recombination dynamics are context-dependent. The study also confirms the value of cognitive proximity metrics in predicting innovation outputs. Originality/value – This study extends knowledge management theory by operationalizing and empirically testing cognitive proximity through patent-based knowledge spaces. It introduces actionable metrics – dominant and spark technologies – that offer new ways to evaluate knowledge recombination potential. Unlike traditional studies focused solely on knowledge stock or diffusion, this work emphasizes structural relationships between knowledge domains and their implications for business innovation. The findings offer valuable guidance for firms, regions, and policymakers seeking to foster innovation in the digital economy by aligning knowledge strategies with technological convergence patterns and local knowledge structures.},\nauthor = {Kim, Keungoui and Kogler, Dieter F. and Lee, Junmin and Maliphol, Sira and Lee, Changjun},\ndoi = {10.1108/jkm-05-2025-0751},\nfile = {:D\\:/Mendeley/Kim et al. - 2026 - Mapping knowledge recombination for innovation cognitive proximity and business method patents in the digital era(2).pdf:pdf},\nissn = {1367-3270},\njournal = {Journal of Knowledge Management},\nkeywords = {Business method patents,Cognitive proximity,Digital transformation,Innovation strategy,Knowledge recombination,Knowledge space,business method patents,cognitive proximity,digital transformation,information about the,innovation strategy,knowledge recombination,knowledge space,paper type research paper},\nnumber = {11},\npages = {57--82},\ntitle = {{Mapping knowledge recombination for innovation: cognitive proximity and business method patents in the digital era}},\nvolume = {30},\nyear = {2026}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2026,
+    "title": "{Understanding the Spatial Co-Occurrence of Different Crime Types and Brokerage Crime in NYC Block Groups}",
+    "authors": "Kim Y., Kim K.",
+    "venue": "American Journal of Criminal Justice",
+    "link": "",
+    "keywords": [],
+    "bibtex": "@article{Kim2026a,\nabstract = {Crime is not evenly distributed within a city; rather, it clusters in specific areas. While this spatial concentration is well-documented, most studies focus on individual crime types, overlooking how different crimes co-occur. Addressing this gap, this study examines spatial co-occurrence patterns of crimes in New York City from 2008 to 2018. By constructing a crime network, it identifies “brokerage” crimes that connect distinct crime groups. The analysis explores both the clustering of similar offenses and connections between crimes of differing severity, drawing on theories such as repeat victimization and the disorder–crime relationship. Using betweenness centrality, the study highlights crimes like prostitution, drug offenses, and robbery as key bridging offenses. These brokerage crimes, though less frequent, are strongly associated with higher levels of violent and property crime. The findings suggest that targeting such offenses could be crucial for disrupting broader crime patterns and inform more proactive law enforcement strategies.},\nauthor = {Kim, Young-an and Kim, Keungoui},\nfile = {:D\\:/Mendeley/Kim, Kim - 2026 - Understanding the Spatial Co-Occurrence of Different Crime Types and Brokerage Crime in NYC Block Groups.pdf:pdf},\njournal = {American Journal of Criminal Justice},\ntitle = {{Understanding the Spatial Co-Occurrence of Different Crime Types and Brokerage Crime in NYC Block Groups}},\nyear = {2026}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2026,
+    "title": "{Who to collaborate: Exploring the role of knowledge overlap between inventors in innovation performance}",
+    "authors": "Hur J., Lee S., Hwang J., Kim K.",
+    "venue": "Technological Forecasting & Social Change",
+    "link": "https://doi.org/10.1016/j.techfore.2025.124483",
+    "keywords": [
+      "Collaboration",
+      "Collaborative invention",
+      "Innovation performance",
+      "Inventor analysis",
+      "Knowledge overlap",
+      "Patent performance"
+    ],
+    "bibtex": "@article{Hur2026,\nabstract = {This study investigates the implications of knowledge overlap between inventors on patent performance, focusing on the technological output, technological impact, and technological distinctiveness of inventions. Utilizing a comprehensive dataset from the PATSTAT database, we analyze 3,352,202 inventor pairs from patents filed by US-headquartered publicly traded firms between 1980 and 2015. Our analysis reveals that while a higher degree of knowledge overlap between inventors typically increases the patent output, measured by the number of patents produced, it is associated with lower patent impact and lower patent distinctiveness in the firm's technological portfolio. Notably, the relationship between knowledge overlap and both patent impact and patent distinctiveness exhibits a curvilinear (U-shaped) pattern, suggesting that beyond a certain threshold, increased knowledge overlap can enhance the influence and distinctiveness of inventions. This study contributes to the existing literature by underscoring the importance of balancing knowledge diversity and shared expertise in fostering innovation.},\nauthor = {Hur, Jisoo and Lee, Seokhui and Hwang, Junseok and Kim, Keungoui},\ndoi = {10.1016/j.techfore.2025.124483},\nfile = {:D\\:/Mendeley/Hur et al. - 2026 - Who to collaborate Exploring the role of knowledge overlap between inventors in innovation performance.pdf:pdf},\nissn = {0040-1625},\njournal = {Technological Forecasting & Social Change},\nkeywords = {Collaboration,Collaborative invention,Innovation performance,Inventor analysis,Knowledge overlap,Patent performance},\nnumber = {March 226},\npages = {124483},\npublisher = {Elsevier Inc.},\ntitle = {{Who to collaborate: Exploring the role of knowledge overlap between inventors in innovation performance}},\nurl = {https://doi.org/10.1016/j.techfore.2025.124483},\nvolume = {224},\nyear = {2026}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2025,
+    "title": "{Predicting Bicycle Demand at the Station Level by Incorporating Station-Specific Spatial Features in Graph Coutional Network Model}",
+    "authors": "Choi J., Oh K., Jang S., Kim K.",
+    "venue": "디지털산업정보학회",
+    "link": "https://doi.org/10.17662/ksdim.2025.21.1.027",
+    "keywords": [
+      "bicycle demand prediction",
+      "bicycle rental network",
+      "graph convolution network",
+      "shared-bicycle rental service",
+      "spatial feature matrix"
+    ],
+    "bibtex": "@article{Jonghyun2025,\nabstract = {This study proposes an advanced Graph Convolutional Network (GCN) model to predict daily bicycle rental volumes at the station level, addressing imbalanced usage patterns in shared bicycle services. Bicycle stations are modeled as nodes and user interactions as edges, with spatial (e.g., location, infrastructure) and temporal (e.g., weather, time) features incorporated. Optimized through hyper-parameter tuning, the model surpasses traditional methods and GCN model without spatial features, effectively capturing station-level interactions and network structures. It enables precise demand predictions, dynamic bicycle redistribution, and improved operational efficiency, supporting data-driven urban transportation policies and enhanced user convenience. The model's applicability extends to domains requiring network-based forecasting and resource allocation.},\nauthor = {Choi, Jonghyun and Oh, Kyungtaek and Jang, Seungmin and Kim, Keungoui},\nfile = {:D\\:/Mendeley/Choi et al. - 2025 - Predicting Bicycle Demand at the Station Level by Incorporating Station-Specific Spatial Features in Graph Coutiona.pdf:pdf},\njournal = {디지털산업정보학회},\nkeywords = {bicycle demand prediction,bicycle rental network,graph convolution network,shared-bicycle rental service,spatial feature matrix},\nnumber = {1},\npages = {27--43},\ntitle = {{Predicting Bicycle Demand at the Station Level by Incorporating Station-Specific Spatial Features in Graph Coutional Network Model}},\nurl = {https://doi.org/10.17662/ksdim.2025.21.1.027},\nvolume = {21},\nyear = {2025}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2025,
+    "title": "{A Machine Learning Approach to Analyzing Crime Concentration : The Case of New York City}",
+    "authors": "Kim K., Kim Y.",
+    "venue": "Justice Quarterly",
+    "link": "https://doi.org/10.1080/07418825.2024.2401938",
+    "keywords": [],
+    "bibtex": "@article{Kim2024,\nabstract = {Building upon prior work, we propose an alternative way to look at the pattern of spatial crime concentration and temporal stability of it. We first identify a high-crime cluster using the sample block groups in New York City by employing a k-means clustering method. We then examine the temporal stability of the high-crime cluster over time. We also longitudinally assess how our high-crime cluster classification is associated with the actual amount of crime while accounting for the measures of social and physical environments. We observed that about 6–12% of total areas are identified to be in the high-crime cluster. We also found that block groups identified to be high-crime cluster in one year are more likely to be that way in the next year. We hope future research may consider using data-driven approaches to expand understanding of spatial and temporal crime patterns.},\nauthor = {Kim, Keungoui and Kim, Young-an},\ndoi = {10.1080/07418825.2024.2401938},\nfile = {:D\\:/Mendeley/Kim, Kim - 2024 - A Machine Learning Approach to Analyzing Crime Concentration The Case of New York City.pdf:pdf},\njournal = {Justice Quarterly},\nnumber = {7},\npages = {1300--21},\npublisher = {Routledge},\ntitle = {{A Machine Learning Approach to Analyzing Crime Concentration : The Case of New York City}},\nurl = {https://doi.org/10.1080/07418825.2024.2401938},\nvolume = {42},\nyear = {2025}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2023,
+    "title": "{Which innovation type is better for production efficiency? A comparison between product/service, process, organisational and marketing innovations using stochastic frontier and meta-frontier analysis}",
+    "authors": "Kim K., Lee J., Lee C.",
+    "venue": "Technology Analysis and Strategic Management",
+    "link": "https://doi.org/10.1080/09537325.2021.1965979",
+    "keywords": [
+      "Innovation type",
+      "meta-frontier analysis",
+      "stochastic frontier analysis",
+      "technical efficiency",
+      "workplace panel survey"
+    ],
+    "bibtex": "@article{Kim2023b,\nabstract = {Innovation has been recognised as essential in a firm's success, but not all firms can actively engage in innovation activities due to their limited resources and the potential risks involved in such activities. In such a situation, a better understanding of the difference in the effects of the different innovation types is needed. However, little is known about the differences in technical efficiency in terms of innovation types. This study compared technical efficiency across different firms that applied different production function technologies differentiated by innovation type. Data from the seventh version of the Workplace Panel Survey of the Korean Labor Institute was used. Manufacturing firms that adopted a single innovation type were included in the final sample, based on the results of an exploratory data analysis. Using stochastic frontier analysis, the efficiencies of the four groups were estimated, and the efficiencies of different production function technologies were compared using meta-frontier analysis. The estimation results indicate that the organisation innovation group showed better efficiency than other groups, while the product/service innovation group exhibited the highest potential in its production technology.},\nauthor = {Kim, Keungoui and Lee, Junmin and Lee, Changjun},\ndoi = {10.1080/09537325.2021.1965979},\nfile = {:D\\:/Mendeley/Kim, Lee, Lee - 2023 - Which innovation type is better for production efficiency A comparison between productservice, process, organisat.pdf:pdf},\nissn = {14653990},\njournal = {Technology Analysis and Strategic Management},\nkeywords = {Innovation type,meta-frontier analysis,stochastic frontier analysis,technical efficiency,workplace panel survey},\nnumber = {1},\npages = {59--72},\ntitle = {{Which innovation type is better for production efficiency? A comparison between product/service, process, organisational and marketing innovations using stochastic frontier and meta-frontier analysis}},\nurl = {https://doi.org/10.1080/09537325.2021.1965979},\nvolume = {35},\nyear = {2023}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2024,
+    "title": "{The role of design engineers : Evidence from intra-firm knowledge and collaboration networks}",
+    "authors": "Hur J., Hwang J., Kim K.",
+    "venue": "PLoS ONE",
+    "link": "http://dx.doi.org/10.1371/journal.pone.0298089",
+    "keywords": [],
+    "bibtex": "@article{Hur2024a,\nabstract = {Successful new product development requires the integration of design and engineering, bridging the gap between technological feasibility and user-centric considerations. However, direct collaboration between designers and engineers with heterogeneous knowledge presents challenges. In this context, the role of design engineers—professionals skilled in both design and engineering—becomes pivotal. This study categorizes inventors into three primary groups: engineers, designers, and design engineers based on the type of patent applications they hold and investigates their differences in knowledge portfolios and collaboration patterns. The study relies on patent data for 4,665 US publicly-traded firms from 1980 to 2015 from the PATSTAT database, and constructs two networks for each firm period: a social network of inventors and a knowledge network of knowledge elements. Findings show that design engineers are highly connected within the social network but have disconnected knowledge in the knowledge network in comparison to engineers. While design engineers may not be the primary drivers of firms' technological innovations, they facilitate interdisciplinary communication and decision-making, fostering a design-technology integrated new product development environment. This research has practical implications for firms seeking to optimize their innovation processes by creating interdisciplinary teams that harness the complementary strengths of engineers and design engineers.},\nauthor = {Hur, Jisoo and Hwang, Junseok and Kim, Keungoui},\ndoi = {10.1371/journal.pone.0298089},\nfile = {:D\\:/Mendeley/Hur, Hwang, Kim - 2024 - The role of design engineers Evidence from intra-firm knowledge and collaboration networks.pdf:pdf},\nisbn = {1111111111},\njournal = {PLoS ONE},\nnumber = {2},\npages = {e0298089},\ntitle = {{The role of design engineers : Evidence from intra-firm knowledge and collaboration networks}},\nurl = {http://dx.doi.org/10.1371/journal.pone.0298089},\nvolume = {19},\nyear = {2024}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2025,
+    "title": "{Science space: the evolution of scientific knowledge specialisations across European regions}",
+    "authors": "Kim K., Shin H., Kogler D. F.",
+    "venue": "ZFW - Advances in Economic Geography",
+    "link": "https://doi.org/10.1515/zfw-2025-0058",
+    "keywords": [
+      "evolutionary economic geography",
+      "knowledge relatedness density and entry",
+      "regional knowledge specialisation",
+      "science space",
+      "scientific knowledge",
+      "smart specialisation strategies"
+    ],
+    "bibtex": "@article{Kim2025b,\nabstract = {This study extends evolutionary economic geography to science by mapping how regional scientific capabilities emerge and evolve across Europe. Using Web of Science publications (2000–2017) geo-coded to 1,216 regions in 35 countries and classified into 228 subjects, we construct a pan-European “Science Space” based on subject co-occurrence and relatedness, and test whether relatedness density, i.e., the embeddedness of a subject in a region's existing portfolio, predicts subsequent entry (Revealed Scientific Advantage ≥ 1). Network evidence shows Europe's science system becoming more interdisciplinary, with technology-adjacent subjects (e.g., nanoscience, robotics, computer science) gaining centrality, while Life Sciences & Biomedicine remain dominant by volume. Econometric results (pooled OLS and GLM for binary entry, with region/subject/period fixed effects and controls for the regional economy and knowledge base) indicate that higher relatedness density significantly raises the likelihood of scientific entry. The effect is stronger in non-metropolitan regions and when a subject's initial RSA is very low, consistent with relatedness seeding new capabilities rather than merely consolidating near-threshold strengths. These findings generalise the principle of relatedness from technology to science and advise regional innovation policy to prioritise adjacent scientific opportunities, invest in bridging infrastructures, and design interdisciplinary platforms where relatedness density is high but specialisation has not yet emerged.},\nauthor = {Kim, Keungoui and Shin, Hyunha and Kogler, Dieter F.},\ndoi = {10.1515/zfw-2025-0058},\nfile = {:D\\:/Mendeley/10.1515_zfw-2025-0058 (2).pdf:pdf;:D\\:/Mendeley/Kim, Shin, Kogler - 2025 - Science space the evolution of scientific knowledge specialisations across European regions.pdf:pdf},\nissn = {27481964},\njournal = {ZFW - Advances in Economic Geography},\nkeywords = {evolutionary economic geography,knowledge relatedness density and entry,regional knowledge specialisation,science space,scientific knowledge,smart specialisation strategies},\nnumber = {2-3},\npages = {107--125},\ntitle = {{Science space: the evolution of scientific knowledge specialisations across European regions}},\nurl = {https://doi.org/10.1515/zfw-2025-0058},\nvolume = {69},\nyear = {2025}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2026,
+    "title": "{The Impact of Design and Technology Capability on Patent Quality: Exploring the Role of Interdisciplinary Inventors and Their Technological Knowledge}",
+    "authors": "Hur J., Kim K.",
+    "venue": "R and D Management",
+    "link": "https://doi.org/10.1111/radm.70005",
+    "keywords": [
+      "design-technology integration",
+      "interdisciplinary inventors",
+      "inventive performance",
+      "knowledge centrality",
+      "patent analysis",
+      "patent quality"
+    ],
+    "bibtex": "@article{Hur2026a,\nabstract = {As innovation increasingly requires the integration of technological functionality with aesthetic design and user experience, firms benefit from inventors who can operate across both domains. This study investigates dual-domain inventors—those who contribute to both utility and design patents—as a distinct category of innovation talent. While prior research has emphasized technological specialization, less is known about how inventors who bridge design and technology contribute to innovation outcomes. Using a dataset of patents from 3,110 US public firms, we compare the inventive performance of dual-domain inventors to those engaged solely in technology development. The results show that dual-domain inventors produce higher-value patents, particularly when their technological knowledge occupies central positions within the firm's internal knowledge network. These findings underscore the strategic value of integrating design and technology expertise in product development, highlighting how cross-domain capabilities and organizational knowledge positioning jointly enhance innovation outcomes.},\nauthor = {Hur, Jisoo and Kim, Keungoui},\ndoi = {10.1111/radm.70005},\nfile = {:D\\:/Mendeley/R D Management - 2025 - Hur - The Impact of Design and Technology Capability on Patent Quality Exploring the Role of (1).pdf:pdf;:D\\:/Mendeley/Hur, Kim - 2026 - The Impact of Design and Technology Capability on Patent Quality Exploring the Role of Interdisciplinary Inventors and.pdf:pdf},\nissn = {14679310},\njournal = {R and D Management},\nkeywords = {design-technology integration,interdisciplinary inventors,inventive performance,knowledge centrality,patent analysis,patent quality},\nnumber = {1},\npages = {88--101},\ntitle = {{The Impact of Design and Technology Capability on Patent Quality: Exploring the Role of Interdisciplinary Inventors and Their Technological Knowledge}},\nvolume = {56},\nyear = {2026}\n}"
+  },
+  {
+    "type": "journal",
+    "year": 2025,
+    "title": "{The moderating role of design innovation in the relationship between technology complexity and firm performance}",
+    "authors": "Hur J., Chun Y., Hwang J., Kim K.",
+    "venue": "Technology Analysis and Strategic Management",
+    "link": "https://doi.org/10.1080/09537325.2024.2336555",
+    "keywords": [
+      "Design innovation",
+      "innovation management",
+      "patent analysis",
+      "technology complexity"
+    ],
+    "bibtex": "@article{Hur2025a,\nabstract = {In today's highly competitive markets, firms can no longer ensure competitive advantage through the development of highly complex technologies or differentiation based solely on technological and functional factors. Simultaneously, there is growing recognition that design and aesthetic factors can contribute to firms' competitive advantage. Hence, this study examines the relationship between technology complexity, design innovation, and firm performance to uncover the role of design innovation in exploiting complex technologies. Our main hypothesis is that design innovation positively moderates the negative effect that technology complexity has on firm performance. We used a unique dataset that aggregates all patent data published by US-headquartered publicly-traded firms to the parent company level. We combined this dataset with the Computat and PATSTAT databases based on their matching firm identifier. Focusing on 1,743 firms from 1980 to 2015, the results support our hypotheses. This study contributes to the resource-based view of firms by recognising design as a strategic resource that firms can utilise to gain a competitive advantage, especially in the presence of high technology complexity.},\nauthor = {Hur, Jisoo and Chun, Youngsam and Hwang, Junseok and Kim, Keungoui},\ndoi = {10.1080/09537325.2024.2336555},\nfile = {:D\\:/Mendeley/The moderating role of design innovation in the relationship between technology complexity and firm performance.pdf:pdf;:D\\:/Mendeley/Hur et al. - 2025 - The moderating role of design innovation in the relationship between technology complexity and firm performance.pdf:pdf},\nissn = {14653990},\njournal = {Technology Analysis and Strategic Management},\nkeywords = {Design innovation,innovation management,patent analysis,technology complexity},\nnumber = {11},\npages = {1980--1993},\ntitle = {{The moderating role of design innovation in the relationship between technology complexity and firm performance}},\nvolume = {37},\nyear = {2025}\n}"
   }
 ]
